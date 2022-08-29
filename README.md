@@ -7,7 +7,7 @@ Growth mindset is the drive to keep learning and working forward even through se
 
 3 reminders to keep myself in the growth mindset:
 
-- It's supposed to be hard!
+- It's supposed to be hard! Keep going!
 - There is always a solution, most times there are many solutions
 - Try to be a little better everyday
 

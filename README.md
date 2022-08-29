@@ -1,6 +1,8 @@
 # reading-notes
 *Where I will put all the notes for my reading assignments*
 
+![](https://ca.slack-edge.com/T039KG69K-U0404KAM68Y-c572e8c6c92c-512)
+
 Hi my name is **Raphael**! I like pizza!
 
 Growth mindset is the drive to keep learning and working forward even through setbacks.

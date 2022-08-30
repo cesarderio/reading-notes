@@ -19,33 +19,15 @@
 1. Clarity
 * Wireframe is clear what the site is for.
 * what the user can do.
-* 
-
-Your wireframe needs to answer the questions of what that site page is, what the user 
-can do there, and if it satisfies their needs. Your wireframe is an aid for you to 
-visualize the layout of your site page and ensure that the user’s most important 
-questions are answered and goals are achievable without being distracted by more aesthetic considerations.
+* If it satisfies their needs.
 
 2. Confidence
-Ease of navigation through your site and clear calls-to-action increase user confidence 
-in your brand. If your site page is unpredictable, or has buttons or boxes in unexpected 
-places user confidence diminishes. A lot of this information can already be organized at 
-the wireframing stage. Using familiar navigational processes and placing buttons in 
-commonly-used and intuitive positions, user confidence will soar–and that’s before you’ve 
-even gotten around to thinking about colors and styles.
+* Ease of navigation around site
 
 3. Simplicity is key
-Too much information, copy, or links, can be distracting to the user and will have a 
-detrimental affect on your users’ ability to achieve their goals. You want your users 
-to be able to find their way through your site with as little extra ‘fluff’ as possible, 
-to the elements that map to their most significant goals in a given context.
+* Too much information or options can distract the user.
+* User ability to navigate is important.
 
-Your wireframe should be a visual guide to the framework of your site and how it will be 
-navigated. Attractiveness at this stage is not a consideration. Once you’ve decided who 
-your product or service is for, you can begin laying out the information they are looking 
-for in an intuitive and natural way that is not only familiar to them as users of this 
-kind of service, but that also guides them towards the conversion point or otherwise helps 
-them to achieve their goals in the interaction. By presenting your information in this way, 
-you are aligning both the business goals of your site with the needs of the customer.
+Wireframe should be a visual guide to the framework of the website you are building and how it should look and feel to navigate. 
 
 

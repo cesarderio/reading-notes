@@ -6,7 +6,7 @@
 * Text editors are on of the most important tools a web developer has available.
 * There are many helpful things like *code completion*, *themes*, and *syntax highlighting*
 
-### An "IED" is multiple programs in one.
+### An "IDE" is multiple programs in one.
 * text editor
 * file manager
 * compiler

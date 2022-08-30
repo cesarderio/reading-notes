@@ -2,7 +2,7 @@
 
 [Class 3 Notes](./class3.md)
 
-
+[Class 4 Notes](./class4.md)
 
 
 

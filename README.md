@@ -1,3 +1,5 @@
+[Class 2 Notes](./class2.md)
+
 # reading-notes
 *Where I will put all the notes for my reading assignments*
 

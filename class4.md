@@ -1,3 +1,5 @@
+# Class 4 reading notes
+
 ## Wireframe 
 * low fidelity sketch 
 * define and plan the information hierarchy of their design for website

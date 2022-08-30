@@ -28,7 +28,6 @@
 
 ## More information
 * everything is a file
-* 
 * Linux is an extensionless system
 * A file extension is usually a set of 2-4 characters after the end of the file.
 * A path is a way to get to the location (file)

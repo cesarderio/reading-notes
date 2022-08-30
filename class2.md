@@ -25,3 +25,12 @@
 ### Important Concepts
 * Relative Path - File or directory location relative to where we currently are in the file system
 * Absolute Path - File or directory location in relation to the root of the file system
+
+## More information
+* everything is a file
+* 
+* Linux is an extensionless system
+* A file extension is usually a set of 2-4 characters after the end of the file.
+* A path is a way to get to the location (file)
+* Linux is case sensitive
+* Anything inside qoutes is considered a single item

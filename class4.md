@@ -1,41 +1,28 @@
 
-<head>
-<title>Class 4 notes</title>
-</head>
-<body>
-    <header>
-    <h1>Class 4 reading notes</h1>
-    </header>
+# Class 4 notes
 
-<main>
-<section>
-<h2>Wireframe</h2>
-<ul>
+## Wireframe
+
+* low fidelity sketch</li>
+
+* define and plan the information hierarchy of their design for website
+### Different types of wireframes:
+
+* sketch hand drawn
+* digital
+
+### Basic ideas to keep in mind when creating framework:
 
 
-<li>low fidelity sketch</li>
+* How can you organize the content to support your user's goals?
+* Which information should be most prominent? Where should your main message go?
+* What should the user see first when arriving at the page?
+* What will the user expect to see on certain areas of the page?
+* Which buttons or touch points does the user need to complete the desired actions?
 
-<li>define and plan the information hierarchy of their design for website</li></ul>
+### Clarity
 
-<h3>Different types of wireframes:</h3>
-<ul>
-
-<li>sketch hand drawn</li>
-<li>digital</li></ul>
-
-<h3>Basic ideas to keep in mind when creating framework:<h3>
-<ul>
-
-<li>How can you organize the content to support your user's goals?</li>
-<li>Which information should be most prominent? Where should your main message go?</li>
-<li>What should the user see first when arriving at the page?</li>
-<li>What will the user expect to see on certain areas of the page?</li>
-<li>Which buttons or touch points does the user need to complete the desired actions?</li> </ul>
-
-<h3>Clarity</h3>
-<ul>
-
-<li>Wireframe is clear what the site is for.</li>
+* Wireframe is clear what the site is for.
 <li>what the user can do.</li>
 <li>If it satisfies their needs.</li>
 </ul>
@@ -64,20 +51,15 @@
 <p>
 <img src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png" />
 </p>
-<h3>Main parts of element:</h3>
-<ul>
+<>Main parts of element:</
 
-<li>Opening Tag</li>
-<li>Closing Tag</li>
-<li>Content</li>
-<li>Element</li>
+* Opening Tag
+* Closing Tag
+* Content
+* Element
+  
+## Semantics
 
-</ul>
-    
-<h2>Semantics</h2>
-    <ul><li>Refers to the meaning of a piece of code.</li></ul>
-<ul><li>There are around 100 semantic elements.</li>
-    </ul>
+* Refers to the meaning of a piece of code.
 
-
-
+* There are around 100 semantic elements.

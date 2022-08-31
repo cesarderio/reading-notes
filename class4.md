@@ -50,8 +50,7 @@
 <li>User ability to navigate is important.</li></ul>
 
 <p>Wireframe should be a visual guide to the framework of the website you are building and how it should look and feel to navigate.</p>
-</section>
-<section>
+
 <h2>HTML </h2>
 <h3>HTML basics:</h3>
 <ul>

@@ -46,7 +46,7 @@
 <h3>Simplicity is key<h3>
 <ul>
 
-<li><h5>Too much information or options can distract the user.</h5></li>
+<li><p>Too much information or options can distract the user.</p></li>
 <li>User ability to navigate is important.</li></ul>
 
 <p>Wireframe should be a visual guide to the framework of the website you are building and how it should look and feel to navigate.</p>

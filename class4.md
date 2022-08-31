@@ -26,7 +26,7 @@
 <h3>Basic ideas to keep in mind when creating framework:<h3>
 <ul>
 
-<li>How can you organize the content to support your users’ goals?</li>
+<li>How can you organize the content to support your user's goals?</li>
 <li>Which information should be most prominent? Where should your main message go?</li>
 <li>What should the user see first when arriving at the page?</li>
 <li>What will the user expect to see on certain areas of the page?</li>
@@ -46,7 +46,7 @@
 <h3>Simplicity is key<h3>
 <ul>
 
-<li>Too much information or options can distract the user.</li>
+<li><h5>Too much information or options can distract the user.</h5></li>
 <li>User ability to navigate is important.</li></ul>
 
 <p>Wireframe should be a visual guide to the framework of the website you are building and how it should look and feel to navigate.</p>

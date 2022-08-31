@@ -5,6 +5,9 @@
 [Class 4 Notes](./class4.md)
 
 
+[Class 5 Notes](./class5.md)
+
+
 
 # reading-notes
 *Where I will put all the notes for my reading assignments*

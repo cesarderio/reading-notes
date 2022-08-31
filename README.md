@@ -1,3 +1,6 @@
+# Reading-notes
+*Where I will put all the notes for my reading assignments*
+
 [Class 2 Notes](./class2.md)
 
 [Class 3 Notes](./class3.md)
@@ -8,8 +11,9 @@
 
 [Class 6 Notes](./class6.md)
 
-# reading-notes
-*Where I will put all the notes for my reading assignments*
+[Class 7 Notes](./class7.md)
+
+[Class 8 Notes](./class8.md)
 
 ![](https://ca.slack-edge.com/T039KG69K-U0404KAM68Y-c572e8c6c92c-512)
 

@@ -79,4 +79,4 @@
 <p>There are around 100 semantic elements.</p>
 </section>
 
-</main>
+

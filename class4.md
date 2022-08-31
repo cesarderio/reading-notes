@@ -74,6 +74,7 @@
 <li>Element</li>
 
 </ul>
+    </section>
 <h2>Semantics</h2>
 <p>Refers to the meaning of a piece of code.</p>
 <p>There are around 100 semantic elements.</p>

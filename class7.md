@@ -4,7 +4,7 @@
 
 * The order in which the computer executes statements in a script.
 
-* Code is run in the order that it is given, unless there are conditionals and/loops.
+* Code is run in the order that it is given, unless there are conditionals and/or loops.
 
 * There are many control structures, including conditionals, loops and functions.
 
@@ -24,9 +24,9 @@
 
 * The code to be executed, by the function, is placed inside curly brackets: {}
 
-* **parameters** are listed inside the parentheses () in the function definition.
+* **Parameters** are listed inside the parentheses () in the function definition.
 
-* **arguments** are the **values** received by the function when it is invoked.
+* **Arguments** are the **values** received by the function when it is invoked.
 
 ## Operators:
 

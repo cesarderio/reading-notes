@@ -1,4 +1,4 @@
-# Programming with JaveScript
+# Programming with JavaScript
 
 ## Control Flow:
 

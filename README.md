@@ -2,9 +2,6 @@
 
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified personal trainer. Now working towards full stack web development.
 
-# Reading-notes
-*Where I will put all the notes for my reading assignments*
-
 ## Code 102 Reading-notes:
 
 [Class 2 Notes](/102-reading-notes/class2.md)

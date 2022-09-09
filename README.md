@@ -3,7 +3,7 @@
 
 ## Code 102 Reading-notes:
 
-[Class 2 Notes](./102-reading-notes/class2.md)
+[Class 2 Notes](/102-reading-notes/class2.md)
 
 [Class 3 Notes](./102-reading-notes/class3.md)
 

@@ -1,6 +1,6 @@
 # Class 1 reading notes
 
-### Getting started with the web:
+### Getting started with the web
 
 * Introduction to practicalities of web development
 * Installing software
@@ -12,25 +12,24 @@
 * Publishing sample code
 * How the web works
 
-
-### How the Web Works:
+### How the Web Works
 
 * *Clients* and *Servers* are computers connected to the internet.
 * *Client* requests information, website, etc. They are the user's internet connected devices.
 * *Server* responds, they are the computers that store webpages, sites, or apps.
 * *Internet connection* allows you to send and receive data on the web.
-* *TCP/IP* Transmission Control Protocol and Internet Protocol. These are communication protocols that define how data should travel across the internet. 
+* *TCP/IP* Transmission Control Protocol and Internet Protocol. These are communication protocols that define how data should travel across the internet.
 * *DNS* Domain Name System is like an address book for websites.
-* *HTTP* Hypertext Transfer Protocol is an application protocol that defines a language for clients and servers to speak to each other. 
+* *HTTP* Hypertext Transfer Protocol is an application protocol that defines a language for clients and servers to speak to each other.
 * *Component files* Website is made up of different files, two main types:
-    * *Code files* HTML, CSS, and JavaScript
-    * *Assets* images, music, video, word documents, and pdfs.
+  * *Code files* HTML, CSS, and JavaScript
+  * *Assets* images, music, video, word documents, and pdfs.
 
+### Website Design and Process
 
-### Website Design and Process:
+#### Planning
 
-#### Planning:
-* What is your website about? 
+* What is your website about?
 * What information are you presenting?
 * What does your website look like?
 * Sketching
@@ -40,30 +39,33 @@
 * Images
 * Font
 
-### JavaScript Basics:
+### JavaScript Basics
 
 * *JavaScript* powerful programming language that adds interactions to websites.
 * Versatile, beginner friendly, relatively compact, yet very flexible.
-* *API's* Browser Application Programming Interface - built into web browsers, provide functionality. 
+* *API's* Browser Application Programming Interface - built into web browsers, provide functionality.
 
 1. Compose a short poem describing how HTTP sends data between computers.
+
 * The client requests information, the server gets the request and responds with the correct information i.e. (website). This is how HTTP sends data between computers.
 
-
 2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
-* When the browser receives the information it goes and "reads" the HTML, CSS and JS to start rendering the website for the user. 
 
+* When the browser receives the information it goes and "reads" the HTML, CSS and JS to start rendering the website for the user.
 
 3. How can you find images to add to a Website?
+
 * You can use google images, or websites with free to use images. You need the link or location of the image to put it into your website.
 
 4. How do you create a *String* vs a *Number* in JavaScript:
+
 * A string will have qoutations around it, a number does not need qoutations.
 
 5. What is a *Variable* and why are they important in JavaScript?
-* Variables are containers that store values in JavaScript. Variables are necessary to do anything interesting in programming. 
 
-## Introduction to HTML:
+* Variables are containers that store values in JavaScript. Variables are necessary to do anything interesting in programming.
+
+## Introduction to HTML
 
 1. What is an HTML attribute?
 
@@ -87,12 +89,11 @@
 
 * By having more detailed metadata will help SEO's find more appropriate or relatable content that it is looking for.
 
-6. How is the *<meta> HTML tag used when specifying metadata?
+6. How is the *<meta>* HTML tag used when specifying metadata?
 
-* It is used for naming, authors/sources and description of content for the webpage. 
+* It is used for naming, authors/sources and description of content for the webpage.
 
-
-## How to start to design a Website:
+## How to start to design a Website
 
 1. What is the first step to designing a Website?
 
@@ -102,9 +103,9 @@
 
 * What do I want to accomplish with the website?
 
-## Semantics:
+## Semantics
 
-1. Why should you use an <h1> element over a <span> element to display a top level heading?
+1. Why should you use an *<h1>* element over a *<span>* element to display a top level heading?
 
 * *<h1>* will make the text a heading, a "role" of importance on the page.
 
@@ -112,7 +113,7 @@
 
 * It is better and easier to understand what parts of the code is for what purpose. It makes more sense to computer and user.
 
-## What is JavaScript:
+## What is JavaScript
 
 1. Describe 2 things that require JavaScript in the Browser?
 
@@ -122,4 +123,4 @@
 
 * It can be done inline, internal or external.
 
-## Things I want to know more about:
+## Things I want to know more about

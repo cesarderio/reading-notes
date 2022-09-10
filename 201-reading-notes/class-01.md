@@ -1,6 +1,6 @@
 # Class 1 reading notes
 
-### Getting started with the web
+### Getting started with the web:
 
 * Introduction to practicalities of web development
 * Installing software
@@ -13,7 +13,7 @@
 * How the web works
 
 
-### How the Web Works
+### How the Web Works:
 
 * *Clients* and *Servers* are computers connected to the internet.
 * *Client* requests information, website, etc. They are the user's internet connected devices.
@@ -29,7 +29,7 @@
 
 ### Website Design and Process
 
-#### Planning
+#### Planning:
 * What is your website about? 
 * What information are you presenting?
 * What does your website look like?
@@ -63,7 +63,7 @@
 5. What is a *Variable* and why are they important in JavaScript?
 * Variables are containers that store values in JavaScript. Variables are necessary to do anything interesting in programming. 
 
-## Introduction to HTML
+## Introduction to HTML:
 
 1. What is an HTML attribute?
 
@@ -74,7 +74,7 @@
 
 * opening tag,content and closing tag, (like a sandwich)
 
-3. What is the Difference between *<article>* and *<section> element tags?
+3. What is the Difference between *<article>* and *<section>* element tags?
 
 * *article* encloses block of related content that makes sense on its own.
 * *section* is more for grouping together a single part of a page that is similar theme.
@@ -92,7 +92,7 @@
 * It is used for naming, authors/sources and description of content for the webpage. 
 
 
-## How to start to design a Website
+## How to start to design a Website:
 
 1. What is the first step to designing a Website?
 
@@ -102,7 +102,7 @@
 
 * What do I want to accomplish with the website?
 
-## Semantics
+## Semantics:
 
 1. Why should you use an <h1> element over a <span> element to display a top level heading?
 

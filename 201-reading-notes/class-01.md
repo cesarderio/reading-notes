@@ -27,7 +27,7 @@
     * *Assets* images, music, video, word documents, and pdfs.
 
 
-### Website Design and Process
+### Website Design and Process:
 
 #### Planning:
 * What is your website about? 

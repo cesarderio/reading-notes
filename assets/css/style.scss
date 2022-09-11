@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+* {
+    align-self: center;
+}
 h1, h2, h3, h4 { 
     text-align: center;
     align-self: center;
@@ -19,4 +22,7 @@ img {
 }
 a {
     align-self: center;
+}
+p {
+    align-self: left;
 }

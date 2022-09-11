@@ -3,9 +3,9 @@
 ![](https://ca.slack-edge.com/T039KG69K-U0404KAM68Y-c572e8c6c92c-512)
 
 
-
+<p align="center">
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified personal trainer. Now working towards full stack web development.
-
+</p>
 
 ## Code 102 Reading Notes:
 
@@ -69,11 +69,11 @@ Growth mindset is the drive to keep learning and working forward even through se
 
 3 reminders to keep myself in the growth mindset:
 
-It's supposed to be hard! Keep going!
+* It's supposed to be hard! Keep going!
   
-There is always a solution, most times there are many solutions
+* There is always a solution, most times there are many solutions
   
-Try to be a little better everyday
+* Try to be a little better everyday
 
 
 ## Things I want to know more about:

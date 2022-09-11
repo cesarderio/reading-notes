@@ -8,7 +8,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 ## Code 102 Reading Notes:
 
 
-[Class 2 Notes](/102-reading-notes/class2.md)
+#### [Class 2 Notes](/102-reading-notes/class2.md)
 
 [Class 3 Notes](/102-reading-notes/class3.md)
 
@@ -78,8 +78,8 @@ Growth mindset is the drive to keep learning and working forward even through se
 
 
 
-Link to my Github account: 
-[Github.com/cesarderio](https://github.com/cesarderio)
+#### Link to my Github account: 
+#### [Github.com/cesarderio](https://github.com/cesarderio)
 
 ![](https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo-500x289.jpg)
 

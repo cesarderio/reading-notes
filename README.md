@@ -10,51 +10,51 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 2 Notes](/102-reading-notes/class2.md)
 
-[Class 3 Notes](/102-reading-notes/class3.md)
+#### [Class 3 Notes](/102-reading-notes/class3.md)
 
-[Class 4 Notes](/102-reading-notes/class4.md)
+#### [Class 4 Notes](/102-reading-notes/class4.md)
 
-[Class 5 Notes](/102-reading-notes/class5.md)
+#### [Class 5 Notes](/102-reading-notes/class5.md)
 
-[Class 6 Notes](/102-reading-notes/class6.md)
+#### [Class 6 Notes](/102-reading-notes/class6.md)
 
-[Class 7 Notes](/102-reading-notes/class7.md)
+#### [Class 7 Notes](/102-reading-notes/class7.md)
 
-[Class 8 Notes](/102-reading-notes/class8.md)
+#### [Class 8 Notes](/102-reading-notes/class8.md)
 
 
 ## Code 201 Reading Notes:
 
 
-[Class 1 Notes](/201-reading-notes/class-01.md)
+#### [Class 1 Notes](/201-reading-notes/class-01.md)
 
-[Class 2 Notes](/201-reading-notes/class-02.md)
+#### [Class 2 Notes](/201-reading-notes/class-02.md)
 
-[Class 3 Notes](/201-reading-notes/class-03.md)
+#### [Class 3 Notes](/201-reading-notes/class-03.md)
 
-[Class 4 Notes](/201-reading-notes/class-04.md)
+#### [Class 4 Notes](/201-reading-notes/class-04.md)
 
-[Class 5 Notes](/201-reading-notes/class-05.md)
+#### [Class 5 Notes](/201-reading-notes/class-05.md)
 
-[Class 6 Notes](/201-reading-notes/class-06.md)
+#### [Class 6 Notes](/201-reading-notes/class-06.md)
 
-[Class 7 Notes](/201-reading-notes/class-07.md)
+#### [Class 7 Notes](/201-reading-notes/class-07.md)
 
-[Class 8 Notes](/201-reading-notes/class-08.md)
+#### [Class 8 Notes](/201-reading-notes/class-08.md)
 
-[Class 9 Notes](/201-reading-notes/class-09.md)
+#### [Class 9 Notes](/201-reading-notes/class-09.md)
 
-[Class 10 Notes](/201-reading-notes/class-10.md)
+#### [Class 10 Notes](/201-reading-notes/class-10.md)
 
-[Class 11 Notes](/201-reading-notes/class-11.md)
+#### [Class 11 Notes](/201-reading-notes/class-11.md)
 
-[Class 12 Notes](/201-reading-notes/class-12.md)
+#### [Class 12 Notes](/201-reading-notes/class-12.md)
 
-[Class 13 Notes](/201-reading-notes/class-13.md)
+#### [Class 13 Notes](/201-reading-notes/class-13.md)
 
-[Class 14 Notes](/201-reading-notes/class-14.md)
+#### [Class 14 Notes](/201-reading-notes/class-14.md)
 
-[Class 15 Notes](/201-reading-notes/class-15.md)
+#### [Class 15 Notes](/201-reading-notes/class-15.md)
 
 
 

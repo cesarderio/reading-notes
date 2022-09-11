@@ -86,8 +86,8 @@ List 3 different types of comparison operators.
 
 * Greater than, equal to and less than or equal to.
 
-What is the difference between the logical operator _&&_ and \||?
+What is the difference between the logical operator _&&_ and \|\|?
 
-* The _&&_ operator checks to see if both evaluate to true, \|| is for one or the other to evaluate to true.
+* The _&&_ operator checks to see if both evaluate to true, \|\| is for one or the other to evaluate to true.
 
 ## Things I want to know more about:

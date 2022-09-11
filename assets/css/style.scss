@@ -3,8 +3,13 @@
 
 @import "{{ site.theme }}";
 
-h1, h2, h3 { 
+
+h1, h2, h3, h4 { 
     text-align: center;
+    align-self: center;
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;
 }
 
 img { 
@@ -13,3 +18,15 @@ img {
     margin-left: auto;  
     margin-right: auto;  
 }
+
+a {
+    align-self: center;
+}
+
+
+span.site-footer-owner, span.site-footer-credits {
+    display: block;
+    margin-left: auto;  
+    margin-right: auto;
+}
+

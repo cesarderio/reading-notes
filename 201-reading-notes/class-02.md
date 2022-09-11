@@ -16,7 +16,7 @@ Why is it important to use semantic elements in our HTML?
 
 How many levels of headings are there in HTML?
 
-* There are 6 "levels of headings", _<h1>_ to _<h6>_.
+* There are 6 "levels of headings", h1 to h6.
 
 What are some uses for the **sup** and **sub** elements?
 

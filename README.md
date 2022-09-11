@@ -2,9 +2,9 @@
 
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified personal trainer. Now working towards full stack web development.
 
+<div align="center">
 ## Code 102 Reading Notes:
 
-<p align="center">
 
 [Class 2 Notes](/102-reading-notes/class2.md)
 
@@ -20,7 +20,9 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 [Class 8 Notes](/102-reading-notes/class8.md)
 
+
 ## Code 201 Reading Notes:
+
 
 [Class 1 Notes](/201-reading-notes/class-01.md)
 
@@ -51,7 +53,8 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 [Class 14 Notes](/201-reading-notes/class-14.md)
 
 [Class 15 Notes](/201-reading-notes/class-15.md)
-</p>
+</div>
+
 ## Things I want to know more about:
 
 

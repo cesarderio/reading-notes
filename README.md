@@ -1,18 +1,12 @@
-<div align="center">
+
   
 ![](https://ca.slack-edge.com/T039KG69K-U0404KAM68Y-c572e8c6c92c-512)
 
-</div>
 
-<div align="center">
 
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified personal trainer. Now working towards full stack web development.
 
-</div>
-  
-<div align="center">
-  
-  
+
 ## Code 102 Reading Notes:
 
 
@@ -63,12 +57,11 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 [Class 14 Notes](/201-reading-notes/class-14.md)
 
 [Class 15 Notes](/201-reading-notes/class-15.md)
-</div>
 
 
 
 
-<div align="center">
+
 
   
 
@@ -86,18 +79,9 @@ Try to be a little better everyday
 ## Things I want to know more about:
 
 
-  
-</div>  
 
-
-<div align="center">
-  
-
-  
 Link to my Github account: 
 [Github.com/cesarderio](https://github.com/cesarderio)
 
 ![](https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo-500x289.jpg)
-  
-  
-</div>
+

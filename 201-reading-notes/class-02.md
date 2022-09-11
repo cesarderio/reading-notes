@@ -2,11 +2,11 @@
 
 #### These basics for HTML, CSS and JavaScript are important to learn and understand to be able to build websites. Without these basics, you can not build upon that knowledge to create more dynamic websites.
 
--> <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML>
+<https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML>
 
--> <https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured>
+<https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured>
 
--> <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>
+<https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>
 
 ### HTML Text Fundamentals. HTML Advanced Text Formatting:
 
@@ -86,8 +86,8 @@ List 3 different types of comparison operators.
 
 * Greater than, equal to and less than or equal to.
 
-What is the difference between the logical operator _&&_ and [||]?
+What is the difference between the logical operator _&&_ and \||?
 
-* The _&&_ operator checks to see if both evaluate to true, [||] is for one or the other to evaluate to true.
+* The _&&_ operator checks to see if both evaluate to true, \|| is for one or the other to evaluate to true.
 
 ## Things I want to know more about:

@@ -63,7 +63,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
   
 
-Growth mindset is the drive to keep learning and working forward even through setbacks.
+### Growth mindset is the drive to keep learning and working forward even through setbacks.
 
 #### 3 reminders to keep myself in the growth mindset:
 

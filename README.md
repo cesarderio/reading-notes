@@ -4,7 +4,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 ## Code 102 Reading Notes:
 
-<p align="center">
+
 
 [Class 2 Notes](/102-reading-notes/class2.md)
 
@@ -51,7 +51,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 [Class 14 Notes](/201-reading-notes/class-14.md)
 
 [Class 15 Notes](/201-reading-notes/class-15.md)
-</p>
+
 ## Things I want to know more about:
 
 

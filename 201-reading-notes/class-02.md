@@ -64,11 +64,11 @@ What data type is a sequence of text enclosed in single quote marks?
 
 * A **String** is text inside qoutes.
 
-2.List 4 types of JavaScript operators.
+List 4 types of JavaScript operators.
 
 * addition, subtraction, multiplication and subtraction, but there are many more.
 
-3.Describe a real world Problem you could solve with a Function.
+Describe a real world Problem you could solve with a Function.
 
 * You can create login information with credentials for a social media site.
 
@@ -86,8 +86,8 @@ List 3 different types of comparison operators.
 
 * Greater than, equal to and less than or equal to.
 
-What is the difference between the logical operator _&&_ and _|| ?
+What is the difference between the logical operator _&&_ and [||]?
 
-* The _&&_ operator checks to see if both evaluate to true, || is for one or the other to evaluate to true.
+* The _&&_ operator checks to see if both evaluate to true, [||] is for one or the other to evaluate to true.
 
 ## Things I want to know more about:

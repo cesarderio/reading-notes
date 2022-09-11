@@ -1,6 +1,6 @@
 # Class 1 reading notes
 
-### Getting started with the web
+### Getting started with the web:
 
 * Introduction to practicalities of web development
 * Installing software
@@ -12,7 +12,7 @@
 * Publishing sample code
 * How the web works
 
-### How the Web Works
+### How the Web Works:
 
 * *Clients* and *Servers* are computers connected to the internet.
 * *Client* requests information, website, etc. They are the user's internet connected devices.
@@ -25,7 +25,7 @@
   * *Code files* HTML, CSS, and JavaScript
   * *Assets* images, music, video, word documents, and pdfs.
 
-### Website Design and Process
+### Website Design and Process:
 
 #### Planning
 
@@ -39,7 +39,7 @@
 * Images
 * Font
 
-### JavaScript Basics
+### JavaScript Basics:
 
 * *JavaScript* powerful programming language that adds interactions to websites.
 * Versatile, beginner friendly, relatively compact, yet very flexible.
@@ -65,7 +65,7 @@
 
 * Variables are containers that store values in JavaScript. Variables are necessary to do anything interesting in programming.
 
-## Introduction to HTML
+## Introduction to HTML:
 
 1. What is an HTML attribute?
 
@@ -93,7 +93,7 @@
 
 * It is used for naming, authors/sources and description of content for the webpage.
 
-## How to start to design a Website
+## How to start to design a Website:
 
 1. What is the first step to designing a Website?
 
@@ -103,7 +103,7 @@
 
 * What do I want to accomplish with the website?
 
-## Semantics
+## Semantics:
 
 1. Why should you use an h1 element over a span element to display a top level heading?
 
@@ -113,7 +113,7 @@
 
 * It is better and easier to understand what parts of the code is for what purpose. It makes more sense to computer and user.
 
-## What is JavaScript
+## What is JavaScript:
 
 1. Describe 2 things that require JavaScript in the Browser?
 
@@ -123,4 +123,4 @@
 
 * It can be done inline, internal or external.
 
-## Things I want to know more about
+## Things I want to know more about:

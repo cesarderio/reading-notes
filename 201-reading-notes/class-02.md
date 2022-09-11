@@ -1,10 +1,12 @@
 # Class 2 reading notes
 
-#### These basics for HTML, CSS and JavaScript are important to learn and understand to be able to build websites. Without these basics, you can not build upon that knowledge to create more dynamic websites
+#### These basics for HTML, CSS and JavaScript are important to learn and understand to be able to build websites. Without these basics, you can not build upon that knowledge to create more dynamic websites.
 
--> <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML>
--> <https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured>
--> <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>
+-> https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+
+-> https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured
+
+-> https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
 ### HTML Text Fundamentals. HTML Advanced Text Formatting:
 
@@ -28,7 +30,7 @@ When using the _abbr_ element, what attribute must be added to provide the full 
 
 What are ways we can apply CSS to our HTML?
 
-*Inline, internally and externally.
+* Inline, internally and externally.
 
 Why should we avoid using inline styles?
 
@@ -42,11 +44,11 @@ Review the block of code below and answer the following questions:
 
    2.Which components are the CSS declarations?
 
-   *The declarations are the properties (_color_ and _padding_) paired with their values.
+   * The declarations are the properties (_color_ and _padding_) paired with their values.
 
    3.Which components are considered properties?
 
-   *The _color_ and _padding_ are the properties.
+   * The _color_ and _padding_ are the properties.
 
    > h2 {
 
@@ -64,7 +66,7 @@ What data type is a sequence of text enclosed in single quote marks?
 
 2.List 4 types of JavaScript operators.
 
-*addition, subtraction, multiplication and subtraction, but there are many more.
+* addition, subtraction, multiplication and subtraction, but there are many more.
 
 3.Describe a real world Problem you could solve with a Function.
 
@@ -72,20 +74,20 @@ What data type is a sequence of text enclosed in single quote marks?
 
 ### Making Decisions in Your Code - Conditionals:
 
-An if statement checks a ** and if it evaluates to \_**, then the code block will execute.
+An if statement checks a ___ and if it evaluates to ___, then the code block will execute.
 
-*if statement checks a conditional and if it evaluates to true to executes the block of code.
+* if statement checks a conditional and if it evaluates to true to executes the block of code.
 
 What is the use of an _else if_?
 
-*To create more conditionals, other orders to execute, more possibilities.
+* To create more conditionals, other orders to execute, more possibilities.
 
 List 3 different types of comparison operators.
 
 * Greater than, equal to and less than or equal to.
 
-What is the difference between the logical operator _&&_ and _||_ ?
+What is the difference between the logical operator _&&_ and _|| ?
 
-* The _&&_ operator checks to see if both evaluate to true, _||_ is for one or the other to evalute to true.
+* The _&&_ operator checks to see if both evaluate to true, || is for one or the other to evaluate to true.
 
 ## Things I want to know more about:

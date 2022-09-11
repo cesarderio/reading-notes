@@ -3,9 +3,7 @@
 ![](https://ca.slack-edge.com/T039KG69K-U0404KAM68Y-c572e8c6c92c-512)
 
 
-<p align="center">
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified personal trainer. Now working towards full stack web development.
-</p>
 
 ## Code 102 Reading Notes:
 

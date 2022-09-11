@@ -105,9 +105,9 @@
 
 ## Semantics
 
-1. Why should you use an *<h1>* element over a *<span>* element to display a top level heading?
+1. Why should you use an h1 element over a span element to display a top level heading?
 
-* *<h1>* will make the text a heading, a "role" of importance on the page.
+* h1 will make the text a heading, a "role" of importance on the page.
 
 2. What are the benefits of using semantic tags in our HTML?
 

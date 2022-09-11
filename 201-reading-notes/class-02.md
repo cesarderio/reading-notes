@@ -6,19 +6,19 @@
 
 ### HTML Text Fundamentals. HTML Advanced Text Formatting:
 
-1.Why is it important to use semantic elements in our HTML?
+1. Why is it important to use semantic elements in our HTML?
 
 * It shows the structure of the webpage and it makes it more efficient to parse information in the right structure for each page.
 
-2.How many levels of headings are there in HTML?
+2. How many levels of headings are there in HTML?
 
 * There are 6 "levels of headings", *<h1>* to *<h6>*.
 
-3.What are some uses for the **sup** and **sub** elements?
+3. What are some uses for the **sup** and **sub** elements?
 
 * Showing the correct output for chemical formulae, mathematical equations and dates.
 
-4.When using the *<abbr>* element, what attribute must be added to provide the full expansion of the term?
+4. When using the *abbr* element, what attribute must be added to provide the full expansion of the term?
 
 * The *title* attribute.
 
@@ -47,8 +47,11 @@
     * The *color* and *padding* are the properties.
 
     > h2 {
+
     >    color: black;
+
     >    padding: 5px;
+
     > }
 
 ![code block](/Users/raphaelcesar/projects/courses/reading-notes/Screen Shot 2022-09-10 at 12.42.42 PM.png)
@@ -85,4 +88,4 @@
 
 * The *&&* operator checks to see if both evaluate to true, *||* is for one or the other to evalute to true.
 
-## Things I want to know more about
+## Things I want to know more about:

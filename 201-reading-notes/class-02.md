@@ -84,7 +84,7 @@
 
 * Greater than, equal to and less than or equal to.
 
-4. What is the difference between the logical operator *&&* and *||*?
+4. What is the difference between the logical operator **&&** and **||** ?
 
 * The *&&* operator checks to see if both evaluate to true, *||* is for one or the other to evalute to true.
 

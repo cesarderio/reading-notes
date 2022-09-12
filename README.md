@@ -7,10 +7,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 ## Code 102 Reading Notes:
 
-<<<<<<< HEAD
 
-=======
->>>>>>> c5df4d01a29382fe5202c69a63ad2a92f9cc29d4
 
 #### [Class 2 Notes](/102-reading-notes/class2.md)
 

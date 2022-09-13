@@ -38,7 +38,7 @@
   *
 
 
-![image](https://github.com/cesarderio/reading-notes/blob/main/201-reading-notes/img/Array.png)
+![image](/Users/raphaelcesar/projects/courses/reading-notes/img/Array.png)
 
 
 3. List **five** shorthand operators for assignment in javascript and describe what they do.

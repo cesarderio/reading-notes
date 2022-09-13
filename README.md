@@ -1,12 +1,11 @@
 
-  
+
 ![](https://ca.slack-edge.com/T039KG69K-U0404KAM68Y-c572e8c6c92c-512)
 
 
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified personal trainer. Now working towards full stack web development.
 
 ## Code 102 Reading Notes:
-
 
 
 #### [Class 2 Notes](/102-reading-notes/class2.md)
@@ -62,16 +61,16 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 
 
-  
+
 
 ### Growth mindset is the drive to keep learning and working forward even through setbacks.
 
 #### 3 reminders to keep myself in the growth mindset:
 
 * It's supposed to be hard! Keep going!
-  
+
 * There is always a solution, most times there are many solutions
-  
+
 * Try to be a little better everyday
 
 
@@ -84,7 +83,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 
 
-#### Link to my Github account: 
+#### Link to my Github account:
 #### [Github.com/cesarderio](https://github.com/cesarderio)
 
 ![](https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo-500x289.jpg)

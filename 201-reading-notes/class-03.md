@@ -37,8 +37,8 @@
 2. Is the **people** array a valid JavaScript array? If so, how can I access the values stored? If not, why?
   *
 
-<<<<<<< HEAD
-![image](/Users/raphaelcesar/projects/courses/reading-notes/201-reading-notes/img/Array.png)
+
+![image](201-reading-notes/img/Array.png)
 
 
 3. List **five** shorthand operators for assignment in javascript and describe what they do.
@@ -47,11 +47,10 @@
 4. Read the code below and evaluate the last **expression** and explain what the result would be and why.
   *
 
-![image]([201-reading-notes/img/expression.png](https://github.com/cesarderio/reading-notes/blob/main/201-reading-notes/img/Array.png))
+![image](201-reading-notes/img/expression.png)
 
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
   *
 
 6. Give an example of when a **Loop** is useful in JavaScript.
-=======
-![image](https://github.com/cesarderio/reading-notes/blob/main/201-reading-notes/img/expression.png
+

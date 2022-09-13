@@ -47,7 +47,7 @@
 4. Read the code below and evaluate the last **expression** and explain what the result would be and why.
   *
 
-![image](https://github.com/cesarderio/reading-notes/blob/main/201-reading-notes/img/expression.png)
+![image](/Users/raphaelcesar/projects/courses/reading-notes/img/expression.png)
 
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
   *

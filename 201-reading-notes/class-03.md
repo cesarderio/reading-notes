@@ -47,12 +47,11 @@
 4. Read the code below and evaluate the last **expression** and explain what the result would be and why.
   *
 
-![image](201-reading-notes/img/expression.png)
+![image]([201-reading-notes/img/expression.png](https://github.com/cesarderio/reading-notes/blob/main/201-reading-notes/img/Array.png))
 
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
   *
 
 6. Give an example of when a **Loop** is useful in JavaScript.
 =======
-![image](https://github.com/cesarderio/reading-notes/blob/main/201-reading-notes/img/Screen%20Shot%202022-09-13%20at%202.57.23%20PM.png))
->>>>>>> 81f23adc707f360dbbf7d2c947803e22194ca491
+![image](https://github.com/cesarderio/reading-notes/blob/main/201-reading-notes/img/expression.png

@@ -37,6 +37,7 @@
 2. Is the **people** array a valid JavaScript array? If so, how can I access the values stored? If not, why?
   *
 
+<<<<<<< HEAD
 ![image](/Users/raphaelcesar/projects/courses/reading-notes/201-reading-notes/img/Array.png)
 
 
@@ -52,3 +53,6 @@
   *
 
 6. Give an example of when a **Loop** is useful in JavaScript.
+=======
+![image](https://github.com/cesarderio/reading-notes/blob/main/201-reading-notes/img/Screen%20Shot%202022-09-13%20at%202.57.23%20PM.png))
+>>>>>>> 81f23adc707f360dbbf7d2c947803e22194ca491

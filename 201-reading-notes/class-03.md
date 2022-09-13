@@ -53,4 +53,5 @@
   *
 
 6. Give an example of when a **Loop** is useful in JavaScript.
+  *
 

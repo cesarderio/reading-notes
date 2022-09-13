@@ -37,4 +37,4 @@
 2. Is the **people** array a valid JavaScript array? If so, how can I access the values stored? If not, why?
   *
 
-![code block](/Users/raphaelcesar/projects/courses/reading-notes/201-reading-notes/img/Screen Shot 2022-09-13 at 2.57.23 PM.png)
+![image](/Users/raphaelcesar/projects/courses/reading-notes/201-reading-notes/img/Screen Shot 2022-09-13 at 2.57.23 PM.png)

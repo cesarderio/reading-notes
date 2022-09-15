@@ -23,6 +23,8 @@ Describe the difference between a **gif** image and an **svg** image, pretend yo
 What image type would you use to display a screenshot on your website and why?
 
 * **PNG** would be used, they are able to represent correct image reproduction.
+
+
 ## Learn CSS
 
 ### Using Color in CSS. Styling HTML Text Elements:
@@ -39,11 +41,11 @@ What should you consider when choosing fonts for an HTML document?
 
 * It is easy to read, it flows with the idea of the website and it can be used and rendered by browsers easily.
 
-What do font-size, font-weight, and font-style do to HTML text elements?
+What do **font-size**, **font-weight**, and **font-style** do to HTML text elements?
 
 * They change the styling of the font, the size, type(family), and look(bold, italics, etc.).
 
-Describe two ways you could add spacing around the characters displayed in an h1 element.
+Describe two ways you could add spacing around the characters displayed in an **h1** element.
 
 * You can use the box model to create space around elements: margin, border and padding.
 

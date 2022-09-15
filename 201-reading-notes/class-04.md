@@ -46,12 +46,11 @@
 
 1. Describe the difference between a function declaration and a function invocation.
 
-* declaration is creating/stating what the function is. Invoking is calling back to use the function. 
+* declaration is creating/stating what the function is. Invoking is calling back to use the function.
 
 2. What is the difference between a parameter and an argument?
 
-* The parameters are values that the function uses to do its job. An argument is 
-
+* The parameters are values that the function uses to do its job. Arguments are values to get the functions output/result.
 
 ## Miscellaneous
 
@@ -59,4 +58,6 @@
 
 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
 
-* 
+* Greater efficiency - will help me understand how to read and write code better. Going over the material and working on it first hand helps me understand the material much better.
+
+* Job interview readiness - will benefit all of us when we start interviewing for jobs. We will be better prepared if the interview includes pair programming. Also it will help in understanding the code better for both writing it and explaining it better.

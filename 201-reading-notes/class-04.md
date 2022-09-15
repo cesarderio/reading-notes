@@ -5,7 +5,7 @@
 
 To create a basic link, we wrap text or other content inside what element?
 
-* An **Anchor element.
+* An **Anchor** element.
 
 The **href** attribute contains what information?
 

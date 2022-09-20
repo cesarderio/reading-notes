@@ -1,5 +1,61 @@
 # Class 6 reading notes
 
+## Objects
+
+### What are they?
+
+- Data type // data structure
+- Convenient & powerful way to group data and functions
+- Comma separated key/value pairs
+- Functions that are stored in objects are referred to as methods
+
+```javascript
+
+// Array
+let myArr = ['Audrey', 36, true, 'Instructor'];
+
+// Object
+let audrey = {
+  name: 'Audrey',
+  age: 36,
+  isRemote: true,
+  title: 'Instructor'
+};
+
+## DOM Manipulation
+
+- 'The Dom' = Document Object Model
+
+- HTML and CSS come together in the browser = JS reads this as an object
+
+### Step for DOM Manipulation in JS
+```javascript
+
+// JS needs a window into your HTML or into the DOM
+// STEP 1
+let section = document.getElementById('my-section');
+
+// STEP 2 - Create elements
+
+const h2Element = document.createElement('h2');
+
+// STEP 3 - give context if necessary
+h2Element.textContent = 'Hey! I\'m an h2!'
+// <h2>Hey I'm an h2!</h2>
+
+// STEP 4 - add it to the DOM
+// parentElement.appendChild(child)
+
+section.appendChild(h2Element);
+
+// <section>
+//  <h2></h2>  
+// </section>
+```
+
+
+
+
 ### JavaScript Object Basics:
 
 How would you describe an object to a non-technical friend you grew up with?

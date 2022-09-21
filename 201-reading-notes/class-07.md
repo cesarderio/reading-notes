@@ -36,3 +36,20 @@ experience.
 * Throughout my time as a photographer, I have learned how to interact and build rapport with models, artists, stylists, art directors, etc. This experience has given me the ability to adapt and quickly find the best ways to work with all different types of people. I know that if a model comes from a certain agency, I know how they are treated, what their directions and perspective has been from those agencies. If someone is brand new I still have knowledge and experience to pull from to make the most of the day on set. Learning who someoone learned from, or has worked with previously can give me a basic understanding of how they think or like to shoot on set. This has helped me way back when I was an assistant for multiple photographers. Once I transitioned into the photographer role, I used this knowledge to be able to do the same with my co-workers, stylists, art directors and new and veteran models in the studio and on location.
 
 ## Things I want to know more about:
+
+## Lecture Notes
+
+## Constructors
+
+### What are they?
+
+- A special type of function
+-Instantiate object for us
+- acts like a blueprint/'factory' for objects
+- starts with keyword 'function'
+
+### Why?
+
+- keep our code dry
+-help us prevent bugs
+- gives us

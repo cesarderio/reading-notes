@@ -1,5 +1,6 @@
 # Class 10 reading notes
 
+Debugging and troubleshooting will be very helpful as I learn more and advance in web development. It is a daily part of programming to find errors and/or work on efficiency of code, and I do love efficiency.
 ## What Went Wrong? Troubleshooting JavaScript:
 
 Name some key differences between a Syntax Error and a Logic Error.

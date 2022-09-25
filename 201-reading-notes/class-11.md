@@ -6,14 +6,14 @@ Explain how the ability to use video and audio on the web has evolved since the 
 
 * It started out as proprietary programs which had accessibility and security issues, not all browsers supported them or had to pay to use them. Now audio and video have been natively implemented which makes it more efficient and available.
 
-Describe the use of the **src** and **controls** attributes in the **\<video\>** element.
+Describe the use of the **\<src\>** and **\<controls\>** attributes in the **\<video\>** element.
 
-* The **src** is linking to the source of the audio/video. The **controls** show the play/pause/etc. controls for the audio/video.
+* The **\<src\>** is linking to the source of the audio/video. The **\<controls\>** show the play/pause/etc. controls for the audio/video.
 
 
 Why is it important to have fallback content inside the **\<video\>** element?
 
-* Just like **alt** for images, if a video is unable to load properly, there is still information about the video, what it is about and any other information like a link to the video.
+* Just like **\<alt\>** for images, if a video is unable to load properly, there is still information about the video, what it is about and any other information like a link to the video.
 
 Write a very short story where **\<audio\>** and **\<video\>** are characters.
 
@@ -38,11 +38,11 @@ Besides making a site visually appealing across different screen sizes, why shou
 * It also makes the websites more efficient and keep similar designs across all web browsers. Phones have different screen resolutions, size and shape/view of portrait instead of landscape on most desktops and laptops.
 
 
-Define the following **\<img\>** attributes **srcset** and **sizes**. Write an example of how they are used.
+Define the following **\<img\>** attributes **\<srcset\>** and **sizes**. Write an example of how they are used.
 
-* The **srcset** are sets of information browsers can choose from, different resolution, size, etc. information. The **sizes** tell the browser what size(width/height) that will be best at different screen sizes.
+* The **\<srcset\>** are sets of information browsers can choose from, different resolution, size, etc. information. The **sizes** tell the browser what size(width/height) that will be best at different screen sizes.
 
-How is **srcset** more helpful for responsive images than CSS or JavaScript?
+How is **\<srcset\>** more helpful for responsive images than CSS or JavaScript?
 
 * It is more efficient, it already has the information for the content at different screen sizes. The browser can take care of that on its own and CSS and JavaScript can be cleaner and less prone to bugs.
 

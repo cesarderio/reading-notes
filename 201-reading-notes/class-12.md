@@ -1,6 +1,6 @@
 # Class 12 reading notes
 
-## JavaScript Canvas
+## JavaScript Canvas:
 
 What does the **\<canvas\>** allow the developer to acheive?
 
@@ -27,7 +27,7 @@ List 3 different Chart types you can create using Chart.js.
 * Pie Charts, Bar Charts/graphs, and Line Chart.
 
 
-## Easily Create Stunning Animated Charts with Chart.js
+## Easily Create Stunning Animated Charts with Chart.js:
 
 What are some advantages to displaying data via a chart over a table?
 

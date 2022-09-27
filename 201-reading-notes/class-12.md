@@ -31,11 +31,11 @@ List 3 different Chart types you can create using Chart.js.
 
 What are some advantages to displaying data via a chart over a table?
 
-It is more efficient and user friendly to show and see data at a glance, also better data values, projections, and more detail graphics.
+* It is more efficient and user friendly to show and see data at a glance, also better data values, projections, and more detail graphics.
 
 How could Chart.js aid your previously created applications visually?
 
-It could make it function and look much better for the company and user interface.
+* It could make it function and look much better for the company and user interface.
 
 
 ## Things I want to know more about:

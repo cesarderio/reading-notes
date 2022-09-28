@@ -1,3 +1,6 @@
+# Class 7 reading notes
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 # Programming with JavaScript
 
 ## Control Flow:
@@ -42,4 +45,4 @@
 
 * The (+=) assignment operator can also be used to add (concatenate) strings.
 
-* Adding two numbers, will return the sum, but adding a number and a string will return a string. 
+* Adding two numbers, will return the sum, but adding a number and a string will return a string.

@@ -1,4 +1,6 @@
-# Class 6 notes
+# Class 6 reading notes
+
+#### [HOME](https://cesarderio.github.io/reading-notes/)
 
 ## JavaScript
 
@@ -6,11 +8,11 @@
 
 * scripting language for web pages.
 
-* Also used for non browser environments. 
+* Also used for non browser environments.
 
 * Prototype-based, multi-paradigm, single-threaded, dynamic language.
 
-*Supports object-oriented, imperative, and declarative styles. 
+*Supports object-oriented, imperative, and declarative styles.
 
 ## Variables:
 

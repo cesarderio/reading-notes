@@ -1,8 +1,10 @@
 # Class 2 reading notes
 
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 
 ### Text Editor
-* A text editor is software that allows you to write and manage text. 
+* A text editor is software that allows you to write and manage text.
 * Text editors are on of the most important tools a web developer has available.
 * There are many helpful things like *code completion*, *themes*, and *syntax highlighting*
 
@@ -13,8 +15,8 @@
 * debugger
 
 ### The Command Line
-* Command line or terminal is a text based interface to the system. 
-* User can enter commands and feedback will be given back to the user. 
+* Command line or terminal is a text based interface to the system.
+* User can enter commands and feedback will be given back to the user.
 * Bash is the most common shell (zsh) is z shell, built on top of bash with additional features
 
 ### Navigating the Terminal

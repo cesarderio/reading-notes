@@ -1,5 +1,7 @@
 
-# Class 4 notes
+# Class 4 reading notes
+
+#### [HOME](https://cesarderio.github.io/reading-notes/)
 
 ## Wireframe
 
@@ -57,7 +59,7 @@
 * Closing Tag
 * Content
 * Element
-  
+
 ## Semantics
 
 * Refers to the meaning of a piece of code.

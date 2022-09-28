@@ -4,29 +4,44 @@
 @import "{{ site.theme }}";
 
 
-h1, h2, h3, h4 { 
-    text-align: center;
-    align-self: center;
-    display: block;  
-    margin-left: auto;  
-    margin-right: auto;
+
+
+
+h1,
+h2,
+h3,
+h4 {
+  text-align: center;
+  align-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-img { 
-    align-self: center;
-    display: block;  
-    margin-left: auto;  
-    margin-right: auto;  
+p img{
+  align-content: center;
+  align-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  align-content: center;
+  align-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a {
-    align-self: center;
+  align-self: center;
 }
 
 
-span.site-footer-owner, span.site-footer-credits {
-    display: block;
-    margin-left: auto;  
-    margin-right: auto;
+span.site-footer-owner,
+span.site-footer-credits {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-

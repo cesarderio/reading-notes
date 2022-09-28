@@ -5,7 +5,7 @@ console.log(hello-world);
 
 console.log('Hello-World!');
 
-
+/*
 let usersName = prompt('What is your name?')
 let message;
 console.log(usersName);
@@ -48,3 +48,4 @@ function square(number) {
     return number * number;
 }
 console.log(square);
+*/

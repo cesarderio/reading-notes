@@ -1,3 +1,4 @@
+
 # Class 14 Psychological Safety
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)

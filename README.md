@@ -54,7 +54,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 14 Notes](/201-reading-notes/class-14.md)
 
-#### [Class 14 Pyschological Safety](/201-reading-notes/class-14-Pyschological-Safety.md)
+#### [Class 14 Psychological Safety](/201-reading-notes/class-14-Psychological-Safety.md)
 
 #### [Class 15 Notes](/201-reading-notes/class-15.md)
 

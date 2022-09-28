@@ -21,3 +21,9 @@
   * **Impact:** *Everyone sees that the result of their work actually contributes to the organization's overall goals.*
 
 * Other research teams disagree and believe that personalities and individual do carry more weight in creating "enhanced teams". Other teams found that low or non-existent "relationship-building" traits had more to do with failure in teams, more so the individuals in those teams that were "pragmatic".
+
+* When teams come together emotional intelligence seems to matter much more that IQ. EQ is more beneficial for the team.
+
+* Pragmatism is not necessarily a bad thing, technical knowledge and skill is important early on when starting the career. It is best to cultivate both sides of the "brain". The analytical and artistic sides both should be part of our "tool belt".
+
+* We should strive to improve both sides, build on our technical skillset to enter and advance in the career and artistic and emotional side to build connections and friendships and create new experiences and knowledge which to draw from.

@@ -1,0 +1,19 @@
+{
+  "name": "reading-notes",
+  "version": "1.0.0",
+  "description": "![](https://ca.slack-edge.com/T039KG69K-U0404KAM68Y-c572e8c6c92c-512)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarderio/reading-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarderio/reading-notes/issues"
+  },
+  "homepage": "https://github.com/cesarderio/reading-notes#readme"
+}

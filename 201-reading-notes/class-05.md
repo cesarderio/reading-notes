@@ -1,5 +1,7 @@
 # Class 5 reading notes
 
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 ## HTML Media
 
 ## Using Images in HTML | Common Image Types | Choosing Image Formats:

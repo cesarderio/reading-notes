@@ -1,5 +1,7 @@
 # Class 3 reading notes
 
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 ## These topics add on to what we have already learned. It goes more in depth to understanding HTML, CSS and JavaScript. These new topics and knowledge will also give us the ability to create more functional and better looking and working websites
 
 ## Learn HTML

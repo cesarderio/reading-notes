@@ -1,5 +1,7 @@
 # Class 6 reading notes
 
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 ## Objects
 
 ### What are they?
@@ -49,7 +51,7 @@ h2Element.textContent = 'Hey! I\'m an h2!'
 section.appendChild(h2Element);
 
 // <section>
-//  <h2></h2>  
+//  <h2></h2>
 // </section>
 ```
 

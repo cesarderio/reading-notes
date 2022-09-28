@@ -1,5 +1,7 @@
 # Class 13 reading notes
 
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 ## Local Storage and How To Use It On Websites:
 
 Why would a developer use local storage for a web application?
@@ -12,7 +14,7 @@ What information should not be stored in local storage?
 
 Local storage can store what type of data? How would you convert it to that type before storing?
 
-* Local storage stores everything as strings. We can use native methods **JSON.stringify()** and **JSON.parse()** to convert and storing. 
+* Local storage stores everything as strings. We can use native methods **JSON.stringify()** and **JSON.parse()** to convert and storing.
 
 
 

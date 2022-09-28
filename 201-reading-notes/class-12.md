@@ -1,5 +1,7 @@
 # Class 12 reading notes
 
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 ## JavaScript Canvas:
 
 What does the **\<canvas\>** allow the developer to acheive?

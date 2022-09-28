@@ -1,5 +1,7 @@
 # Class 7 reading notes
 
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 ### Domain Modeling
 
 Domain Modeling and DOM creates more efficient code, for writing it, understanding it, explaining it and checking to make sure everything works as it should. It is also much easier to adapt to changes, new technology and/or new data to be added.

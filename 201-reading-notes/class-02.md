@@ -1,5 +1,7 @@
 # Class 2 reading notes
 
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 #### These basics for HTML, CSS and JavaScript are important to learn and understand to be able to build websites. Without these basics, you can not build upon that knowledge to create more dynamic websites.
 
 <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML>

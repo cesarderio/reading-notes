@@ -1,5 +1,7 @@
 # Class 14 Psychological Safety
 
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 [Article Link](https://www.cnbc.com/2019/02/28/what-google-learned-in-its-quest-to-build-the-perfect-team.html)
 
 ## Project Aristotle:

@@ -1,5 +1,7 @@
 # Class 1 reading notes
 
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 ### Getting started with the web:
 
 * Introduction to practicalities of web development

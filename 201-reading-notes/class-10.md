@@ -1,5 +1,7 @@
 # Class 10 reading notes
 
+#### [HOME](https://cesarderio.github.io/reading-notes/)
+
 Debugging and troubleshooting will be very helpful as I learn more and advance in web development. It is a daily part of programming to find errors and/or work on efficiency of code, and I do love efficiency.
 ## What Went Wrong? Troubleshooting JavaScript:
 

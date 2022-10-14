@@ -8,7 +8,7 @@
 
 #### [https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
-## Theses topics are introducing us to more concepts to do with learning about React and how it works.
+### Theses topics are introducing us to more concepts to do with learning about React and how it works
 
 ### Component-Based Architecture
 

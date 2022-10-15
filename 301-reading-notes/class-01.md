@@ -34,15 +34,15 @@ What are the characteristics of a component?
 What are the advantages of using component-based architecture?
 [https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
-* Ease of deployment − As new compatible versions become available, it is easier to replace existing versions with no impact on the other components or the system as a whole.
+* **Ease of deployment** − As new compatible versions become available, it is easier to replace existing versions with no impact on the other components or the system as a whole.
 
-* Reduced cost − The use of third-party components allows you to spread the cost of development and maintenance.
+* **Reduced cost** − The use of third-party components allows you to spread the cost of development and maintenance.
 
-* Ease of development − Components implement well-known interfaces to provide defined functionality, allowing development without impacting other parts of the system.
+* **Ease of development** − Components implement well-known interfaces to provide defined functionality, allowing development without impacting other parts of the system.
 
-* Reusable − The use of reusable components means that they can be used to spread the development and maintenance cost across several applications or systems.
+* **Reusable** − The use of reusable components means that they can be used to spread the development and maintenance cost across several applications or systems.
 
-* Modification of technical complexity − A component modifies the complexity through the use of a component container and its services.
+* **Modification of technical complexity** − A component modifies the complexity through the use of a component container and its services.
 
 * **Reliability** − The overall system reliability increases since the reliability of each individual component enhances the reliability of the whole system via reuse.
 

@@ -2,8 +2,9 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-
 ### [React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+
+---Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
 
 Based off the diagram, what happens first, the 'render' or the 'componentDidMount'?
 
@@ -43,6 +44,4 @@ What are some examples of things that we could store in state?
 
 *
 
-
-
-## Things I want to know more about:
+## Things I want to know more about

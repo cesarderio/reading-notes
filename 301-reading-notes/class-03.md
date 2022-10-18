@@ -65,19 +65,19 @@ Give an example of using the spread operator to combine two objects into one.
 
 In the video, what is the first step that the developer does to pass functions between components?
 
-*
+* creates a function where the state is that he want to change.
 
 In your own words, what does the **increment** function do?
 
-*
+* it is getting name input and looping through an array to see if a name is matched. If it does find a match, it will update the state.
 
 How can you pass a method from a parent component into a child component?
 
-*
+* pass a function as a prop to child component
 
 How does the child component invoke a method that was passed to it from a parent component?
 
-*
+* create a reference to the parent {this.props}
 
 ### Bookmark and Review
 

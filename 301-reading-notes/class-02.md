@@ -2,9 +2,9 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-### [React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
-
 We are getting introduced to React; it's building blocks, how it works, how to use it, and when to use props and states.
+
+### [React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
 Based off the diagram, what happens first, the 'render' or the 'componentDidMount'?
 

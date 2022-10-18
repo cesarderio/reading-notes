@@ -4,7 +4,7 @@
 
 ### [React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
-An introduction to React; the building blocks, how it works, how to use it, and when to use props and states.
+We are getting introduced to React; it's building blocks, how it works, how to use it, and when to use props and states.
 
 Based off the diagram, what happens first, the 'render' or the 'componentDidMount'?
 

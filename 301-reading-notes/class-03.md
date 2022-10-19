@@ -2,7 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
----Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
+We are creating arrays and lists for our lab assignments and utilizing many of the react components to work on the labs as well. We are also using these to solve our code challenges.
 
 ### [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 

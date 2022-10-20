@@ -32,4 +32,10 @@ Rewrite the following statement using a ternary statement:
 
     x === y ? true : false;
 
+### Bookmark and Review
+
+[React Bootstrap - Forms](https://react-bootstrap.github.io/forms/overview/)
+
+[React Docs - conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
+
 ## Things I want to know more about

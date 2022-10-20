@@ -2,7 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
---Start with a statement describing why these topics have to do with what we're learning. Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
+We are learning how to control and change components and states and when to use attributes to accomplish our tasks. We are also learning about the conditional (Ternary) operator, this will make our code easier to read and understand.
 
 ### [React Docs - Forms](https://reactjs.org/docs/forms.html)
 

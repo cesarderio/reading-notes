@@ -2,7 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-We are lblahahahahaing how to control and change compor, this will make our code easier to read and understand.
+We are learning how to build better code, apps and interactivity. Working on improving user interface, building efficiency and functionality.
 
 ### [React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 

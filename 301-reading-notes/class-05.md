@@ -42,7 +42,7 @@ What is a “higher-order function”?
 
 * A **function** that runs on other functions by return or as arguments.
 
-Explore the **greaterThan* function as defined in the reading. In your own words, what is line 2 of this function doing?
+Explore the **greaterThan** function as defined in the reading. In your own words, what is line 2 of this function doing?
 
 * It is creating a function that can set state and be reused.
 

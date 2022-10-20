@@ -1,3 +1,4 @@
 {
-  "editor.scrollbar.horizontal": "hidden"
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.wordWrap": "bounded"
 }

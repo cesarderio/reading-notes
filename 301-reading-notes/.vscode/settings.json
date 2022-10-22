@@ -1,4 +1,5 @@
 {
   "editor.scrollbar.horizontal": "hidden",
-  "editor.wordWrap": "bounded"
+  "editor.wordWrap": "bounded",
+  "terminal.integrated.fontWeight": "normal"
 }

@@ -2,6 +2,8 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
+### Begin with a statement addressing why this topic matters as it relates to what you are studying in this module
+
 [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
 [How I explained REST to my brother](https://gist.github.com/brookr/5977550)
@@ -12,7 +14,7 @@ Who is Roy Fielding?
 
 Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
 
-*
+* Later developers did not use the same requirements as HTTP, not all computers speak the same language, Now we need to use the universal nouns to tell servers to get information from other servers to get the complete information/resource we or the computer is searching for.
 
 What is the HTTP protocol that Fielding and his friends created?
 

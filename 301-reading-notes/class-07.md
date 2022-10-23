@@ -2,7 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-### Begin with a statement addressing why this topic matters as it relates to what you are studying in this module
+### We are learning about HTTP and its creator. We are also learnging why is was built and how it works. We will be using HTTP and APIs to get the information/resources we need for out applications we are building
 
 [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 

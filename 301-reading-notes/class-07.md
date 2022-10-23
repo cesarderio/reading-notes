@@ -22,7 +22,7 @@ What is the HTTP protocol that Fielding and his friends created?
 
 What does a **GET** do?
 
-* The browser "*GET*'s" the information/resources and displays it.
+* The browser "*GET*"s the information/resources and displays it.
 
 What does a **POST** do?
 

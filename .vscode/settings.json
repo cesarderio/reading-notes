@@ -4,5 +4,8 @@
         "flexbox",
         "qoutes",
         "SEO's"
-    ]
+    ],
+    "editor.minimap.maxColumn": 100,
+    "editor.scrollBeyondLastColumn": 1,
+    "editor.wordWrapColumn": 70
 }

@@ -12,50 +12,50 @@ Who is Roy Fielding?
 
 Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
 
-* 
+*
 
 What is the HTTP protocol that Fielding and his friends created?
 
-*
+* **Hypertext Transfer Protocol**
 
 What does a **GET** do?
 
-*
+* The browser "*GET*'s" the information/resources and displays it.
 
 What does a **POST** do?
 
-*
+* *POST* sends the information/data to the server to create or update the resource.
 
 What does **PUT** do?
 
-*
+* *PUT*  creates a new resource or updates the location/target of resource.
 
 What does **PATCH** do?
 
-*
+* *PATCH* "patches" or applies updates/modifications to parts of a resource.
 
 [Geocoding API](https://locationiq.com/)
 
 Did you get your API key?
 
-*
+* Yes
 
 [Weather Bit API](https://www.weatherbit.io/)
 
 Did you get your API key?
 
-*
+* Yes
 
 [Yelp API Docs](https://www.yelp.com/developers/documentation/v3/business_search)
 
 Did you get your API key?
 
-*
+* Yes
 
 [The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
 
 Did you get your API key?
 
-*
+* Yes
 
 ## Things I want to know more about

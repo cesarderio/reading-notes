@@ -2,9 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
----start out with statement about why this is important
-asf;dklfjd;fkljd;lfjdf;ldjvflkdsjf
-as;lfkjdsf;lkdjf;ldjfdslkfjdskfjds;lkfjds;lfjds;lfjkd
+We are learning how to be more efficient and smarter with our code. Making less possibilty of bugs, more functionality, and get better at understanding, reading and comprehending the code.
 
 Reading
 [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)

@@ -6,15 +6,21 @@
 
 Fill in the chart below with five differences between SQL and NoSQL databases:
 
-SQL NoSQL
+| SQL | NoSQL |
+|:---:|:---:|
+| Data uses Schemas | Schema-less |
+| Relations | No (or very few) Relations |
+| Scaling | Data is typically merged/nested  in a few collections |
+| Data is Distributed across  multiple tables | Both horizontal and vertical  scaling is possible |
+| Horizontal scaling is  difficult/impossible,  Vertical scaling is possible | Great performance for mass (simple) read & write requests |
 
 What kind of data is a good fit for an SQL database?
 
-*
+* A structured database with formatted/same fields.
 
 Give a real world example.
 
-*
+* User table / Products table
 
 What kind of data is a good fit a NoSQL database?
 

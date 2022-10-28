@@ -38,7 +38,7 @@ Videos
 
 What does SQL stand for?
 
-*
+* Structured Query Language
 
 What is a relational database?
 

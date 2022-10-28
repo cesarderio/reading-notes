@@ -8,14 +8,24 @@ __ Why is this topic important to what we are learning/doing?
 
 What is a ‘call’?
 
-* 
+* A **call** is invoking the function.
 
 How many ‘calls’ can happen at once?
 
+* It executes line by line, invoking one function at a time.
+
 What does LIFO mean?
 
+* **LIFO** stands for **Last In - First Out**
+
 Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
+
+* []()
+
 What causes a Stack Overflow?
+
+* Stack Overflow is when a recursive function has no exit point, a browser can only hold so much before it times out.
+
 
 [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 

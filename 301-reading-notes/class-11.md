@@ -2,7 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-[nosql vs sql](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y&ab_channel=Academind)
+[nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
 Fill in the chart below with five differences between SQL and NoSQL databases:
 
@@ -76,7 +76,7 @@ Which is more flexible - SQL or MongoDB? and why.
 
 What is the disadvantage of a NoSQL database?
 
-* It can use up a lot of memory to hold the databses and limit size on documents.
+* It can use up a lot of memory to hold the databases and limit size on documents.
 
 Bookmark and Review
 

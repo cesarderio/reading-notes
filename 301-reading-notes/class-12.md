@@ -2,6 +2,8 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
+We are learning more about **REST** and **CRUD** and error codes, and how to use these to navigate our code, request, paths, responds, etc.
+
 [Status Codes Based On REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
 
 In your own words, describe what each group of status code represents:

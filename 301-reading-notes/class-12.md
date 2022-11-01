@@ -47,15 +47,15 @@ What is middleware?
 
 * Helper software that connects or helps programs connect to/from databases/librairies.
 
-What does app.use(express.json()) do?
+What does **app.use(express.json())** do?
 
 * It lets server accept json files.
 
-What does the /:id mean in a route?
+What does the **/:id** mean in a route?
 
 * it is the path of the query/ path that we will request/respond.
 
-What is the difference between PUT and PATCH?
+What is the difference between **PUT** and **PATCH**?
 
 * **PUT** updates entire resource, **PATCH** updates a portion of the data.
 
@@ -63,12 +63,12 @@ How do you make a default value in a schema?
 
 * Use the **default** keyword.
 
-What does a 500 error status code mean?
+What does a **500** error status code mean?
 
 * It is a generic error, it encountered something that prevented from completing request.
 
-What is the difference between a status 200 and a status 201?
+What is the difference between a status **200** and a status **201**?
 
-* 201 has completed request and created a new resource, 200 means things are "ok" and things working as meant.
+* **201** has completed request and created a new resource, **200** means things are "ok" and things working as meant.
 
 ## Things I want to know more about

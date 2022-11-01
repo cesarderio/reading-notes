@@ -2,6 +2,8 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
+We are learning **REST** and **CRUD** basics to be able to create our frontend and backend servers and be able to connect them to be able to communicate.
+
 Reading
 [CRUD Basics](https://medium.com/geekculture/crud-operations-explained-2a44096e9c88)
 

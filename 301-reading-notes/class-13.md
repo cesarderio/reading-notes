@@ -5,6 +5,7 @@
 We are learning **REST** and **CRUD** basics to be able to create our frontend and backend servers and be able to connect them to be able to communicate.
 
 Reading
+
 [CRUD Basics](https://medium.com/geekculture/crud-operations-explained-2a44096e9c88)
 
 Which HTTP method would you use to update a record through an API?
@@ -38,3 +39,5 @@ If you had to describe the process of creating a RESTful API in 5 steps, what wo
 * Create delete(request)
 
 ## Things I want to know more about
+
+test

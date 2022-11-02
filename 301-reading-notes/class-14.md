@@ -2,6 +2,8 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
+We are learning more about how diversity in teams and companies in turn are more productive, more profitable and usually have a better understanding and connection to the user/customer base.
+
 Consider the history: [That Time When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
 
 What occurred during the same time as the beginning of the decline of women in computer science?

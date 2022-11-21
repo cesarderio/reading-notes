@@ -114,9 +114,9 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 13 Notes](/401-reading-notes/class-13.md)
 
-#### [Class 14 Notes](/401-reading-notes/class14.md)
+#### [Class 14 Notes](/401-reading-notes/class-14.md)
 
-#### [Class 15 Notes](/401-reading-notes/class15.md)
+#### [Class 15 Notes](/401-reading-notes/class-15.md)
 
 ### Growth mindset is the drive to keep learning and working forward even through setbacks
 

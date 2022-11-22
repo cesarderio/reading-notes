@@ -88,6 +88,8 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 ## Code 401 - Advanced Software Development
 
+#### [SQL & Relational Databases](/401-reading-notes/SQL.md)
+
 #### [Class 1 Notes](/401-reading-notes/class-01.md)
 
 #### [Class 2 Notes](/401-reading-notes/class-02.md)

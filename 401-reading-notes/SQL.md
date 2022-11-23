@@ -12,7 +12,7 @@ SQL stands for **Structured Query Language**
 
 * Databases organize data in different tables.
 
-### **SELECT**
+### **Commands**
 
 * **SELECT** is a basic command when fetching data from a database using a query.
 

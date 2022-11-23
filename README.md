@@ -90,6 +90,8 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [SQL & Relational Databases](/401-reading-notes/SQL.md)
 
+#### [BASH Command Line](/401-reading-notes/Bash-Command-Line.md)
+
 #### [Class 1 Notes](/401-reading-notes/class-01.md)
 
 #### [Class 2 Notes](/401-reading-notes/class-02.md)

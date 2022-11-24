@@ -12,7 +12,7 @@ Explain middleware, answer as though I were a non-technical recruiter.
 
 *
 
-Express the most popular ____ ____.
+Express the most popular ________.
 
 *
 

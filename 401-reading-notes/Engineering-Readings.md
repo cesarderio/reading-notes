@@ -2,7 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-----begin with statement addressing why this topic matters as it relates to what you are stydhing in this modeule.We are learning about *authentication* and *authorization*, what they are, how they work and how to implement these into our projects/builds.
+These topics will help me work on improving on being not only a better programmer, but also improve upon many aspects of how I live and work in personal and work life. This will assist in my mindset of improving a bit each day.
 
 ### [Act like you make $1000/hr](https://anthony-moore.medium.com/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-6ab2302b8e8c)
 
@@ -18,14 +18,14 @@
 
 What’s the one thing I bring to this career (and a potential employer) that nobody else can?
 
-* Internation experience in military and civilian life, immigrant, analytical+artistic
+* Internation experience in military and civilian life, immigrant, analytical and artistic knowledge and experience.
 
 What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
 
-* taking breaks/drinking water/sleep hygiene/hygiene/balance
+* Drinking more water and eating better along with sleep hygiene and hygiene in general.
 
-* finding better balance
+* Finding better balance and taking breaks regularly.
 
-* better time and task completion efficiency
+* Working on better time and task completion efficiency
 
 ## Things I want to know more about

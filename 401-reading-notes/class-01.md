@@ -2,14 +2,9 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-----begin with statement addressing why this topic matters as it relates to what you are stydhing in this modeule.We are learning about *authentication* and *authorization*, what they are, how they work and how to implement these into our projects/builds.
-
 ## Node Ecosystem
 
-------------------------------------------------------------
-Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
-
------------------------------------
+----begin with statement addressing why this topic matters as it relates to what you are stydhing in this modeule.We are learning about *authentication* and *authorization*, what they are, how they work and how to implement these into our projects/builds.
 
 ## Reading
 

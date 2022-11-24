@@ -20,7 +20,7 @@ Watch [Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckw
 
 Watch [Alain de Botton on Redefining Success.](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success) (17 minutes)
 
-* Success really comes down to perspective, learned philosphies and standards. I know some that will never be happy no matter what they have, while others have relatively nothing and they are some of the happiest people I know.
+* Success really comes down to perspective, learned philosophies and standards. I know some that will never be happy no matter what they have, while others have relatively nothing and they are some of the happiest people I know.
 
 Assess [your emotional intelligence.](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.html) If you have done it in the past, now you can identify the areas you have grown in recently.
 

@@ -16,21 +16,21 @@ SQL stands for **Structured Query Language**
 
 * **SELECT** is a basic command when fetching data from a database using a query.
 
-* **FROM** keyword is used to tell "where" we want to gather the information from. (what comlumn/table/location)
+* **FROM** keyword is used to tell "where" we want to gather the information from /(what comlumn/table/location).
 
-* **Splat** is the *, which is a shortcut to fretch all information from all columns.
+* **Splat** is the *, which is a shortcut to fetch all information from all columns.
 
 * **ORDER BY** is the command for how to sort the information/query response.
 
-* **ASC** & **DESC** are the commands to sort in ascending order or descending order. (Year, age, alphabetical, etc.)
+* **ASC** & **DESC** are the commands to sort in ascending order or descending order.(Year, age, alphabetical, etc.).
 
 * **LIMIT** is the command to limit how many results/rows are returned.
 
-* **OFFSET** is the command to specify "from where" to start returning the data. (i.e. request top 3 movies, starting at number 2 would return 3, 4, 5)
+* **OFFSET** is the command to specify "from where" to start returning the data. (i.e. request top 3 movies, starting at number 2 would return 3, 4, 5).
 
 ### SCHEMA
 
-* used to describe collection of tables and relationships in the database.
+* Used to describe collection of tables and relationships in the database.
 
 * **WHERE** is a command to filter by using conditions.
 

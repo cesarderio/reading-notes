@@ -41,3 +41,18 @@ SQL stands for **Structured Query Language**
 * **OR** command to match at least one conditional.
 
 * **NOT** command to change it to !=.
+
+![](../img/Screenshot%202022-11-21%20at%204.26.55%20PM.png)
+
+![Exercise1](../img/Exercise1.png)
+![Exercise2](../img/Exercise2.png)
+![Exercise3](../img/Exercise3.png)
+![Exercise4](../img/Exercise4.png)
+![Exercise5](../img/Exercise5.png)
+![Exercise6](../img/Exercise6.png)
+![Exercise13](../img/Exercise13.png)
+![Exercise14](../img/Exercise14.png)
+![Exercise15](../img/Exercise15.png)
+![Exercise16](../img/Exercise16.png)
+![Exercise17](../img/Exercise17.png)
+![Exercise18](../img/Exercise18.png)

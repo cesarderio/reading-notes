@@ -2,13 +2,9 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
---begin by saying how this applies to what were learning--
+These topics will help in improving my growth, learning and improvement in work and life and balance between the two. These can be implemented in many ways to create better environments regardless of the task(s).
 
 ### Tasks
-
-While this is a technology course, success with the deluge of work within depends heavily on the mindset that you bring to the table.
-
-With that in mind, this is some prework to get us all on the same page about dealing with difficulty in our lives.
 
 Read [Upgrade Your Technical Skills with Deliberate Practice.](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice) (10 minutes)
 

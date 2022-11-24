@@ -2,16 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
---begin by saying how this applies to what were learning--
-
-------------------------------------------------------------------------------
-Data Structures and Algorithms (often referred to as DSA) are fundamental principles in computer science. Throughout this course, you will be given new code challenges and will be required to whiteboard out the solution as well as implement a code solution.
-
-This represents a shift in general complexity and weight from what you have experienced to this point in 201 and 301.
-
-In order to prepare yourself, here are a few short readings and videos to give you some foundational knowledge. As you read and watch the content below, focus on the higher level concepts. We will be requiring a more detailed understanding of these as you progress through the course.
-
-------------------------------------------------------------------------------
+Data Structures and Algorithms are a large part of creating, managing and working with databases/programming. These lessons and topics will give us better understanding of how they work, function and change depending on different databases and program parameters.
 
 ### Watch
 
@@ -31,10 +22,10 @@ In order to prepare yourself, here are a few short readings and videos to give y
 
 What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 
-*
+* It really comes down to each particular case/project. It is important to first figure out what information you want to implement, what operations you will want to perform and how often operations and/or changes need to take place.
 
 How can we ensure that we’ll avoid an infinite recursive call stack?
 
-*
+* Making sure we have a base case, this will not be recursive and will not call on itself or loop infinitely.
 
 ## Things I want to know more about

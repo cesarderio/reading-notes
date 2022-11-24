@@ -88,6 +88,12 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 ## Code 401 - Advanced Software Development
 
+#### [Engineering Readings](./401-reading-notes/Engineering-Readings.md)
+
+#### [Data Structures and Algorithms](/401-reading-notes/Data-Structures-and-Algorithms.md)
+
+#### [The Growth Mindset](/401-reading-notes/The-Growth-Mindset.md)
+
 #### [SQL & Relational Databases](/401-reading-notes/SQL.md)
 
 #### [BASH Command Line](/401-reading-notes/Bash-Command-Line.md)

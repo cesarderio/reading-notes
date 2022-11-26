@@ -2,7 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-##
+## Component Lifecycle / **useEffect** Hook
 
 Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
 
@@ -10,38 +10,29 @@ Review the Submission Instructions for guidance on completing and submitting thi
 
 ## Reading
 
-[]()
+[effects hook](https://reactjs.org/docs/hooks-effect.html)
 
-q
-
-*
-
-q
+What purpose does **useEffect** serve in a function component compared to its counterpart(s) in class components?
 
 *
 
+When using the useEffect Hook:
 
-
-[]()
-
-q
+  What does **useEffect** do?
 
 *
 
-q
+  Why is **useEffect** called inside a component?
 
 *
 
+  Why is **useEffect** called inside a component?
 
+*
 
+Explain the importance of properly implementing effects with Cleanup
 
-
-
-## Bookmark and Review
-
-[]()
-
-[]()
+*
 
 ## Reflection
 

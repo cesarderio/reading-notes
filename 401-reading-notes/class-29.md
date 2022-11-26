@@ -2,7 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-##
+## Advanced State with Reducers
 
 Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
 
@@ -10,38 +10,33 @@ Review the Submission Instructions for guidance on completing and submitting thi
 
 ## Reading
 
-[]()
+[useReducer hook](https://reactjs.org/docs/hooks-reference.html#usereducer)
 
-q
-
-*
-
-q
+Name an alternative to the **useState** Hook.
 
 *
 
-
-
-[]()
-
-q
+Why might the **useReducer** Hook be preferable to the **useState** Hook?
 
 *
 
-q
+What are two ways to set the initial state?
 
 *
 
+[Ultimate Guide to useReducer](https://blog.logrocket.com/guide-to-react-usereducer-hook/)
 
+In terms of state, what does **useReducer** expect to receive as a parameter?
 
+*
 
+What does **useReducer** return?
 
+*
 
-## Bookmark and Review
+Explain **dispatch** to a non-technical recruiter.
 
-[]()
-
-[]()
+*
 
 ## Reflection
 

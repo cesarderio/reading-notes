@@ -128,6 +128,62 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 15 Notes](/401-reading-notes/class-15.md)
 
+#### [Class 16 Notes](/401-reading-notes/class-16.md)
+
+#### [Class 17 Notes](/401-reading-notes/class-17.md)
+
+#### [Class 18 Notes](/401-reading-notes/class-18.md)
+
+#### [Class 19 Notes](/401-reading-notes/class-19.md)
+
+#### [Class 20 Notes](/401-reading-notes/class-20.md)
+
+#### [Class 21 Notes](/401-reading-notes/class-21.md)
+
+#### [Class 22 Notes](/401-reading-notes/class-22.md)
+
+#### [Class 23 Notes](/401-reading-notes/class-23.md)
+
+#### [Class 24 Notes](/401-reading-notes/class-24.md)
+
+#### [Class 25 Notes](/401-reading-notes/class-25.md)
+
+#### [Class 26 Notes](/401-reading-notes/class-26.md)
+
+#### [Class 27 Notes](/401-reading-notes/class-27.md)
+
+#### [Class 28 Notes](/401-reading-notes/class-28.md)
+
+#### [Class 29 Notes](/401-reading-notes/class-29.md)
+
+#### [Class 30 Notes](/401-reading-notes/class-30.md)
+
+#### [Class 31 Notes](/401-reading-notes/class-31.md)
+
+#### [Class 32 Notes](/401-reading-notes/class-32.md)
+
+#### [Class 33 Notes](/401-reading-notes/class-33.md)
+
+#### [Class 34 Notes](/401-reading-notes/class-34.md)
+
+#### [Class 35 Notes](/401-reading-notes/class-35.md)
+
+#### [Class 36 Notes](/401-reading-notes/class-36.md)
+
+#### [Class 37 Notes](/401-reading-notes/class-37.md)
+
+#### [Class 38 Notes](/401-reading-notes/class-38.md)
+
+#### [Class 39 Notes](/401-reading-notes/class-39.md)
+
+#### [Class 40 Notes](/401-reading-notes/class-40.md)
+
+#### [Class 41 Notes](/401-reading-notes/class-41.md)
+
+#### [Class 42 Notes](/401-reading-notes/class-42.md)
+
+#### [Class 43 Notes](/401-reading-notes/class-43.md)
+
 ### Growth mindset is the drive to keep learning and working forward even through setbacks
 
 #### 3 reminders to keep myself in the growth mindset

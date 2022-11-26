@@ -2,7 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-##
+## Redux - Asynchronous Actions
 
 Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
 
@@ -10,38 +10,37 @@ Review the Submission Instructions for guidance on completing and submitting thi
 
 ## Reading
 
-[]()
+[async actions](https://redux.js.org/advanced/asyncactions)
 
-q
 
-*
-
-q
+Why use Redux middleware?
 
 *
 
-
-
-[]()
-
-q
+Consider the Redux Async Data Flow Diagram. Describe the flow in your own words.
 
 *
 
-q
+How are we accommodating async in our Redux app?
 
 *
 
 
+[thunk middleware](https://github.com/reduxjs/redux-thunk)
+
+Why would you need **redux-thunk** middleware?
+
+*
+
+Redux Thunk middleware allows you to write action creators that return a ____ instead of an action.
+
+*
+
+Describe how any return value from the inner thunk function will be made available.
+
+*
 
 
-
-
-## Bookmark and Review
-
-[]()
-
-[]()
 
 ## Reflection
 

@@ -2,7 +2,7 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-##
+## Open-Source Software Contribution
 
 Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
 
@@ -10,43 +10,14 @@ Review the Submission Instructions for guidance on completing and submitting thi
 
 ## Reading
 
-[]()
+[First Timers Only](https://www.firsttimersonly.com/)
 
-q
+[GitHub’s Guide to Open Source](https://www.github.com/open-source)
 
-*
+[What Motivates a Developer to Contribute to Open-Source Software?](https://clearcode.cc/blog/why-developers-contribute-open-source-software/)
 
-q
+Review: [List of Beginner-Friendly Projects](https://github.com/search?q=label%3Agood-first-issue+archived%3Afalse) (select your language of choice, also search for label:first-timers-only)
 
-*
-
-
-
-[]()
-
-q
-
-*
-
-q
-
-*
+Review: [Call for Code: Open Source for Good](https://callforcode.org/) (follow the “Get started” button)
 
 
-
-
-
-
-## Bookmark and Review
-
-[]()
-
-[]()
-
-## Reflection
-
-What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-06/)
-
-*
-
-## Things I want to know more about

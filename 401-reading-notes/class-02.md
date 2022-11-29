@@ -66,7 +66,7 @@ What are three benefits of Continuous Integration?
 
 What is the difference between Continuos Delivery and Continuous Deployment?
 
-* Contunuous Delivery is Developing to release at any time, Continuous Deployment is an extension of CD to deploy new features.
+* Continuous Delivery is Developing to release at any time, Continuous Deployment is an extension of CD to deploy new features.
 
 Explain how GitHub fits into this process assuming the listener comes from a non-technical background
 
@@ -88,6 +88,6 @@ Explain how GitHub fits into this process assuming the listener comes from a non
 
 What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-02/)
 
-*
+* I am working on getting better on understanding how to build and work with tests.
 
 ## Things I want to know more about

@@ -52,7 +52,7 @@ Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encount
 
 * properly applying test (not enough, not descript or specific enough, testing to many things at once, etc.)
 
-* Lack of maintenence on tests or no complete set of tests for build.
+* Lack of maintenance on tests or no complete set of tests for build.
 
 [CI/CD](https://www.youtube.com/watch?v=xSv_m3KhUO8)
 
@@ -64,7 +64,7 @@ What are three benefits of Continuous Integration?
 
 * everyone's work is in the branch history
 
-What is the difference between Continuos Delivery and Continuous Deployment?
+What is the difference between Continuous Delivery and Continuous Deployment?
 
 * Continuous Delivery is Developing to release at any time, Continuous Deployment is an extension of CD to deploy new features.
 

@@ -49,7 +49,7 @@ By what means do we initialize **express.Router()** in an express server?
 
 What do we use route middleware for?
 
-* To be able to resuse/use request, response, next and run through each step(middleware program) in the stack.
+* To be able to reuse/use request, response, next and run through each step(middleware program) in the stack.
 
 ## Reflection
 

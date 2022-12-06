@@ -44,7 +44,7 @@ Explain how concatenated content and secret can be sent and received securely to
 
 Why use JWT?
 
-*
+* We use it to be able to send and receive secure information accross urls.
 
 JWT is Compact and self-contained. Describe how this is useful to a non-technical friend.
 

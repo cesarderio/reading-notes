@@ -2,10 +2,6 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-# Class 7 reading notes
-
-#### [HOME](https://cesarderio.github.io/reading-notes/)
-
 ## Reading: Access Control (ACL)
 
 Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.

@@ -18,7 +18,9 @@ What is Role Based Access Control (RBAC) and why do we care?
 
 Describe a Role/Permission heirarchy that you might implement using RBAC.
 
-* Senior devs/ Managers would have more access than junior devs || a consumer access vs worker access.
+* Senior devs/ Managers would have more access than junior devs.
+
+* A consumer access vs worker access.
 
 What approach might you take to implement RBAC?
 

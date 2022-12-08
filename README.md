@@ -114,6 +114,8 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 8 Notes](/401-reading-notes/class-08.md)
 
+#### [Your Why Workshop](/401-reading-notes/Workshop2.md)
+
 #### [Class 9 Notes](/401-reading-notes/class-09.md)
 
 #### [Class 10 Notes](/401-reading-notes/class-10.md)

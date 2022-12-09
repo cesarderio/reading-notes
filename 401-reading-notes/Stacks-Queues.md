@@ -2,6 +2,8 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
+[STACKS and QUEUES](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
+
 ### Stack
 
 A stack is a data stucture that consists of Nodes. ( A stack of Nodes).

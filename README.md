@@ -120,6 +120,8 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 10 Notes](/401-reading-notes/class-10.md)
 
+#### [Stacks and Queues](/401-reading-notes/Stacks-Queues.md)
+
 #### [Class 11 Notes](/401-reading-notes/class-11.md)
 
 #### [Class 12 Notes](/401-reading-notes/class-12.md)

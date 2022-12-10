@@ -14,7 +14,7 @@ Review the Submission Instructions for guidance on completing and submitting thi
 
 What native Node.js module allows us to get started with Event Driven Programming?
 
-*
+* The **EventEmitter** allows incorporating Event Driven Programming.
 
 What is the value of Object Oriented Programming used in tandem with Event Driven Programming?
 

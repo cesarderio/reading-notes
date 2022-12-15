@@ -6,8 +6,6 @@
 
 Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
 
-Review the Submission Instructions for guidance on completing and submitting this assignment.
-
 ## Reading
 
 [Read today’s Lab Requirements](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-14/lab/)
@@ -16,9 +14,9 @@ Note: Requirement is to spend one lab session working on this project, however a
 
 Discuss 2 possible project ideas that could be completed by you and a partner in the alloted time.
 
-* Project idea 1
+* Project idea 1 - A webdev/tech dating app which can filter by langauge/stack, chat feature, rooms/sockets
 
-* Project idea 2
+* Project idea 2 - An online book club, users can rate and save favorite books, suggest books, links to purchase books, chat feature, rooms/sockets
 
 ## Bookmark and Review
 
@@ -28,6 +26,6 @@ Discuss 2 possible project ideas that could be completed by you and a partner in
 
 What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-06/)
 
-*
+* Constant review and practice to get better at understanding and building out projects with all these new tools.
 
 ## Things I want to know more about

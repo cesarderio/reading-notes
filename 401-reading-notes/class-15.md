@@ -4,7 +4,7 @@
 
 ### [TREES](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
 
-### [Common Terminology](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html#:~:text=Node%20%2D%20A%20Tree,the%20furthest%20leaf)
+#### [Common Terminology](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html#:~:text=Node%20%2D%20A%20Tree,the%20furthest%20leaf)
 
 **Node** - A Tree node is a component which may contain its own values, and reference
   to other nodes

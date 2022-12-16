@@ -29,11 +29,7 @@
 
 #### Depth First traversal
 
-[Depth first traversal is where we prioritize going through the depth (height) of the tree first. There are multiple ways to carry out depth first traversal, and each method changes the order in which we search/print the root. Here are three methods for depth first traversal:
-
-Pre-order: root >> left >> right
-In-order: left >> root >> right
-Post-order: left >> right >> root](<https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html#:~:text=Depth%20first%20traversal,left%20%3E%3E%20right%20%3E%3E%20root>)
+[Depth first traversal is where we prioritize going through the depth (height) of the tree first. There are multiple ways to carry out depth first traversal, and each method changes the order in which we search/print the root.](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html#:~:text=Depth%20first%20traversal%20is%20where%20we%20prioritize%20going%20through%20the%20depth%20(height)%20of%20the%20tree%20first.%20There%20are%20multiple%20ways%20to%20carry%20out%20depth%20first%20traversal%2C%20and%20each%20method%20changes%20the%20order%20in%20which%20we%20search/print%20the%20root)
 
 #### Breath First traversal
 

@@ -84,7 +84,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 14 Notes](/301-reading-notes/class-14.md)
 
-#### [Class 15 Notes](/301-reading-notes/class-15.md)
+#### [Class 15 Notes: Read TREES](/301-reading-notes/class-15.md)
 
 ## Code 401 - Advanced Software Development
 

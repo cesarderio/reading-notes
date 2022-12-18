@@ -67,7 +67,7 @@ Explain how RBAC might benefit a business.
 
 ## Reflection
 
-What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-07/)
+What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-08/)
 
 * I am working on understanding and getting more practice with the course work.
 

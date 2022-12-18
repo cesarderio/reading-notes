@@ -92,7 +92,7 @@ Translate the gist of this video to a non-technical friend
 
 ## Reflection
 
-What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-06/)
+What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-12/)
 
 * My learning goals are to gain more understanding and confidence as well as practice with all topics we have learned so far.
 

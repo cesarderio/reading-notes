@@ -60,7 +60,7 @@ Discuss a possible use case for separate namespaces
 
 ## Reflection
 
-What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-06/)
+What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-13/)
 
 * These current topics we are learning are very interesting to me, I want to get a better understanding of it all. Honestly I would like to get really knowledgeble and good at utilizing these for my own personal projects. This is the area that I initially would think of when I thought of "full-stack" web development.
 

@@ -20,11 +20,6 @@ q
 
 *
 
-
-
-
-
-
 ## Bookmark and Review
 
 []()
@@ -33,7 +28,7 @@ q
 
 ## Reflection
 
-What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-06/)
+What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-20/)
 
 *
 

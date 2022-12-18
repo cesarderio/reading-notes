@@ -28,7 +28,7 @@ Discuss 2 possible project ideas that could be completed by you and a partner in
 
 ## Reflection
 
-What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-07/)
+What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-09/)
 
 * My goals all revolve on getting a better understanding of the material and building my confidence and ability up to my standard and what I believe to be the standard I should strive for if I want to be competitive in the job market.
 

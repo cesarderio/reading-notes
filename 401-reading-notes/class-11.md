@@ -32,7 +32,7 @@ Looking ahead at this module’s [course schedule](https://codefellows.github.io
 
 * I am looking forward to getting more practice and understanding on DSA and whiteboarding.
 
-What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-06/)
+What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-11/)
 
 * I am working on building on my professionalism assignments and goals to practice for interviewing and my understanding and confidence on all these topics.
 

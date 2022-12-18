@@ -29,6 +29,7 @@ Provide 1 reason to use ECS instead of a service such as Heroku, Digital Ocean, 
 Where can we find EC2 on the AWS Console?
 
 * In the Amazon console it is under the Compute section.
+
 * Use the navigation bar to select the services menu to see available services.
 
 Explain the general difference between T2 Micro and XL.

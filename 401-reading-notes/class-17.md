@@ -14,7 +14,7 @@ Review the Submission Instructions for guidance on completing and submitting thi
 
 What is Amazon S3?
 
-* Object storage built to retieve any amount of data from anywhere.
+* Object storage built to retrieve any amount of data from anywhere.
 
 Name some use cases for Amazon S3.
 

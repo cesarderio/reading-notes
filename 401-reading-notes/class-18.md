@@ -16,9 +16,7 @@ What is Amazon API Gateway?
 
 Why is Amazon API Gateway an important part of the Serverless ecosystem?
 
-* Within the Serverless ecosystem, API Gateway is the piece that ties together Serverless functions and API definitions. Being able to trigger the execution of a Serverless function directly in response to an HTTP request is the key reason why API Gateway is so valuable in Serverless setups: it enables a truly serverless architecture for web applications. When using API Gateway together with other AWS services, it’s possible to build a fully functional customer-facing web application without maintaining a single server yourself.
-
-This brings the advantages of the serverless model—scalability, low maintenance, and low cost due to low overhead—to mainstream web applications.
+* Within the Serverless ecosystem, API Gateway is the piece that ties together Serverless functions and API definitions. Being able to trigger the execution of a Serverless function directly in response to an HTTP request is the key reason why API Gateway is so valuable in Serverless setups: it enables a truly serverless architecture for web applications. When using API Gateway together with other AWS services, it’s possible to build a fully functional customer-facing web application without maintaining a single server yourself. This brings the advantages of the serverless model—scalability, low maintenance, and low cost due to low overhead—to mainstream web applications.
 
 How does API Gateway integrate with other AWS services?
 

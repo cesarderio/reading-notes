@@ -10,7 +10,7 @@ Below you will find some reading material, code samples, and some additional res
 
 [AWS SQS vs SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5)
 
-What is the difference betweeen SQS and SNS?
+What is the difference between SQS and SNS?
 
 * SQS is a Simple Queue Service and SNS is a Simple Notification Service.
 
@@ -28,7 +28,7 @@ Describe how to use SQS and SNS in a “fanout” pattern.
 
 Explain how “push notifications” work, using SNS.
 
-* We can create lambdas/functions to send out(push) messsage to many "subscribers"
+* We can create lambdas/functions to send out(push) message to many "subscribers"
 
 [SQS and SNS Basics](https://www.youtube.com/watch?v=UesxWuZMZqI)
 
@@ -46,6 +46,6 @@ How might a large scale, distributed application make use of a Queue system like
 
 What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-19/)
 
-* Spend more time with each service through AWS we've been introcduced to.
+* Spend more time with each service through AWS we've been introduced to.
 
 ## Things I want to know more about

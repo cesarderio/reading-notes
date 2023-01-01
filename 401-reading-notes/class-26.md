@@ -62,7 +62,7 @@ If changes are made to the UI, what does React update?
 
 Looking ahead at this module’s [course schedule](https://codefellows.github.io/code-401-javascript-guide/curriculum/#module-2), What do you look forward to learning?
 
-* I am looking forward to learning Funciton Compenents and State Hooks.
+* I am looking forward to learning Function Components and State Hooks.
 
 What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-26/)
 

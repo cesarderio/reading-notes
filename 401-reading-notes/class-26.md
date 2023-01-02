@@ -69,3 +69,48 @@ What are your learning goals after reading and reviewing the [class README?](htt
 * Reviewing the React documentation and State.
 
 ## Things I want to know more about
+
+
+What is State?
+
+* data, in a compenent, that belongs to that component ( it can be changed withing that component) object -> key value pairs
+
+How do you create state in a class compenent?
+//''Javascript
+constructor(props){
+  super(props);
+  this.state = {
+    key: value,
+  }
+}
+//----
+
+What are props?
+* properties passed from parent to child. A child compenent cannont change thier props. Passed in ONLY, not upward. also a POJO. i.e.
+props =  {callback: () => {}, name: 'Ryan} 
+
+Can compenent props change?
+* if a prop variable contains parent state, that parent state could change, and pass the "changed" prop to the child.
+
+Can compenent state change?
+* yes
+
+
+What React lifecycle methos must every compenent have?
+* render() with a return 
+
+What React lifecycle method must be used when establishing class compoonent state?
+
+* Constructor()
+
+What React lifecycle method would you use to load data on a page without user interaction?
+* componentDidMount();
+
+In what order are React lifecycle methods called?
+* constructor, render, componentDidMount
+
+Can state be passed as props? If so, what would that look like in code?
+
+```javscript
+<Header greeting={this.state.greeting}/>
+```

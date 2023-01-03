@@ -68,6 +68,6 @@ If you were to add React state to a function component by declaring a state vari
 
 What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-06/)
 
-* Reviewing and practing more with props and state to refresh my memory and get a better working knowledge along with the new material.
+* Reviewing and practicing more with props and state to refresh my memory and get a better working knowledge along with the new material.
 
 ## Things I want to know more about

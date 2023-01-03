@@ -25,8 +25,7 @@ Selection Sort is a sorting algorithm that traverses the array multiple times as
 
 ## Approach & Efficiency
 
-**Approach**
-![UML](../assets/selectionSort.png);
+![UML](../assets/selectionSort.png)
 
 We first start with index 0 and traverse the array to check to see if there is a smaller number elsewhere inside the array. If there is, we swap with that smaller number replacing the larger number. If not, we move onto our next index at 1, and traverse the array to run the same check, if so swap, if not move onto the next index. We traverse and check for each index position. Once the function gets to the last number, there is no where else to go and the loops completes and returns the array now sorted correctly.
 

@@ -6,8 +6,6 @@
 
 Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
 
-Review the Submission Instructions for guidance on completing and submitting this assignment.
-
 ## Reading
 
 [useReducer hook](https://reactjs.org/docs/hooks-reference.html#usereducer)
@@ -42,7 +40,7 @@ Explain **dispatch** to a non-technical recruiter.
 
 ## Reflection
 
-What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-06/)
+What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-29/)
 
 * I am mostly reviewing and rewatching lectures and demos to try to get a better understanding and capabilities with the new material.
 

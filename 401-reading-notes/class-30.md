@@ -1,10 +1,8 @@
-# Class 30 reading notes
+# Hashtables
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## Hashtables
-
-[Intro to Hash Tables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
+## [Intro to Hash Tables](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
 
 Hashtables are a data structure to store the key (hashed/encoded content)(original string/value) / value (original string/value) pairs. This means that it holds an encoded/hash of the key that is tied to a specific location in the data structure where we can get the paired value.
 
@@ -16,7 +14,7 @@ Hashtables are a data structure to store the key (hashed/encoded content)(origin
 
 **Collisions** - when a bucket (index) has more than one key.
 
-Hash maps do this to store values:
+### Hash maps do this to store values
 
 * accept a key
 
@@ -26,7 +24,7 @@ Hash maps do this to store values:
 
 * store the key with the value by appending both to the end of a linked list
 
-Hash maps do this to read value:
+### Hash maps do this to read value
 
 * accept a key
 
@@ -38,9 +36,9 @@ Hash maps do this to read value:
 
 * search through the bucket looking for a node with a key/value pair that matches the key you were given
 
-#### Hashtable Methods
+### Hashtable Methods
 
-##### **set()**
+#### **set()**
 
 To add a new key/value pair to a hashtable:
 
@@ -52,7 +50,7 @@ To add a new key/value pair to a hashtable:
 
 * If something does exist, add the new key/value pair to a new node inside the bucket.
 
-##### **get()**
+#### **get()**
 
 * takes in a key, gets the Hash, and goes to the mapped index for that key.
 
@@ -60,15 +58,15 @@ To add a new key/value pair to a hashtable:
 
 * takes in a key and checks to see if it exists inside the hastable.
 
-##### **keys()**
+#### **keys()**
 
 * returns an array of unique hash keys.
 
-##### **hash()**
+#### **hash()**
 
 * takes a key as a string, hashes the key, then return the index of the array where the key/value should be placed.
 
-#### More Resources
+### More Resources
 
 [what is a hash table?](https://www.youtube.com/watch?v=MfhjkfocRR0)
 

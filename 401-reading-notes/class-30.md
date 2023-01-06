@@ -71,5 +71,7 @@ To add a new key/value pair to a hashtable:
 #### More Resources
 
 [what is a hash table?](https://www.youtube.com/watch?v=MfhjkfocRR0)
+
 [basics of hash tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+
 [hash table wiki](https://en.wikipedia.org/wiki/Hash_table)

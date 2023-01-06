@@ -56,7 +56,7 @@ To add a new key/value pair to a hashtable:
 
 #### **has()**
 
-* takes in a key and checks to see if it exists inside the hastable.
+* takes in a key and checks to see if it exists inside the hashtable.
 
 #### **keys()**
 

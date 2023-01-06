@@ -24,7 +24,7 @@ Hash maps do this to store values:
 
 * use modulus to convert the hash into an array index
 
-*store the key with the value by appending both to the end of a linked list
+* store the key with the value by appending both to the end of a linked list
 
 Hash maps do this to read value:
 

@@ -26,19 +26,19 @@ Why should we use it sparingly?
 
 Consume content from (at least) two of the Awesome React Context links. Share your take-away from each:
 
-  Takeaway 1: [Heres how React's New Context API Works](https://www.youtube.com/watch?v=XLJN4JfniH4)
+Takeaway 1: [Heres how React's New Context API Works](https://www.youtube.com/watch?v=XLJN4JfniH4)
 
 * Provider component - where your data lives
 
 * Consumer component - where you want to access your data
 
-  Takeaway 2: [React's All New Context API](https://www.youtube.com/watch?v=9Ilq6G-VMyQ)
+Takeaway 2: [React's All New Context API](https://www.youtube.com/watch?v=9Ilq6G-VMyQ)
 
 * A Solution to prop drilling, use Context API to have the ability to use / have access to data
-    anywhere in your application without using props.
+  anywhere in your application without using props.
 
 * "A provider provides a root upon which any child in that tree can access the values that are
-    provided by that context provider."
+  provided by that context provider."
 
 * Expose data with **value** property, we can return data, state, etc. with the consumer.
 

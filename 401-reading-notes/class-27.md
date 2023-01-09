@@ -50,7 +50,7 @@ If you were to add React state to a function component by declaring a state vari
 
   What does calling **useState** do?
 
-* It declares a "**state variable**". 
+* It declares a "**state variable**".
 
   What do we pass to **useState** as an argument?
 
@@ -66,7 +66,7 @@ If you were to add React state to a function component by declaring a state vari
 
 ## Reflection
 
-What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-06/)
+What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-27/)
 
 * Reviewing and practicing more with props and state to refresh my memory and get a better working knowledge along with the new material.
 

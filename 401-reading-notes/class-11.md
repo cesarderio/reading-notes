@@ -28,7 +28,7 @@ Consider your knowledge of Event Driven Programming in the Web Browser, now expl
 
 ## Additional Questions
 
-Looking ahead at this module’s [course schedule](https://codefellows.github.io/code-401-javascript-guide/curriculum/#module-2), What do you look forward to learning?
+Looking ahead at this module’s [course schedule](https://codefellows.github.io/code-401-javascript-guide/curriculum/#module-3), What do you look forward to learning?
 
 * I am looking forward to getting more practice and understanding on DSA and whiteboarding.
 

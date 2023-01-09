@@ -26,7 +26,7 @@ What are some advantages of React’s component based architecture?
 
 What is JSX and why do we use it?
 
-* It is a syntax extension to Javascript and gives us the ability to add/create HTML inside with React. 
+* It is a syntax extension to Javascript and gives us the ability to add/create HTML inside with React.
 
 Describe the process of embedding JavaScript expressions in JSX.
 
@@ -40,7 +40,7 @@ Is it safe to embed user input in JSX? Explain.
 
 Explain what a React Component is to a non-technical friend.
 
-* A React compenent is a command that runs when your set parameters have been met. 
+* A React compenent is a command that runs when your set parameters have been met.
 
 Describe mutability and React Components, specifically, how is the UI updated?
 
@@ -70,7 +70,6 @@ What are your learning goals after reading and reviewing the [class README?](htt
 
 ## Things I want to know more about
 
-
 What is State?
 
 * data, in a compenent, that belongs to that component ( it can be changed withing that component) object -> key value pairs
@@ -86,27 +85,32 @@ constructor(props){
 //----
 
 What are props?
+
 * properties passed from parent to child. A child compenent cannont change thier props. Passed in ONLY, not upward. also a POJO. i.e.
-props =  {callback: () => {}, name: 'Ryan} 
+props =  {callback: () => {}, name: 'Ryan}
 
 Can compenent props change?
+
 * if a prop variable contains parent state, that parent state could change, and pass the "changed" prop to the child.
 
 Can compenent state change?
+
 * yes
 
-
 What React lifecycle methos must every compenent have?
-* render() with a return 
+
+* render() with a return
 
 What React lifecycle method must be used when establishing class compoonent state?
 
 * Constructor()
 
 What React lifecycle method would you use to load data on a page without user interaction?
+
 * componentDidMount();
 
 In what order are React lifecycle methods called?
+
 * constructor, render, componentDidMount
 
 Can state be passed as props? If so, what would that look like in code?

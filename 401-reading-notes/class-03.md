@@ -53,7 +53,7 @@ What do we use route middleware for?
 
 ## Reflection
 
-What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-02/)
+What are your learning goals after reading and reviewing the [class README?](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-03/)
 
 * I am reviewing prior material and rereading the current material to try to understand it better.
 

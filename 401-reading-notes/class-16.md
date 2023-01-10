@@ -66,7 +66,7 @@ Name some benefits of using Elastic Beanstalk.
 
 ## Additional Questions
 
-Looking ahead at this module’s [course schedule](https://codefellows.github.io/code-401-javascript-guide/curriculum/#module-2), What do you look forward to learning?
+Looking ahead at this module’s [course schedule](https://codefellows.github.io/code-401-javascript-guide/curriculum/#module-4), What do you look forward to learning?
 
 * I am looking forward to learning more in React in modules 6 and 7.
 

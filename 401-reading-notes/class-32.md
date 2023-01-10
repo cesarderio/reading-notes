@@ -33,7 +33,7 @@ Takeaway 1: [React's new context API: toggle between local and global state](htt
   - **Provider** - has the data/state to provide/pass to children
   - **Consumer** - children that want access to the data/state
 
-Takeaway 2: [compare-react-state-management](https://github.com/robertgonzales/compare-react-state-management)
+Takeaway 2: [compare-react-state-management](https://github.com/robertgonzales/compare-react-state-management) by [Robert Gonzales](https://github.com/robertgonzales)
 
 - Great idea to compare and contrast implementation of these different ways to create the same application.
 - Although each library has its own syntax, they are all very similar.

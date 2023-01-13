@@ -8,6 +8,9 @@
 
 A **graph** is a data structure which is non-linear. Graphs hold collections of **vertices** / (*nodes*). These *nodes* can potentially be connected with line segments named **edges**
 
+- a other data structures fit into this category
+- data AND connections get "interesting"
+
 #### Terminology
 
 **Vertex** - (node) a data object that can have zero or more adjecent vertices.
@@ -16,7 +19,9 @@ A **graph** is a data structure which is non-linear. Graphs hold collections of 
 
 **Neighbor** - adjacent nodes connected by an edge.
 
-**Degree** - number of edges connected to the vertex.
+**Degree** - number of edges connected to the vertex. property of a node(vertex).
+
+**Direction** - when edge points from one vertex to another `[a] -> [b]`
 
 #### Directed vs Undirected
 
@@ -48,30 +53,30 @@ There are many different types of graphs. This depends on how connected the grap
 
 The three different types:
 
-* **completed** - when all nodes are connected to all other nodes.
+- **completed** - when all nodes are connected to all other nodes.
 
 ![Completed Graph](../assets/completeGraph.png)
 
-* **connected** - a graph that has all of vertices/nodes have at least one edge.
+- **connected** - a graph that has all of vertices/nodes have at least one edge.
 
 ![Connected Graph](../assets/connectedGraph.png)
 
-* **disconnected** - a graph where some vertices may not have edges.
+- **disconnected** - a graph where some vertices may not have edges.
 
 ![Disconnected Graph](../assets/disconnectedGraph.png)
 
 #### Acyclic vs Cyclic
 
-**Acyclic Graph** - a directed graph without **cycles**.
+**Acyclic Graph** - a directed graph without **cycles**. does NOT loop via edges.
 
-* **cycle** is when a node can be traversed through and potentially end up back at itself.
+- **cycle** is when a node can be traversed through and potentially end up back at itself.
 
-* A directed acyclic graph is also called a DAG. This can also be represented as what we know as a tree.
+- A directed acyclic graph is also called a DAG. This can also be represented as what we know as a tree.
 
 ![Acyclic Graph](../assets/AcyclicGraph.png)
 
-**Cyclic Graphs** - a graph that has cycles.
+**Cyclic Graphs** - a graph that has cycles. DOES loop via edges - aka can hit the same vertex more than once while traversing.
 
-* **cycle** - path of a positive length that starts and ends at the same vertex.
+- **cycle** - path of a positive length that starts and ends at the same vertex.
 
-![Cyclic Graph](../assets/CyclicGraphs.png)
+![Cyclic Graph](../assets/)

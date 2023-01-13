@@ -46,11 +46,11 @@ We have created a dynamic API with an “interface”. Describe how that interfa
 
   Describe the handshake necessary to implement OAuth.
 
-* The user gives OAuth the user credentials, OAuth checks it against the proper cerdentials to see if they are who they say they are. If the Aunthentication passes, then it checks to see if they are authorized for the requested data, if they are authorized, the data is available. If not, the data is not retrieved.
+* The user gives OAuth the user credentials, OAuth checks it against the proper credentials to see if they are who they say they are. If the Authentication passes, then it checks to see if they are authorized for the requested data, if they are authorized, the data is available. If not, the data is not retrieved.
 
   Describe how Role Based Access Control works to a non-technical friend.
 
-* A Driver is allowed/trained to drive the vehicle, a Navigator is allowed/trained to navigate. Different jobs(roles) have different access and job requrirements and responsibilities.
+* A Driver is allowed/trained to drive the vehicle, a Navigator is allowed/trained to navigate. Different jobs(roles) have different access and job requirements and responsibilities.
 
 ## Reflection
 

@@ -5,6 +5,7 @@
 ## Application State with Redux
 
 Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
+
 ## Reading
 
 [Dan Abramov Redux Tutorials](https://egghead.io/courses/getting-started-with-redux)
@@ -24,7 +25,7 @@ Name three Redux store methods given to us by createStore and describe their use
 
 * getState() - retrieves current state of the redux store.
 
-* dispatch - let's you dispatch actions to change state of application.
+* dispatch() - let's you dispatch actions to change state of application.
 
 * subscribe() - let's you register a callback that redux store will call any time an action has been dispatched. UI can be updated to reflect current application state.
 

@@ -5,7 +5,6 @@
 ## Application State with Redux
 
 Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
-
 ## Reading
 
 [Dan Abramov Redux Tutorials](https://egghead.io/courses/getting-started-with-redux)
@@ -29,9 +28,11 @@ Name three Redux store methods given to us by createStore and describe their use
 
 * subscribe() - let's you register a callback that redux store will call any time an action has been dispatched. UI can be updated to reflect current application state.
 
-Explain to a non-technical recruiter what **combineReducers()** does and why it is useful.
+Explain to a non-technical recruiter what [**combineReducers()**](https://redux.js.org/api/combinereducers) does and why it is useful.
 
-* it combines reducers to
+* The combineReducers helper function turns an object whose values are different reducing functions into a single reducing function you can pass to createStore.
+
+* The resulting reducer calls every child reducer, and gathers their results into a single state object. The state produced by combineReducers() namespaces the states of each reducer under their keys as passed to combineReducers()
 
 ## Bookmark and Review
 

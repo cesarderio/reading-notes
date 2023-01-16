@@ -14,7 +14,7 @@ What is the first principle of Redux?
 
 * Whether simple or complex, you represent the whole state of your application as a single javascript object. All changes to state in redux are explicit. Known as State or State Tree.
 
-what is a store and what do we use our reducers for within that store?
+What is a store and what do we use our reducers for within that store?
 
 * A store binds together the 3 principles of redux
   * holds current application state object

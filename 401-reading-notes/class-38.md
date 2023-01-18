@@ -32,7 +32,7 @@ Consider the Redux Async Data Flow Diagram. Describe the flow in your own words.
 How are we accommodating async in our Redux app?
 
 * The thunk middleware allows us to write functions that get
-  **getDispatch** and **getState** as arguments. The thunk functions can have any async logic we want inside, and that logic can dispatch actions and read the store state as needed.
+  **getDispatch()** and **getState()** as arguments. The thunk functions can have any async logic we want inside, and that logic can dispatch actions and read the store state as needed.
 
 [thunk middleware](https://github.com/reduxjs/redux-thunk)
 

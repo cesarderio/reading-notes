@@ -48,7 +48,7 @@ Redux Thunk middleware allows you to write action creators that return a ____ in
 Describe how any return value from the inner thunk function will be made available.
 
 * Any return value will be available as the return value of
-  **disptach** itself.
+  **dispatch** itself.
 
 ## Reflection
 

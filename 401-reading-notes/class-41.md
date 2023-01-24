@@ -26,7 +26,7 @@ What problem does React Native solve (why call it native)?
 
 What are the building blocks of a React Native app? How does that compare to a React app?
 
-* **View** , **Text**, **Image**, **ScrollVie**, **TextInput**
+* **View** , **Text**, **Image**, **ScrollView**, **TextInput**
 * There are different names for similar components and what they do or are part of in the UI.
 
 [expo](https://expo.io/)
@@ -35,7 +35,7 @@ What solution does expo provide?
 
 * Expo is an open source framework for React native apps, you can create, build and run apps natively on Android, iOS and web.
 
-Expo tries to manage as much of the complexity of building apps as possible, which is why we call it the ____ workflow.
+Expo tries to manage as much of the complexity of building apps as possible, which is why we call it the _____ workflow.
 
 * **managed**
 
@@ -82,3 +82,11 @@ What are your learning goals after reading and reviewing the [class README?](htt
 * I am excited to learn how to use React native and expo to build out mobile apps for android and iOS.
 
 ## Things I want to know more about
+
+[Expo Go](https://expo.io/tools#client) is an app you can download on your phone to “view” your app in development.
+
+[Expo CLI](https://expo.io/tools#cli) is a tool to create, manage, and develop your apps.
+
+[Expo SDK](https://expo.io/tools#sdk) is a modular set of packages that provide access to native APIs, like Camera or Notifications.
+
+[Expo Snack](https://expo.io/tools#snack) is a web-based playground where you can write React Native snippets and run them in the browser, which you’ll see in the next exercise!

@@ -22,9 +22,9 @@ For each article that you choose, write a minimum 5 sentences (1 paragraph). Eac
 
 #### Code of Ethics
 
-  Skim: [Code of Ethics](https://www.acm.org/code-of-ethics)
+Skim: [Code of Ethics](https://www.acm.org/code-of-ethics)
 
-* General Ethical Princicples
+* General Ethical Principles
 
   * Contribute to society and to human well-being, acknowledging that all
       people are stakeholders in computing.
@@ -43,7 +43,7 @@ Skim: [Software Engineering Code of Ethics](https://ethics.acm.org/code-of-ethic
 
 [Google and AI](https://gizmodo.com/in-reversal-google-says-its-ai-will-not-be-used-for-we-1826649327)
 
-* After employess protested, Google decided to end its involvement with "Project Maven". It is a Pentagon pilot program which uses AI to review and analyze drone footage. This ties into the General Ethical Principal shown above. These employees have now gotten google to move closer towards creating things that benefit society.
+* After employees protested, Google decided to end its involvement with "Project Maven". It is a Pentagon pilot program which uses AI to review and analyze drone footage. This ties into the General Ethical Principle shown above. These employees have now gotten google to move closer towards creating things that benefit society.
 
 [Microsoft Employees demand end of ICE contract](https://web.archive.org/web/20211124172013/https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html)
 

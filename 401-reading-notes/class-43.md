@@ -6,8 +6,6 @@
 
 Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
 
-Review the Submission Instructions for guidance on completing and submitting this assignment.
-
 ## Reading
 
 [First Timers Only](https://www.firsttimersonly.com/)
@@ -19,5 +17,3 @@ Review the Submission Instructions for guidance on completing and submitting thi
 Review: [List of Beginner-Friendly Projects](https://github.com/search?q=label%3Agood-first-issue+archived%3Afalse) (select your language of choice, also search for label:first-timers-only)
 
 Review: [Call for Code: Open Source for Good](https://callforcode.org/) (follow the “Get started” button)
-
-

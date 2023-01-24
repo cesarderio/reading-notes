@@ -31,7 +31,7 @@ For each article that you choose, write a minimum 5 sentences (1 paragraph). Eac
 
     * This principle is about how we individually as well as collectively use our skills and how it affects society. We should be using our skills for the benefit of our world and humanity. This can cover everything and anything from inclusion to safe work environments and everything in between. How we respect ourselves and others through accessibility, usability, and how it affects our environments at the local and international levels.
 
-  Skim: [Software Engineering Code of Ethics](https://ethics.acm.org/code-of-ethics/software-engineering-code/)
+Skim: [Software Engineering Code of Ethics](https://ethics.acm.org/code-of-ethics/software-engineering-code/)
 
 #### Ethics in the workplace
 

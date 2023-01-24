@@ -65,7 +65,7 @@ For each article that you choose, write a minimum 5 sentences (1 paragraph). Eac
 
 * **FAST** - Get answers quickly enough that it feels interactive, allowing a human to explore and speculate in a flow state.
 
-**VARIED** - Different kinds of information in each record, lacking inherent structure or predictable size, rate of arrival, transformation, or analysis when processed.
+* **VARIED** - Different kinds of information in each record, lacking inherent structure or predictable size, rate of arrival, transformation, or analysis when processed.
 
 [Will democracy survive big data and AI?](https://www.scientificamerican.com/article/will-democracy-survive-big-data-and-artificial-intelligence/)
 

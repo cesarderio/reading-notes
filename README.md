@@ -14,19 +14,19 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 </summary>
 <br>
 
-#### [Class 2 Notes](/102-reading-notes/class2.md)
+[Class 2 Notes](/102-reading-notes/class2.md)
 
-#### [Class 3 Notes](/102-reading-notes/class3.md)
+[Class 3 Notes](/102-reading-notes/class3.md)
 
-#### [Class 4 Notes](/102-reading-notes/class4.md)
+[Class 4 Notes](/102-reading-notes/class4.md)
 
-#### [Class 5 Notes](/102-reading-notes/class5.md)
+[Class 5 Notes](/102-reading-notes/class5.md)
 
-#### [Class 6 Notes](/102-reading-notes/class6.md)
+[Class 6 Notes](/102-reading-notes/class6.md)
 
-#### [Class 7 Notes](/102-reading-notes/class7.md)
+[Class 7 Notes](/102-reading-notes/class7.md)
 
-#### [Class 8 Notes](/102-reading-notes/class8.md)
+[Class 8 Notes](/102-reading-notes/class8.md)
 
 </details>
 

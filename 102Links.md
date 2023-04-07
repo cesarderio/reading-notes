@@ -1,18 +1,7 @@
 # Reading Notes
 
-![](https://ca.slack-edge.com/T039KG69K-U0404KAM68Y-c572e8c6c92c-512)
 
-Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack Javscript web development. Now focusing on Cyber operations and security.
-
-## Ops 102 - Intro to Software Development
-
-#### [Class 1 Notes](/1028d-reading-notes/class1.md)
-
-<details>
-<summary>
 ## Code 102 - Intro to Software Development
-</summary>
-<br>
 
 #### [Class 2 Notes](/102-reading-notes/class2.md)
 
@@ -27,8 +16,6 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 #### [Class 7 Notes](/102-reading-notes/class7.md)
 
 #### [Class 8 Notes](/102-reading-notes/class8.md)
-
-</details>
 
 ## Code 201 - Foundations of Software Development
 

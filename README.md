@@ -12,9 +12,10 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 <summary>
 ## Code 102 - Intro to Software Development
 </summary>
-<br>
 
 [Class 2 Notes](/102-reading-notes/class2.md)
+
+</details>
 
 [Class 3 Notes](/102-reading-notes/class3.md)
 
@@ -27,8 +28,6 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 [Class 7 Notes](/102-reading-notes/class7.md)
 
 [Class 8 Notes](/102-reading-notes/class8.md)
-
-</details>
 
 ## Code 201 - Foundations of Software Development
 

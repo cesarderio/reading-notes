@@ -12,19 +12,29 @@ Case Study: [China's Spy Chip](https://www.bloomberg.com/news/features/2018-10-0
 
 How is a hardware hack different than a software hack?
 
-*
+* Hardware hacking requires changing physical aspects of a computer and/or system.
 
 What are the two ways for spies to alter a computer’s hardware?
 
-*
+* **interdiction** - manipulating devices in transit between manufacturer and customer.
+
+* **seeding** - hacking/control devices from the beginning.
 
 Explain how the hack worked.
 
-*
+* "A Chinese military unit designed and manufactured microchips as small as a sharpened pencil tip. Some of the chips were built to look like signal conditioning couplers, and they incorporated memory, networking capability, and sufficient processing power for an attack."
+
+* "The microchips were inserted at Chinese factories that supplied Supermicro, one of the world’s biggest sellers of server motherboards."
+
+* "The compromised motherboards were built into servers assembled by Supermicro."
+
+* "The sabotaged servers made their way inside data centers operated by dozens of companies."
+
+* "When a server was installed and switched on, the microchip altered the operating system’s core so it could accept modifications. The chip could also contact computers controlled by the attackers in search of further instructions and code."
 
 How were investigators able to trace the chips back to the source?
 
-*
+* Researching the motherboards and where components were manufactered lead them to the factories. Reconnaissance of these factories and government officials and "middel men" gave them intel on the processes used and sources.
 
 ## Additional Resources
 
@@ -38,6 +48,5 @@ How were investigators able to trace the chips back to the source?
 
 * [How Computers Work: What Makes a Computer a Computer](https://www.youtube.com/watch?v=mCq8-xTH7jA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=3&)
 * Subscribe to this Playlist for future reference: [How Computers Work series](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
-
 
 ## Things I want to know more about

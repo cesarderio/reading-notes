@@ -4,7 +4,7 @@
 
 ## What is a Computer?
 
-This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
+This article has great descriptions and breakdowns of computers and their components. It also contains helpful tips and resources for further learning and purchasing the components to build your own computer.
 
 ## Reading
 
@@ -12,19 +12,27 @@ This topic matters because it shows a real world example of what could/did happe
 
 Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
 
-*
+* Each has their own benefits. For single operations/processes, a higher speed can be beneficial, but not as much when trying to run multiple processes at once. This is where multiple cores have the advantage of running multiple processes at the same time/ multi tasking, etc.
 
 What details are you looking for when finding a motherboard which fits your processor?
 
-*
+* compatibility with CPU
+* Onboard Wi-fi
+* Bluetooth
+* Multiple RAM slots/high RAM capacity
+* Support for graphics cards if needed (PCle x16 slot)
 
 What are the tradeoffs you’d evaluate while selecting a storage device?
 
-*
+* HDD vs SSD
+
+* storage size vs price
+
+* physical space/size (internal/external)
 
 Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
 
-*
+* I would explain to them it is like the human body. There is a power source, a "brain", directions for that brain, memory for the brain, both short term and long term, and actions it performs based on those factors.
 
 ## Additional Resources
 

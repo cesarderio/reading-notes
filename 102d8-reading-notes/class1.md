@@ -4,7 +4,7 @@
 
 ## What is a Computer?
 
-Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
+This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
 
 ## Reading
 
@@ -49,4 +49,4 @@ How were investigators able to trace the chips back to the source?
 * [How Computers Work: What Makes a Computer a Computer](https://www.youtube.com/watch?v=mCq8-xTH7jA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=3&)
 * Subscribe to this Playlist for future reference: [How Computers Work series](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 
-## Things I want to know more about
+### Things I want to know more about

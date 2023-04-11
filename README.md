@@ -2,7 +2,7 @@
 
 ![](https://ca.slack-edge.com/T039KG69K-U0404KAM68Y-c572e8c6c92c-512)
 
-Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack Javscript web development. Now focusing on Cyber operations and security.
+Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack JavaScript software engineer. Now I am focusing on Cyber operations and security.
 
 ## Ops 102 - Intro to Computer Operations
 

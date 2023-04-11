@@ -1,8 +1,8 @@
-# Class 01 reading notes
+# Class 02 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## Build a Computer
 
 This article has great descriptions and breakdowns of computers and their components. It also contains helpful tips and resources for further learning and purchasing the components to build your own computer.
 

@@ -1,39 +1,33 @@
-# Class 01 reading notes
+# Class 04 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## Installing Ubuntu Linux
 
-This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
+This topic matters because ---Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
 
 ## Reading
 
-[WikiHow - How to Build a PC](https://www.wikihow.com/Build-a-Computer): This is a longer article, so it’s OK to skim this, especially parts of the process you’re already familiar with.
+[The Complete Beginner’s Guide to Ubuntu](https://web.archive.org/web/20220312030901/https://www.lifewire.com/beginners-guide-to-ubuntu-2205722)
 
-Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
+What is Ubuntu?
 
-*
+* **Ubuntu** is a popular distribution of the **Linux** operating system.
 
-What details are you looking for when finding a motherboard which fits your processor?
+Why would you choose to install the LTS version over regular Ubuntu releases?
 
-*
+* The LTS version has support for five years and is more stable than constantly changing with the regular release.
 
-What are the tradeoffs you’d evaluate while selecting a storage device?
+What is the Ubuntu GNOME Shell?
 
-*
+* It is the graphical display for the GNOME desktop environment.
 
-Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
+How do I install software from the command line?
 
-*
-
-## Additional Resources
+* Software can be installed from the command line with **apt-get**
 
 ### Videos
 
-* Video - [YouTube Robeytech - How to Build a PC]](https://www.youtube.com/watch?v=MtALhv22Ltk)
-
-### Articles
-
-* Infographic - [pcbuildadvisor.com - How to build a computer](https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/)
+* [The Story of Linux](https://www.youtube.com/watch?v=5ocq6_3-nEw)
 
 #### Things I want to know more about

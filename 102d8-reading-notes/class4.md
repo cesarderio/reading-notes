@@ -4,7 +4,7 @@
 
 ## Installing Ubuntu Linux
 
-This topic matters because ---Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
+Ubuntu is one of the most popular distributions of the Linux operating system. It is based on Debian and almost all open source.
 
 ## Reading
 

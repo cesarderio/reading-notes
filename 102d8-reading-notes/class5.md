@@ -4,7 +4,7 @@
 
 ## Installing Virtualbox with Linux Terminal
 
-Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
+The resources and tutorials below offer a great insight into the background and basic concepts to get someone up and running with working with the command line interface.
 
 ## Reading
 

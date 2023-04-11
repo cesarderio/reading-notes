@@ -8,6 +8,8 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 1 Notes](/102d8-reading-notes/class1.md)
 
+#### [Class 2 Notes](/102d8-reading-notes/class2.md)
+
 ## Code 102 - Intro to Software Development
 
 #### [Class 2 Notes](/JS/102-reading-notes/class2.md)

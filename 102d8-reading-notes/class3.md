@@ -4,7 +4,7 @@
 
 ## Startup Sequences and BIOS
 
-Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
+This article explains what BIOS and CMOS are and what part they play in the boot up process.
 
 ## Reading
 

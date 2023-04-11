@@ -1,47 +1,45 @@
-# Class 01 reading notes
+# Class 03 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## Startup Sequences and BIOS
 
-This article has great descriptions and breakdowns of computers and their components. It also contains helpful tips and resources for further learning and purchasing the components to build your own computer.
+Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
 
 ## Reading
 
-[WikiHow - How to Build a PC](https://www.wikihow.com/Build-a-Computer): This is a longer article, so it’s OK to skim this, especially parts of the process you’re already familiar with.
+[HowToGeek What is BIOS, Learn Computer Science - What is BIOS:](https://www.learncomputerscienceonline.com/bios/) Only read down to the end of the CMOS section.
 
-Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
+What is the BIOS?
 
-* Each has their own benefits. For single operations/processes, a higher speed can be beneficial, but not as much when trying to run multiple processes at once. This is where multiple cores have the advantage of running multiple processes at the same time/ multi tasking, etc.
+* The **Basic Input Output System** it is the utility program for the system that loads the operating system.
 
-What details are you looking for when finding a motherboard which fits your processor?
+Use analogies from your previous background to explain what happens during the booting process?
 
-* compatibility with CPU
-* Onboard Wi-fi
-* Bluetooth
-* Multiple RAM slots/high RAM capacity
-* Support for graphics cards if needed (PCle x16 slot)
+* The booting process is like getting a photo studio set up and running. We need power to run our cameras, lighting, etc. The camera and lights need to be connected and synced up, camera to computer and editing/viewer software, calibration of lighting, color, temp, etc.. All these first steps need to happen before even taking a picture/starting to shoot. Each step leads to the next until all steps are complete to be ready to start the show.
 
-What are the tradeoffs you’d evaluate while selecting a storage device?
+What is the “Power On Self Test”?
 
-* HDD vs SSD
+* series of checks performed on internal hardware to check for compatibility, connection and checking for any errors.
 
-* storage size vs price
+What is the CMOS?
 
-* physical space/size (internal/external)
+* **Complementary Metal Oxide Semiconductor** - type of technology used to create integrated curcuits.
 
-Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
+What is the CMOS battery?
 
-* I would explain to them it is like the human body. There is a power source, a "brain", directions for that brain, memory for the brain, both short term and long term, and actions it performs based on those factors.
+* The battery that powers the CMOS, it helps in booting up and storing the non-volatile memory.
 
 ## Additional Resources
 
 ### Videos
 
-* Video - [YouTube Robeytech - How to Build a PC]](https://www.youtube.com/watch?v=MtALhv22Ltk)
+* Video - [Prowler Boot Sector Virus](https://www.youtube.com/watch?v=fSL4J0zhMcY)
 
 ### Articles
 
-* Infographic - [pcbuildadvisor.com - How to build a computer](https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/)
+* [Future Learn](https://www.futurelearn.com/courses/computer-systems/0/steps/53497)
+
+* [What happens when I turn on the computer?](https://www.geeksforgeeks.org/what-happens-when-we-turn-on-computer/)
 
 #### Things I want to know more about

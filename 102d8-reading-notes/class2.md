@@ -38,7 +38,7 @@ Think about others with a background similar to yours. How would you explain to 
 
 ### Videos
 
-* Video - [YouTube Robeytech - How to Build a PC]](https://www.youtube.com/watch?v=MtALhv22Ltk)
+* Video - [YouTube Robeytech - How to Build a PC](https://www.youtube.com/watch?v=MtALhv22Ltk)
 
 ### Articles
 

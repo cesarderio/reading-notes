@@ -2,38 +2,40 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## Installing Virtualbox with Linux Terminal
 
-This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
+Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
 
 ## Reading
 
-[WikiHow - How to Build a PC](https://www.wikihow.com/Build-a-Computer): This is a longer article, so it’s OK to skim this, especially parts of the process you’re already familiar with.
+[Linux command line for beginner:](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) Read parts 1-3. The rest is a how-to guide; skim as time allows.
 
-Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
+Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
 
-*
+* **shell** - Command line interpreter. It provides an interface between user <-> kernel to execute commands.
 
-What details are you looking for when finding a motherboard which fits your processor?
+* **terminal** - similar to shell, interface for user text input.
 
-*
+* **cli** - shell, bash, etc. are **command line interface(s)**
 
-What are the tradeoffs you’d evaluate while selecting a storage device?
+* **command prompt** - user input to execute commands.
 
-*
+What are the commands to change directories, list the file’s contents and rename/move files?
 
-Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
+  Each of these tasks required its own program or command: one to change directories (cd), another to list their contents (ls), a third to rename or move files (mv), and so on.
 
-*
+* **cd** - change directory
 
-## Additional Resources
+* **ls** - list contents of current directory
 
-### Videos
+* **mv** - move or rename files
 
-* Video - [YouTube Robeytech - How to Build a PC]](https://www.youtube.com/watch?v=MtALhv22Ltk)
+What are relative and absolute paths? What is special about starting with a ~ (tilde) or a ‘/’ character in the path?
 
-### Articles
+* **absolute path** is always pointing to the same location/resource. **relative path** points to a location from current working directory/location.
 
-* Infographic - [pcbuildadvisor.com - How to build a computer](https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/)
+Explain what Linux is, using anything except English.
+
+![Linux](../img/basil-james-iC4BsZQaREg-unsplash.jpg)
 
 #### Things I want to know more about

@@ -45,7 +45,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 <details>
 
-<summary> Table of Contents </summary>
+<summary> Notes </summary>
 
 <br>
 
@@ -106,7 +106,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 <details>
 
-<summary> Table of Contents- </summary>
+<summary> Notes- </summary>
 
 <br>
 
@@ -219,7 +219,97 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 15 Notes](/JS/201-reading-notes/class-14-Psychological-Safety.md) -->
 
-## Code 301 - Intermediate Software Development
+<br>
+
+### Code 301 - Intermediate Software Development
+
+<details>
+
+<summary> Notes- </summary>
+
+<br>
+
+<a href="./JS/301-reading-notes/class1">Class 1 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class2">Class 2 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class3">Class 3 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class4">Class 4 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class5">Class 5 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class6">Class 6 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class7">Class 7 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class8">Class 8 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class9">Class 9 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class10">Class 10 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class11">Class 11 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class12">Class 12 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class13">Class 13 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class14">Class 14 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/301-reading-notes/class15">Class 15 Notes</a>
+
+<br>
+<br>
+
+</details>
+
+<br>
+<br>
+
+<!-- ## Code 301 - Intermediate Software Development
 
 #### [Class 1 Notes](/JS/301-reading-notes/class-01.md)
 
@@ -249,7 +339,245 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 14 Notes](/JS/301-reading-notes/class-14.md)
 
-#### [Class 15 Notes](/JS/301-reading-notes/class-15.md)
+#### [Class 15 Notes](/JS/301-reading-notes/class-15.md) -->
+
+### Code 401 - Advanced Software Development
+
+<details>
+
+<summary> Notes- </summary>
+
+<br>
+
+<a href="./JS/401-reading-notes/class1">Class 1 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class2">Class 2 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class3">Class 3 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class4">Class 4 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class5">Class 5 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class6">Class 6 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class7">Class 7 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class8">Class 8 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class9">Class 9 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class10">Class 10 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class11">Class 11 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class12">Class 12 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class13">Class 13 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class14">Class 14 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class15">Class 15 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class16">Class 16 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class17">Class 17 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class18">Class 18 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class19">Class 19 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class20">Class 20 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class21">Class 21 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class22">Class 22 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class23">Class 23 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class24">Class 24 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class25">Class 25 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class26">Class 26 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class27">Class 27 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class28">Class 28 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class29">Class 29 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class30">Class 30 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class31">Class 31 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class32">Class 32 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class33">Class 33 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class34">Class 34 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class35">Class 35 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class36">Class 36 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class37">Class 37 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class38">Class 38 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class39">Class 39 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class40">Class 40 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class41">Class 41 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class42">Class 42 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class43">Class 43 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class44">Class 44 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/class45">Class 45 Notes</a>
+
+<br>
+<br>
+
+</details>
+
+<br>
+<br>
 
 ## Code 401 - Advanced Software Development
 

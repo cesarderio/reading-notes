@@ -5,7 +5,7 @@
 
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack JavaScript software engineer. Now I am focusing on Cyber operations and security.
 
-<details>
+<!-- <details>
 
 <summary> Ops 102 - Intro to Computer Operations </summary>
 
@@ -17,7 +17,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 <a href="./102d8-reading-notes/class2">Class 2 Notes</a>
 
-</details>
+</details> -->
 
 ## Ops 102 - Intro to Computer Operations
 
@@ -39,7 +39,41 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 9 Notes](/102d8-reading-notes/class9.md)
 
-## Code 102 - Intro to Software Development
+<details>
+
+<summary> Code 102 - Intro to Software Development </summary>
+
+<br>
+
+<a href="./JS/102-reading-notes/class2">Class 2 Notes</a>
+
+<br>
+
+<a href="./JS/102-reading-notes/class3">Class 3 Notes</a>
+
+<br>
+
+<a href="./JS/102-reading-notes/class4">Class 4 Notes</a>
+
+<br>
+
+<a href="./JS/102-reading-notes/class5">Class 5 Notes</a>
+
+<br>
+
+<a href="./JS/102-reading-notes/class6">Class 6 Notes</a>
+
+<br>
+
+<a href="./JS/102-reading-notes/class7">Class 7 Notes</a>
+
+<br>
+
+<a href="./JS/102-reading-notes/class8">Class 8 Notes</a>
+
+</details>
+
+<!-- ## Code 102 - Intro to Software Development
 
 #### [Class 2 Notes](/JS/102-reading-notes/class2.md)
 
@@ -53,9 +87,77 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 7 Notes](/JS/102-reading-notes/class7.md)
 
-#### [Class 8 Notes](/JS/102-reading-notes/class8.md)
+#### [Class 8 Notes](/JS/102-reading-notes/class8.md) -->
 
-## Code 201 - Foundations of Software Development
+<details>
+
+<summary> Code 201 - Foundations of Software Development </summary>
+
+<br>
+
+<a href="./JS/201-reading-notes/class1">Class 1 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class2">Class 2 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class3">Class 3 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class4">Class 4 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class5">Class 5 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class6">Class 6 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class7">Class 7 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class8">Class 8 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class9">Class 9 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class10">Class 10 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class11">Class 11 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class12">Class 12 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class13">Class 13 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class14">Class 14 Notes</a>
+
+<br>
+
+<a href="./JS/201-reading-notes/class15">Class 15 Notes</a>
+
+<br>
+
+</details>
+
+<!-- ## Code 201 - Foundations of Software Development
 
 #### [Class 1 Notes](/JS/201-reading-notes/class-01.md)
 
@@ -85,9 +187,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 14 Notes](/JS/201-reading-notes/class-14.md)
 
-#### [Class 15 Notes](/JS/201-reading-notes/class-14-Psychological-Safety.md)
-
-#### [Class 16 Notes](/JS/201-reading-notes/class-15.md)
+#### [Class 15 Notes](/JS/201-reading-notes/class-14-Psychological-Safety.md) -->
 
 ## Code 301 - Intermediate Software Development
 

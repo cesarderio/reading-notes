@@ -5,20 +5,6 @@
 
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack JavaScript software engineer. Now I am focusing on Cyber operations and security.
 
-<!-- <details>
-
-<summary> Ops 102 - Intro to Computer Operations </summary>
-
-<br>
-
-<a href="./102d8-reading-notes/class1">Class 1 Notes</a>
-
-<br>
-
-<a href="./102d8-reading-notes/class2">Class 2 Notes</a>
-
-</details> -->
-
 ## Ops 102 - Intro to Computer Operations
 
 #### [Class 1 Notes](/102d8-reading-notes/class1.md)

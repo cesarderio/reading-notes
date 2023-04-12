@@ -1,39 +1,56 @@
-# Class 01 reading notes
+# Class 07 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## Network Connectivity
 
-This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
+Below is a good start on learning and understanding what **SSH** Protocol and Window's **R**emote **D**esktop connection **P**rotocol are all about and how they work.
 
 ## Reading
 
-[WikiHow - How to Build a PC](https://www.wikihow.com/Build-a-Computer): This is a longer article, so it’s OK to skim this, especially parts of the process you’re already familiar with.
+[SSH Protocol](https://www.ssh.com/ssh/protocol/)
 
-Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
+What is the Secure Shell (SSH) Protocol?
 
-*
+* Method for secure remote login from one computer to another computer.
 
-What details are you looking for when finding a motherboard which fits your processor?
+What are the typical uses of the SSH protocol?
 
-*
+* Providing secure access for users and automated processes
 
-What are the tradeoffs you’d evaluate while selecting a storage device?
+* Interactive and automated file transfers
 
-*
+* Issuing remote commands
 
-Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
+* Managing network infrastructure and other mission-critical system components.
 
-*
+How does the SSH protocol work?
 
-## Additional Resources
+* [The protocol works in the client-server model, which means that the connection is established by the SSH client connecting to the SSH server. The SSH client drives the connection setup process and uses public key cryptography to verify the identity of the SSH server. After the setup phase the SSH protocol uses strong symmetric encryption and hashing algorithms to ensure the privacy and integrity of the data that is exchanged between the client and server.](https://www.ssh.com/academy/ssh/protocol#:~:text=The%20protocol%20works,client%20and%20server.)
 
-### Videos
+Example:
+![SSH Example](../img/SSHexample.png)
 
-* Video - [YouTube Robeytech - How to Build a PC]](https://www.youtube.com/watch?v=MtALhv22Ltk)
+How is the data kept safe when transmitted between the SSH client and server?
 
-### Articles
+* The data is encrypted with a SSH key established at the time of setup.
 
-* Infographic - [pcbuildadvisor.com - How to build a computer](https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/)
+What is SFTP?
+
+* SSH File Transfer Protocol
+
+[What is RDP? And how to use it](https://www.comparitech.com/net-admin/what-is-rdp/)
+
+What is Windows Remote Desktop Connection?
+
+* It is a program/tool to remotely connect to a Windows machine/server over the internet or local network.
+
+What is RDP?
+
+* **Remote Desktop Protocol** allows remote users to see/use Windows on a different machine.
+
+What is the RDP port number?
+
+* 3389
 
 #### Things I want to know more about

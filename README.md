@@ -1,7 +1,7 @@
 # Reading Notes
 
 <!-- ![](./img/RC.JPEG =250x250) -->
-<img src="./img/RC.JPEG" width="400" height="335">
+<img src="./img/RC.JPEG" width="400" height="340">
 
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack JavaScript software engineer. Now I am focusing on Cyber operations and security.
 
@@ -102,11 +102,13 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 8 Notes](/JS/102-reading-notes/class8.md) -->
 
+<br>
+
 ### Code 201 - Foundations of Software Development
 
 <details>
 
-<summary> Notes- </summary>
+<summary> Notes </summary>
 
 <br>
 
@@ -225,7 +227,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 <details>
 
-<summary> Notes- </summary>
+<summary> Notes </summary>
 
 <br>
 
@@ -307,7 +309,6 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 </details>
 
 <br>
-<br>
 
 <!-- ## Code 301 - Intermediate Software Development
 
@@ -341,12 +342,39 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 15 Notes](/JS/301-reading-notes/class-15.md) -->
 
+<br>
+
 ### Code 401 - Advanced Software Development
 
 <details>
 
-<summary> Notes- </summary>
+<summary> Notes </summary>
 
+<br>
+
+<a href="./JS/401-reading-notes/Engineering-Readings">Engineering Readings</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/Data-Structures-and-Algorithms">Data Structures and Algorithms</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/The-Growth-Mindset">The Growth Mindset</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/SQL">SQL & Relational Databases</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/Bash-Command-Line">BASH Command Line</a>
+
+<br>
 <br>
 
 <a href="./JS/401-reading-notes/class1">Class 1 Notes</a>

@@ -1,6 +1,7 @@
 # Reading Notes
 
-![](./img/RC.JPEG =250x250)
+<!-- ![](./img/RC.JPEG =250x250) -->
+<img src="./img/RC.JPEG" width="100" height="100">
 
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack JavaScript software engineer. Now I am focusing on Cyber operations and security.
 

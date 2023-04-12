@@ -308,8 +308,6 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 </details>
 
-<br>
-
 <!-- ## Code 301 - Intermediate Software Development
 
 #### [Class 1 Notes](/JS/301-reading-notes/class-01.md)

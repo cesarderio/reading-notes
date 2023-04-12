@@ -4,8 +4,8 @@
 @import "{{ site.theme }}"; */
 
 * {
-  background-color: rgb(138, 137, 137);
-  color: lightgray;
+  background-color: rgb(80, 80, 80);
+  /* color: lightgray; */
   
 }
 

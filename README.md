@@ -5,7 +5,7 @@
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack JavaScript software engineer. Now I am focusing on Cyber operations and security.
 
 <details>
-<summary>LinksOps102</summery>
+<summary>LinksOps102</summary>
 
 #### [Class 1 Notes](/102d8-reading-notes/class1.md)
 

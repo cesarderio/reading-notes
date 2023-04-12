@@ -39,37 +39,46 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 9 Notes](/102d8-reading-notes/class9.md)
 
+## Code 102 - Intro to Software Development
+
 <details>
 
-<summary> Code 102 - Intro to Software Development </summary>
-
-<br>
+<summary> Links </summary>
 
 <a href="./JS/102-reading-notes/class2">Class 2 Notes</a>
 
+<br>
 <br>
 
 <a href="./JS/102-reading-notes/class3">Class 3 Notes</a>
 
 <br>
+<br>
 
 <a href="./JS/102-reading-notes/class4">Class 4 Notes</a>
 
+<br>
 <br>
 
 <a href="./JS/102-reading-notes/class5">Class 5 Notes</a>
 
 <br>
+<br>
 
 <a href="./JS/102-reading-notes/class6">Class 6 Notes</a>
 
+<br>
 <br>
 
 <a href="./JS/102-reading-notes/class7">Class 7 Notes</a>
 
 <br>
+<br>
 
 <a href="./JS/102-reading-notes/class8">Class 8 Notes</a>
+
+<br>
+<br>
 
 </details>
 

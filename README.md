@@ -11,9 +11,9 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 <br>
 
-<a href="/102d8-reading-notes/class1.md">class1link</a>
+<a href="./102d8-reading-notes/class1.md">class1link</a>
 
-#### [Class 2 Notes](/102d8-reading-notes/class2.md)
+<a href="./102d8-reading-notes/class1.md">class1link</a>
 
 </details>
 

@@ -1,4 +1,5 @@
-![Workshop #2 Prep - Your Why](../assets/YourWhy.png);
+<!-- ![Workshop #2 Prep - Your Why](../assets/YourWhy.png); -->
+![Workshop #2 Prep - Your Why](../../assets/YourWhy.png);
 
 What motivates me to get up in the morning?
 

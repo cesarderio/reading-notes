@@ -1,39 +1,49 @@
-# Class 01 reading notes
+# Class 06 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## SOHO Networking
 
-This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
+This article was a good look into wireless router history and how open source software and a customer base can make change happen.
 
 ## Reading
 
-[WikiHow - How to Build a PC](https://www.wikihow.com/Build-a-Computer): This is a longer article, so it’s OK to skim this, especially parts of the process you’re already familiar with.
+Fascinating history: What one home router can do - [The WRT54GL](https://arstechnica.com/information-technology/2016/07/the-wrt54gl-a-54mbps-router-from-2005-still-makes-millions-for-linksys/)
 
-Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
+What makes the Linksys WRT54GL famous?
 
-*
+* One of the reasons is the ability to use open source software with it.
 
-What details are you looking for when finding a motherboard which fits your processor?
+Given it’s age, why do people continue to buy the Linksys WRT54GL?
 
-*
+* It is easy to use, many people have had them for many years, open source capabilities, etc..
 
-What are the tradeoffs you’d evaluate while selecting a storage device?
+What does the “WRT54GL” stand for in the name?
 
-*
+* Wireless RouTer 54(speed in Mbps) G(802.11g "wifi") L(Linux)
 
-Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
+What did Linksys sell before routers?
 
-*
+* commercial routers and "home networking kits"
 
-## Additional Resources
+When did Linksys preview their first consumer router?
 
-### Videos
+* November 1999 at the COMDEX computer industry conference.
 
-* Video - [YouTube Robeytech - How to Build a PC]](https://www.youtube.com/watch?v=MtALhv22Ltk)
+Who suggested to name it a “router”?
 
-### Articles
+* Bill Gates
 
-* Infographic - [pcbuildadvisor.com - How to build a computer](https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/)
+What happened when Cisco replaced the Linux-based firmware with the VxWorks platform?
+
+* Many customers protested and moved Cisco to change back to using Linux.
+
+Why doesn’t the WRT54GL model need to be modified to abide by the new FCC rules?
+
+* The new rules only apply to the 5GHz band, not the 2.4GHz band.
+
+Does the WRT54GL model still get updates from Linksys?
+
+* It gets occasional updates.
 
 #### Things I want to know more about

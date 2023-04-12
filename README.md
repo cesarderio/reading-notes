@@ -39,11 +39,15 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 9 Notes](/102d8-reading-notes/class9.md)
 
-## Code 102 - Intro to Software Development
+<br>
+
+### Code 102 - Intro to Software Development
 
 <details>
 
-<summary> Links </summary>
+<summary> Table of Contents </summary>
+
+<br>
 
 <a href="./JS/102-reading-notes/class2">Class 2 Notes</a>
 

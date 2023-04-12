@@ -29,6 +29,7 @@ How does the SSH protocol work?
 * [The protocol works in the client-server model, which means that the connection is established by the SSH client connecting to the SSH server. The SSH client drives the connection setup process and uses public key cryptography to verify the identity of the SSH server. After the setup phase the SSH protocol uses strong symmetric encryption and hashing algorithms to ensure the privacy and integrity of the data that is exchanged between the client and server.](https://www.ssh.com/academy/ssh/protocol#:~:text=The%20protocol%20works,client%20and%20server.)
 
 [Example:](https://www.ssh.com/ssh/protocol/)
+[![SSH Example](../img/SSHexample.png)](https://www.ssh.com/ssh/protocol/)
 
 ![SSH Example](../img/SSHexample.png)
 

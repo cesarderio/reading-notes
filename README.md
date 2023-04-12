@@ -98,47 +98,47 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 <br>
 
-<a href="./JS/201-reading-notes/class-1">Class 1 Notes</a>
+<a href="./JS/201-reading-notes/class-01">Class 1 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/201-reading-notes/class-2">Class 2 Notes</a>
+<a href="./JS/201-reading-notes/class-02">Class 2 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/201-reading-notes/class-3">Class 3 Notes</a>
+<a href="./JS/201-reading-notes/class-03">Class 3 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/201-reading-notes/class-4">Class 4 Notes</a>
+<a href="./JS/201-reading-notes/class-04">Class 4 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/201-reading-notes/class-5">Class 5 Notes</a>
+<a href="./JS/201-reading-notes/class-05">Class 5 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/201-reading-notes/class-6">Class 6 Notes</a>
+<a href="./JS/201-reading-notes/class-06">Class 6 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/201-reading-notes/class-7">Class 7 Notes</a>
+<a href="./JS/201-reading-notes/class-07">Class 7 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/201-reading-notes/class-8">Class 8 Notes</a>
+<a href="./JS/201-reading-notes/class-08">Class 8 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/201-reading-notes/class-9">Class 9 Notes</a>
+<a href="./JS/201-reading-notes/class-09">Class 9 Notes</a>
 
 <br>
 <br>
@@ -217,47 +217,47 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 <br>
 
-<a href="./JS/301-reading-notes/class-1">Class 1 Notes</a>
+<a href="./JS/301-reading-notes/class-01">Class 1 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/301-reading-notes/class-2">Class 2 Notes</a>
+<a href="./JS/301-reading-notes/class-02">Class 2 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/301-reading-notes/class-3">Class 3 Notes</a>
+<a href="./JS/301-reading-notes/class-03">Class 3 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/301-reading-notes/class-4">Class 4 Notes</a>
+<a href="./JS/301-reading-notes/class-04">Class 4 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/301-reading-notes/class-5">Class 5 Notes</a>
+<a href="./JS/301-reading-notes/class-05">Class 5 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/301-reading-notes/class-6">Class 6 Notes</a>
+<a href="./JS/301-reading-notes/class-06">Class 6 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/301-reading-notes/class-7">Class 7 Notes</a>
+<a href="./JS/301-reading-notes/class-07">Class 7 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/301-reading-notes/class-8">Class 8 Notes</a>
+<a href="./JS/301-reading-notes/class-08">Class 8 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/301-reading-notes/class-9">Class 9 Notes</a>
+<a href="./JS/301-reading-notes/class-09">Class 9 Notes</a>
 
 <br>
 <br>
@@ -361,42 +361,42 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 <br>
 <br>
 
-<a href="./JS/401-reading-notes/class-1">Class 1 Notes</a>
+<a href="./JS/401-reading-notes/class-01">Class 1 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/401-reading-notes/class-2">Class 2 Notes</a>
+<a href="./JS/401-reading-notes/class-02">Class 2 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/401-reading-notes/class-3">Class 3 Notes</a>
+<a href="./JS/401-reading-notes/class-03">Class 3 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/401-reading-notes/class-4">Class 4 Notes</a>
+<a href="./JS/401-reading-notes/class-04">Class 4 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/401-reading-notes/class-5">Class 5 Notes</a>
+<a href="./JS/401-reading-notes/class-05">Class 5 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/401-reading-notes/class-6">Class 6 Notes</a>
+<a href="./JS/401-reading-notes/class-06">Class 6 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/401-reading-notes/class-7">Class 7 Notes</a>
+<a href="./JS/401-reading-notes/class-07">Class 7 Notes</a>
 
 <br>
 <br>
 
-<a href="./JS/401-reading-notes/class-8">Class 8 Notes</a>
+<a href="./JS/401-reading-notes/class-08">Class 8 Notes</a>
 
 <br>
 <br>
@@ -405,7 +405,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 <br>
 <br>
 
-<a href="./JS/401-reading-notes/class-9">Class 9 Notes</a>
+<a href="./JS/401-reading-notes/class-09">Class 9 Notes</a>
 
 <br>
 <br>

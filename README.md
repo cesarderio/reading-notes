@@ -1,6 +1,6 @@
 # Reading Notes
 
-![](https://ca.slack-edge.com/T039KG69K-U0404KAM68Y-c572e8c6c92c-512)
+![](./img/RC.JPEG =250x250)
 
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack JavaScript software engineer. Now I am focusing on Cyber operations and security.
 

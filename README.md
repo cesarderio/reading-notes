@@ -6,11 +6,8 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 <details>
 <summary>LinksOps102</summary>
-
 #### [Class 1 Notes](/102d8-reading-notes/class1.md)
-
 #### [Class 1 Notes](/102d8-reading-notes/class1.md)
-
 </details>
 
 ## Ops 102 - Intro to Computer Operations

@@ -416,6 +416,10 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 <br>
 <br>
+<a href="./JS/401-reading-notes/Workshop2">Your Why Workshop</a>
+
+<br>
+<br>
 
 <a href="./JS/401-reading-notes/class9">Class 9 Notes</a>
 
@@ -423,6 +427,11 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 <br>
 
 <a href="./JS/401-reading-notes/class10">Class 10 Notes</a>
+
+<br>
+<br>
+
+<a href="./JS/401-reading-notes/Stacks-Queues">Stacks & Queues</a>
 
 <br>
 <br>
@@ -592,22 +601,12 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 <br>
 <br>
 
-<a href="./JS/401-reading-notes/class44">Class 44 Notes</a>
-
-<br>
-<br>
-
-<a href="./JS/401-reading-notes/class45">Class 45 Notes</a>
-
-<br>
-<br>
-
 </details>
 
 <br>
 <br>
 
-## Code 401 - Advanced Software Development
+<!-- ## Code 401 - Advanced Software Development
 
 #### [Engineering Readings](/JS/401-reading-notes/Engineering-Readings.md)
 
@@ -707,7 +706,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 42 Notes](/JS/401-reading-notes/class-42.md)
 
-#### [Class 43 Notes](/JS/401-reading-notes/class-43.md)
+#### [Class 43 Notes](/JS/401-reading-notes/class-43.md) -->
 
 ### Growth mindset is the drive to keep learning and working forward even through setbacks
 

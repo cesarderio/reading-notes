@@ -83,9 +83,9 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 14 Notes](/JS/201-reading-notes/class-14.md)
 
-#### [Class 14 Psychological Safety](/JS/201-reading-notes/class-14-Psychological-Safety.md)
+#### [Class 15 Notes](/JS/201-reading-notes/class-14-Psychological-Safety.md)
 
-#### [Class 15 Notes](/JS/201-reading-notes/class-15.md)
+#### [Class 16 Notes](/JS/201-reading-notes/class-15.md)
 
 ## Code 301 - Intermediate Software Development
 
@@ -163,7 +163,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 14 Notes](/JS/401-reading-notes/class-14.md)
 
-#### [Class 15 Notes: Read TREES](/JS/401-reading-notes/class-15.md)
+#### [Class 15 Notes](/JS/401-reading-notes/class-15.md)
 
 #### [Class 16 Notes](/JS/401-reading-notes/class-16.md)
 
@@ -217,9 +217,9 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 41 Notes](/JS/401-reading-notes/class-41.md)
 
-#### [Class 42 - Ethics in Tech](/JS/401-reading-notes/class-42.md)
+#### [Class 42 Notes](/JS/401-reading-notes/class-42.md)
 
-#### [Class 43 - OSS Contributions](/JS/401-reading-notes/class-43.md)
+#### [Class 43 Notes](/JS/401-reading-notes/class-43.md)
 
 ### Growth mindset is the drive to keep learning and working forward even through setbacks
 
@@ -231,10 +231,6 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 * Try to be a little better everyday
 
-## Things I want to know more about
-
-#### Link to my Github account
-
 #### [Github.com/cesarderio](https://github.com/cesarderio)
 
-![](https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo-500x289.jpg)
+<!-- ![]() -->

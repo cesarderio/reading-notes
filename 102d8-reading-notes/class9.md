@@ -1,39 +1,37 @@
-# Class 01 reading notes
+# Class 09 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## Command Line Interface
 
-This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
+Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
 
 ## Reading
 
-[WikiHow - How to Build a PC](https://www.wikihow.com/Build-a-Computer): This is a longer article, so it’s OK to skim this, especially parts of the process you’re already familiar with.
+[Command Prompt: What it is and how to use it](https://www.lifewire.com/command-prompt-2625840)
 
-Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
+What is the Command Prompt?
 
-*
+* A **Windows** command line interpreter application.
 
-What details are you looking for when finding a motherboard which fits your processor?
+How do I access the Command Prompt?
 
-*
+* It can be used by its run **cmd** command, from its location, Start and Apps screens.
 
-What are the tradeoffs you’d evaluate while selecting a storage device?
+What are some of the most commonly used commands?
 
-*
+* **cd** - change directory
 
-Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
+* **cop** - copy file/directory
 
-*
+* **ipconfig** - displays IP information
 
-## Additional Resources
+What is Windows Power Shell?
 
-### Videos
+* It is **Windows** version of a command line shell.
 
-* Video - [YouTube Robeytech - How to Build a PC]](https://www.youtube.com/watch?v=MtALhv22Ltk)
+What is Windows Terminal?
 
-### Articles
-
-* Infographic - [pcbuildadvisor.com - How to build a computer](https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/)
+* It is **Windows** terminal, replaced **command prompt**.
 
 #### Things I want to know more about

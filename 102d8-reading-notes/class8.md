@@ -1,10 +1,10 @@
-# Class 01 reading notes
+# Class 08 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
 ## Virtualization of Windows OS
 
-Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
+This article does a great job of breaking things down and explaining all about ISO file(s)
 
 ## Reading
 

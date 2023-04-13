@@ -4,7 +4,7 @@
 
 ## Command Line Interface
 
-Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
+The link below explains more about Window's Command Prompt, PowerShell and Terminal.
 
 ## Reading
 

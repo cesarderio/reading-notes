@@ -2,38 +2,28 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## Virtualization of Windows OS
 
-This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
+Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
 
 ## Reading
 
-[WikiHow - How to Build a PC](https://www.wikihow.com/Build-a-Computer): This is a longer article, so it’s OK to skim this, especially parts of the process you’re already familiar with.
+[What is an ISO file?:](https://www.lifewire.com/iso-file-2625923) Only read sections 1.1 - 1.4 inclusively.
 
-Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
+What is an ISO File?
 
-*
+* It is a file that is a "perfect representation" of an entire (CD/DVD/BD), for us this means we can have a "clone" of our machines.
 
-What details are you looking for when finding a motherboard which fits your processor?
+How do you write an ISO file to a CD, DVD, or removable media (like a thumb drive)?
 
-*
+* A program need that cun "burn/write" to the the disc is needed. Copying/Pasting will not work for this, you'll just have a "copy" and not a "clone".
 
-What are the tradeoffs you’d evaluate while selecting a storage device?
+How do you create an ISO file?
 
-*
+* A program is needed to create the ISO file from a disc/files.
 
-Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with?
+How do you mount an ISO file?
 
-*
-
-## Additional Resources
-
-### Videos
-
-* Video - [YouTube Robeytech - How to Build a PC]](https://www.youtube.com/watch?v=MtALhv22Ltk)
-
-### Articles
-
-* Infographic - [pcbuildadvisor.com - How to build a computer](https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/)
+* A program is needed to mount/run the ISO file.
 
 #### Things I want to know more about

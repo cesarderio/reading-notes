@@ -6,7 +6,7 @@
 
 ## Learn HTML
 
-### **Ordered** and **Unordered** lists:
+### **Ordered** and **Unordered** lists
 
 1. When should you use an **unordered list** in your HTML document?
 
@@ -24,10 +24,9 @@
 
 * By using the *value* attribute.
 
-
 ## **Learn CSS**
 
-### **The Box Model**:
+### **The Box Model**
 
 1. Describe the CSS properties of **margin** and **padding** as characters in a story. What is their role in a story titled: **The Box Model**?
 
@@ -39,7 +38,7 @@
 
 ## **Learn JS**
 
-### **Arrays**. **Operators** and **Expressions**. **Conditionals**. **Loops**:
+### **Arrays**. **Operators** and **Expressions**. **Conditionals**. **Loops**
 
 1. What **data types** can you store inside of an **Array**?
  Any kind of *data type* can be stored in side of **Arrays**.
@@ -48,9 +47,8 @@
 
 * Yes it is, you can access the values by using the items' index inside the array(s).
 
-
-![image](../img/Array.png)
-
+<!-- ![image](../img/Array.png) -->
+![image](../../img/Array.png)
 
 3. List **five** shorthand operators for assignment in javascript and describe what they do.
 
@@ -60,7 +58,8 @@
 
 * The result would be falsey, the first portion evaluates to false and so does the second portion.
 
-![image](../img/expression.png)
+<!-- ![image](../img/expression.png) -->
+![image](../../img/expression.png)
 
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
 
@@ -70,4 +69,4 @@
 
 * When you want to repeat code a known or unknown number of times to check conditionals or evaluate to true or false.
 
-## Things I want to know more about:
+## Things I want to know more about

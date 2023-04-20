@@ -10,5 +10,16 @@
     "editor.wordWrapColumn": 70,
     "workbench.colorTheme": "Andromeda Italic",
     "workbench.preferredDarkColorTheme": "Dark++ Italic",
-    "workbench.preferredHighContrastColorTheme": "Dark++ Italic"
+    "workbench.preferredHighContrastColorTheme": "Dark++ Italic",
+    "editor.guides.highlightActiveBracketPair": true,
+    "editor.renderLineHighlight": "none",
+    "editor.occurrencesHighlight": false,
+    "editor.semanticHighlighting.enabled": "configuredByTheme",
+    "editor.cursorBlinking": "smooth",
+    "editor.foldingHighlight": true,
+    "editor.cursorStyle": "line",
+    "svelte.plugin.typescript.semanticTokens.enable": false,
+    "terminal.integrated.cursorStyle": "line",
+    "gitlens.blame.highlight.enabled": true,
+    "workbench.editor.highlightModifiedTabs": true
 }

@@ -27,6 +27,30 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 <br>
 
+## Ops 201 - Foundations of Computer Operations
+
+#### [Class 1 Notes](/201d8/class01.md)
+
+#### [Class 2 Notes](/201d8/class02.md)
+
+#### [Class 3 Notes](/201d8/class03.md)
+
+#### [Class 4 Notes](/201d8/class04.md)
+
+#### [Class 5 Notes](/201d8/class05.md)
+
+#### [Class 6 Notes](/201d8/class06.md)
+
+#### [Class 7 Notes](/201d8/class07.md)
+
+#### [Class 8 Notes](/201d8/class08.md)
+
+#### [Class 9 Notes](/201d8/class09.md)
+
+#### [Class 10 Notes](/201d8/class10.md)
+
+<br>
+
 ### Code 102 - Intro to Software Development
 
 <details>

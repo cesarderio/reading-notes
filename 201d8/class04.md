@@ -1,15 +1,13 @@
-# Class 01 reading notes
+# Class 04 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## Troubleshooting Techniques
 
-This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
+Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
 
 ## Reading
 
-## Additional Resources
-
-## Videos
+[CompTIA A+ 220-902 Troubleshooting Methodology](https://www.professormesser.com/free-a-plus-training/220-902/how-to-troubleshoot/)
 
 ### Things I want to know more about

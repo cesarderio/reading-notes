@@ -1,4 +1,4 @@
-# Class 09 reading notes
+# Class 11 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
@@ -11,5 +11,6 @@ Below you will find some reading material, code samples, and some additional res
 []()
 
 ## Bookmark and Review
+
 
 ### Things I want to know more about

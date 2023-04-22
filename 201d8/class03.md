@@ -1,15 +1,13 @@
-# Class 01 reading notes
+# Class 03 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## Issue tracking system
 
-This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
+Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
 
 ## Reading
 
-## Additional Resources
-
-## Videos
+[Introduction to Help Desk Support Roles](https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5)
 
 ### Things I want to know more about

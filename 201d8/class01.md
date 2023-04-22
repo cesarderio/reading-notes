@@ -2,14 +2,45 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## Backup Your System
 
-This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
+Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
 
 ## Reading
 
-## Additional Resources
+[How to Use System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131)
 
-## Videos
+What is **System Restore?**
+
+* **System Restore** is a tool in Windows that allows users to revert to a previous version or "save piont". (undo/reverse)
+
+Does **System Restore** work on all PCs or Windows versions?
+
+* It is important to note that there are *different* **System Restore** procedures depending on the version of Windows.
+
+Can **System Restore** recover a deleted file?
+
+* **System Restore** does not affect *non-system* files. It works as a save point before major changes, installs, etc. to the system, not user files/*non-system* files.
+
+What are the procedures for **System Restore** on Windows 10?
+(These procedures are the same for 10 and 8)
+
+* Open Control Panel
+
+* Go to **System and Security**
+
+* System -> System Protection
+
+  * When a *System Properties* window appears click on **System Restore**
+
+  * Click *next* to choose your restore point from the list, click *next*
+
+  * Confirm the restore point and click on *Finish* and then click *Yes* to continue.
+
+* Wait for **System Restore** to run and computer to *Restart*.
+
+* After signing back in there should be a confirmation that " **System Restore** completed successfully." This window can be closed. The Windows machine should be restored to the selected *restore point*
 
 ### Things I want to know more about

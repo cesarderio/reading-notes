@@ -1,15 +1,28 @@
-# Class 01 reading notes
+# Class 02 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## What is a Computer?
+## Dev Tools
 
-This topic matters because it shows a real world example of what could/did happen and how important security is at all levels of all processes of software and hardware.
+Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
 
 ## Reading
 
-## Additional Resources
+Review the introductory sections for each link below.
 
-## Videos
+[GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github)
+
+* I learned and have been using Github since I went through the JS course(s). It has become like second nature, but I still have things I learn constantly with Github especially as I learn more about open-source software.
+
+[VS Code](https://code.visualstudio.com/docs)
+
+* I learned VScode alongside Github going through web dev and I'm in VScode daily. I use it for all my text and script editing/building/planning/notes/etc.
+## Optional
+
+[Origins of Bash/Story of Shellshock](https://www.wired.com/2014/09/shellshocked-bash/)
+
+[Tutorialspoint - What is a Shell?](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm)
 
 ### Things I want to know more about

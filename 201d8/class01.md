@@ -4,9 +4,7 @@
 
 ## Backup Your System
 
-Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
-
-Review the Submission Instructions for guidance on completing and submitting this assignment.
+The linked content is a good resource for learning about what **System Restore** is and how it works within the Windows OS and its different versions. I've added my own Q&A's below that I think are useful to know and one set of procedures for **System Restore** .
 
 ## Reading
 

@@ -19,10 +19,17 @@ Review the introductory sections for each link below.
 [VS Code](https://code.visualstudio.com/docs)
 
 * I learned VScode alongside Github going through web dev and I'm in VScode daily. I use it for all my text and script editing/building/planning/notes/etc.
+
 ## Optional
 
 [Origins of Bash/Story of Shellshock](https://www.wired.com/2014/09/shellshocked-bash/)
 
 [Tutorialspoint - What is a Shell?](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm)
+
+* A **Shell** is the interface to the Unix system. It executes programs based on user input. It also displays the output.
+
+* There are different **Shells** like different **OS**'s.
+
+The **command prompt** aka **$** is issued by the shell. If this is shown it means you can input a command.
 
 ### Things I want to know more about

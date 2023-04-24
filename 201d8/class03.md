@@ -34,6 +34,6 @@ Below you will find some reading materials and additional resources that support
 
 [Example flow chart](javascript:popUp('/content/images/chap1_9780789752406/elementLinks/01fig02_alt.jpg'))
 
-![flow chart](/img/flowchart.png)
+![flow chart](../img/flowchart.png)
 
 ### Things I want to know more about

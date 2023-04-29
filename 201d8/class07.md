@@ -10,6 +10,19 @@ Below you will find some reading material, code samples, and some additional res
 
 [Should You Learn Powershell?](https://techthoughts.info/ps1-should-you-learn-powershell/)
 
+What is **Powershell?**
+
+* Application/program made by Microsoft
+
+* A command-line shell interface
+
+* Enables computer management from the command line for system administrators(and power users)
+
+* A scripting language, build on **[.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
+
+* Can be used for automating administrative tasks and configuration management.
+
+
 [Who needs malware? IBM says most hackers just Powershell through boxes now, leaving little in the way of footprints](https://www.theregister.com/2019/02/26/malware_ibm_powershell/)
 
 ## Videos

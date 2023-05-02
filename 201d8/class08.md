@@ -22,6 +22,8 @@ What is it used for?
 
 * It is used to hold all the information/ configuration settings and work behind the scenes. Most people do not know it even exists or is running in the background.
 
+* There are some great **"Registry Hacks"** at the link above.
+
 ## Bookmark and Review
 
 [Article - How to use Windows Event Viewer](https://www.faqforge.com/windows/windows-10/what-is-event-viewer-and-how-to-use-it-in-windows-10/)

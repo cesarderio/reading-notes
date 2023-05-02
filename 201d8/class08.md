@@ -12,7 +12,7 @@ Below you will find some reading material, code samples, and some additional res
 
 What is the **Windows Registry?**
 
-* **Windows Registry** is a database that stores cinfiguration settings for Windows and other programs.
+* **Windows Registry** is a database that stores configuration settings for Windows and other programs.
 
 What does it do?
 

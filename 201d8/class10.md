@@ -10,11 +10,17 @@ Below you will find some reading material, code samples, and some additional res
 
 [Article - How to Get started with Veeam Free Edition](https://www.veeam.com/blog/how-to-get-started-with-veeam-backup-free-edition.html)
 
-* **VeeamZIP** – Create backup of a running | copy backup to another host without having to power off original VM
-  * Update | Archive | Copy
+* **VeeamZIP** – Create backup of a running VM
+  * Copy backup to another host without having to power off original VM
+    * Update
+    * Archive
+    * Copy
 
 * **Powerful and flexible restores** – different restore options/methods
-  * Restore VM files(partial/full/users/guestOS/VM  disks)
+  * Restore VM files
+    * partial/full
+    * users/guestOS
+    * VM disks
 
 * **Quick Migration (VMware)** – quickly move VM to another machine.
   * Without needing clusters, shared storage, etc..

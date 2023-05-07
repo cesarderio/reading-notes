@@ -50,6 +50,16 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 10 Notes](/201d8/class10.md)
 
+#### [Class 11 Notes](/201d8/class11.md)
+
+#### [Class 12 Notes](/201d8/class12.md)
+
+#### [Class 13 Notes](/201d8/class13.md)
+
+#### [Class 14 Notes](/201d8/class14.md)
+
+#### [Class 15 Notes](/201d8/class15.md)
+
 <br>
 
 ### Code 102 - Intro to Software Development

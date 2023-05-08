@@ -21,7 +21,7 @@ Below you will find some reading material, code samples, and some additional res
 
 * Easy to install and maintain, offering very useful web-based user interface
 
-* Many inclued features often only found in expensive commercial routers.
+* Many included features often only found in expensive commercial routers.
 
 ## Popular Uses
 

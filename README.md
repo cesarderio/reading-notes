@@ -6,9 +6,62 @@
 
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack JavaScript software engineer. Now I am focusing on Cyber operations and security.
 
-## Ops 102 - Intro to Computer Operations
+### Ops 102 - Intro to Computer Operations
 
-#### [Class 1 Notes](/102d8-reading-notes/class1.md)
+<details>
+
+<summary> Notes </summary>
+
+<br>
+
+<a href="./102d8-reading-notes/class1">Class 1 Notes</a>
+
+<br>
+<br>
+
+<a href="./102d8-reading-notes/class2">Class 2 Notes</a>
+
+<br>
+<br>
+
+<a href="./102d8-reading-notes/class3">Class 3 Notes</a>
+
+<br>
+<br>
+
+<a href="./102d8-reading-notes/class4">Class 4 Notes</a>
+
+<br>
+<br>
+
+<a href="./102d8-reading-notes/class5">Class 5 Notes</a>
+
+<br>
+<br>
+
+<a href="./102d8-reading-notes/class6">Class 6 Notes</a>
+
+<br>
+<br>
+
+<a href="./102d8-reading-notes/class7">Class 7 Notes</a>
+
+<br>
+<br>
+
+<a href="./102d8-reading-notes/class8">Class 8 Notes</a>
+
+<br>
+<br>
+
+<a href="./102d8-reading-notes/class8">Class 9 Notes</a>
+
+<br>
+<br>
+
+</details>
+
+<!-- #### [Class 1 Notes](/102d8-reading-notes/class1.md)
 
 #### [Class 2 Notes](/102d8-reading-notes/class2.md)
 
@@ -24,7 +77,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 8 Notes](/102d8-reading-notes/class8.md)
 
-#### [Class 9 Notes](/102d8-reading-notes/class9.md)
+#### [Class 9 Notes](/102d8-reading-notes/class9.md) -->
 
 <br>
 

@@ -80,7 +80,7 @@ Below you will find some reading material, code samples, and some additional res
 
 * Reinstall Windows
 
-## 7: Keep your PC clean
+## Step 7: Keep your PC clean
 
 * [Avira Antivirus Free Edition](https://go.redirectingat.com/?id=111346X1569483&url=https://www.avira.com/en/free-antivirus-windows&xcust=2-1-478239-1-0-0&sref=https://www.pcworld.com/article/478239/how-to-remove-malware-from-your-windows-pc.html)
 

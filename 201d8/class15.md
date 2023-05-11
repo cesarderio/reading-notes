@@ -12,34 +12,18 @@ Below you will find some reading material, code samples, and some additional res
 
 What are three key factors that contribute to psychologically safe teams?
 
-* Answer
+* Empathy
+
+* Conversational turn-taking
+
+* Everyone feels safe in taking risks around their team members, and that they won't be embarrassed or punished for doing so.
 
 Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
 
-* Answer
+* I used to work in a very hostile work place that had no business being that way. Anger issues and childlike temper tantrums were the norm, it was a bad work environment for everyone. Overtime it started to affect me outside of work and I had to move on for my mental health.
 
 What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
 
-* Answer
+* They usually tend to be more productive and accomplish more across the board. Being in a healthy work environment interacting with others that all work together and build on that improve the business and human sides of any group/company/etc.
 
 ### Things I want to know more about
-
-* They found **five key characteristics** of "enhanced teams":
-
-* **Psychological safety:** *Everyone feels safe in taking risks around their team members, and that they won't be embarrassed or punished for doing so.*
-
-* **Dependability:** *Everyone completes quality work on time.*
-
-* **Structure and Clarity:** *Everyone knows what their specific expectations are. These expectations must be challenging yet attainable.*
-
-* **Meaning:** *Everyone has a sense of purpose in their work (i.e., financial security, supporting family, helping the team succeed, etc.).*
-
-* **Impact:** *Everyone sees that the result of their work actually contributes to the organization's overall goals.*
-
-* Other research teams disagree and believe that personalities and individual do carry more weight in creating "enhanced teams". Other teams found that low or non-existent "relationship-building" traits had more to do with failure in teams, more so the individuals in those teams that were "pragmatic".
-
-* When teams come together emotional intelligence seems to matter much more that IQ. EQ is more beneficial for the team.
-
-* Pragmatism is not necessarily a bad thing, technical knowledge and skill is important early on when starting the career. It is best to cultivate both sides of the "brain". The analytical and artistic sides both should be part of our "tool belt".
-
-* We should strive to improve both sides, build on our technical skillset to enter and advance in the career and artistic and emotional side to build connections and friendships and create new experiences and knowledge which to draw from.

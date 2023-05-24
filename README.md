@@ -81,9 +81,94 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 <br>
 
-## Ops 201 - Foundations of Computer Operations
+### Ops 201 - Foundations of Computer Operations
 
-#### [Class 1 Notes](/201d8/class01.md)
+<details>
+
+<summary> Notes </summary>
+
+<br>
+
+<a href="./201d8/class01">Class 1 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class02">Class 2 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class03">Class 3 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class04">Class 4 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class05">Class 5 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class06">Class 6 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class07">Class 7 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class08">Class 8 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class09">Class 9 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class10">Class 10 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class11">Class 11 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class12">Class 12 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class13">Class 13 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class14">Class 14 Notes</a>
+
+<br>
+<br>
+
+<a href="./201d8/class15">Class 15 Notes</a>
+
+<br>
+<br>
+
+</details>
+
+<br>
+
+<!-- #### [Class 1 Notes](/201d8/class01.md)
 
 #### [Class 2 Notes](/201d8/class02.md)
 
@@ -111,7 +196,94 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 #### [Class 14 Notes](/201d8/class14.md)
 
-#### [Class 15 Notes](/201d8/class15.md)
+#### [Class 15 Notes](/201d8/class15.md) -->
+
+<br>
+
+### Ops 301 - Networking & Systems Administration
+
+<details>
+
+<summary> Notes </summary>
+
+<br>
+
+<a href="./301d8/class01">Class 1 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class02">Class 2 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class03">Class 3 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class04">Class 4 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class05">Class 5 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class06">Class 6 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class07">Class 7 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class08">Class 8 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class09">Class 9 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class10">Class 10 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class11">Class 11 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class12">Class 12 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class13">Class 13 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class14">Class 14 Notes</a>
+
+<br>
+<br>
+
+<a href="./301d8/class15">Class 15 Notes</a>
+
+<br>
+<br>
+
+</details>
 
 <br>
 

@@ -40,9 +40,9 @@ List and describe the ports used for the following:
 
 **SSH** - Secure Shell, look/acts like Telnet, over tcp/22.
 
-**DNS** - Domain Name System - converts name to IP, over uydp/53, for largerger files may use tcp/53.
+**DNS** - Domain Name System - converts name to IP, over udp/53, for largerger files may use tcp/53.
 
-**SMTP** - Simple Mail Transfer Protocol - server to server email tranfer
+**SMTP** - Simple Mail Transfer Protocol - server to server email transfer
 
 * tcp/25 (SMTP using plaintext)
 * tcp/587 (SMTP using TLS encryption)

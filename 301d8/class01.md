@@ -54,9 +54,9 @@ What 3 high-level things does Wireshark accomplish? How could these be used for 
 
 * *Packet Capture* - This can be used for both good and evil depending on what it is being used for and by whom.
 
-* *Filtering* This gives the ability to filter and search for specific parameters to find the data you are looking for. All three of these will depend on the context it is used and by whom for what purposes.
+* *Filtering* - This gives the ability to filter and search for specific parameters to find the data you are looking for. All three of these will depend on the context it is used and by whom for what purposes.
 
-* *Visualization* Like the previous two this can and will be used by both good and evil depending on the context and the data being searched for and for what purpose.
+* *Visualization* - Like the previous two this can and will be used by both good and evil depending on the context and the data being searched for and for what purpose.
 
 ## Videos
 

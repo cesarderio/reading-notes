@@ -61,7 +61,15 @@ What 3 high-level things does Wireshark accomplish? How could these be used for 
 ## Videos
 
 [Understanding the OSI Model](https://www.professormesser.com/network-plus/n10-008/n10-008-video/understanding-the-osi-model-3/)
+
+<br>
+
 [Data Communication](https://www.professormesser.com/network-plus/n10-008/n10-008-video/data-communication/)
+
+<br>
+
 [Packet, routers, and reliability](https://www.youtube.com/watch?v=aD_yi5VjF78)
+
+<br>
 
 ### Things I want to know more about

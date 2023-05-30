@@ -52,24 +52,19 @@ What is a packet?
 
 What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?
 
-* *Packet Capture*
+* *Packet Capture* - This can be used for both good and evil depending on what it is being used for and by whom.
 
-* *Filtering*
+* *Filtering* This gives the ability to filter and search for specific parameters to find the data you are looking for. All three of these will depend on the context it is used and by whom for what purposes.
 
-* *Visualization*
+* *Visualization* Like the previous two this can and will be used by both good and evil depending on the context and the data being searched for and for what purpose.
 
 ## Videos
 
 [Understanding the OSI Model](https://www.professormesser.com/network-plus/n10-008/n10-008-video/understanding-the-osi-model-3/)
-
 <br>
-
 [Data Communication](https://www.professormesser.com/network-plus/n10-008/n10-008-video/data-communication/)
-
 <br>
-
 [Packet, routers, and reliability](https://www.youtube.com/watch?v=aD_yi5VjF78)
-
 <br>
 
 ### Things I want to know more about

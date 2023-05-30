@@ -48,7 +48,7 @@ What is Wireshark?
 
 What is a packet?
 
-* It is a section of a message or piece of data that is getting sent or recieved.
+* It is a section of a message or piece of data that is getting sent or received.
 
 What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?
 

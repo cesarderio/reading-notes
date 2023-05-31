@@ -28,7 +28,7 @@ What are the three options of promiscuous mode and what does each do?
 
 What is Port Forwarding?
 
-* ***Port Forwarding*** is a process of "listening" for certain data types / ports and like constructin detours, redirect that traffic/data where we want it to go. We can use this when remotely connecting to our home lab kit.
+* ***Port Forwarding*** is a process of "listening" for certain data types / ports and like construction detours, redirect that traffic/data where we want it to go. We can use this when remotely connecting to our home lab kit.
 
 ## Videos
 

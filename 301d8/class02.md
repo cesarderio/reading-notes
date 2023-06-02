@@ -58,7 +58,7 @@ List and describe the ports used for the following:
 
 **HTTPS** - Hypertext Transfer Protocol Secure over tcp/443
 
-**RDP** - Remote Desktop Protocol
+**RDP** - Remote Desktop Protocol 3389
 
 **Ping** - Packet Inter-Network Groper - tries to send a request to check status of port.
 

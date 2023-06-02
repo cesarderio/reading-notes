@@ -14,6 +14,8 @@ What is CIDR notation? a CIDR block?
 
 * **CIDR** notation is a way to show the information (range of IP addresses) in the CIDR block.
 
+* **CIDR** - Classless InterDomain Routing - How we define subnets for purpose of routing traffic between them.
+
 How many octets are found in an IPv4 address?
 
 * There are four octets (8-bit decimal numbers)

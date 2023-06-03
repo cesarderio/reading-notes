@@ -16,7 +16,7 @@ Which network mode in VirtualBox can be used to emulate unplugging the Ethernet 
 
 Which network mode would be best if you wanted to run a server on a VM that could be fully accessible from your physical local area network?
 
-* The ***NAT*** network mode
+* The ***Bridged*** network mode
 
 What are the three options of promiscuous mode and what does each do?
 

@@ -8,7 +8,7 @@ The linked content is a good resource for learning about VPN Tunnels.
 
 ## Reading
 
-[What is a Site-to-Site VPN?](https://www.fortinet.com/fr/resources/cyberglossary/what-is-site-to-site-vpn)
+[Site-to-Site VPN](https://www.fortinet.com/fr/resources/cyberglossary/what-is-site-to-site-vpn)
 
 What is a site-to-site VPN?
 

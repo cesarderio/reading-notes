@@ -2,14 +2,25 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## Topic
+## VPC
 
-The linked content is a good resource for learning about what the "TOPIC"
+The linked content is a good resource for learning about VPC
 
 ## Reading
 
-[Link](link url)
+[What is a Virtual Private Cloud(VPC)](https://www.cloudflare.com/learning/cloud/what-is-a-virtual-private-cloud/)
 
-What is **topic?**
+How can one host within a VPC any services that need to be public?
+
+*
+
+What are examples of services that would live in the publicly-accessible part of the VPC
+  The privately-accessible part?
+
+*
+
+What are the trade-offs of using a VPC vs traditional infrastructure?
+
+*
 
 ### Things I want to know more about

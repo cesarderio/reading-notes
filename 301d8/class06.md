@@ -4,7 +4,7 @@
 
 ## Topic
 
-The linked content is a good resource for learning about what the "TOPIC"
+Below you will find some linked content and resources for learning about **Network Address Translation.
 
 ## Reading
 
@@ -16,15 +16,17 @@ What is the main purpose for implementing NAT on a network?
 
 At what layer of the OSI model does NAT happen?
 
-*
+* **NAT** happens on Layer 3
 
 What happens to packets when NAT runs out of addresses in the pool of available IPs?
 
-*
+* It will drop the packet(s).
 
 What disadvantage does using NAT pose for routers?
 
-*
+* Adding more complexity or points of failure to the network
+
+* Performance or connectivity issues depending on settings/etc..
 
 ## Videos
 

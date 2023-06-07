@@ -51,7 +51,7 @@ Research: What encryption algorithms does RADIUS use?
 
 * **TLS** Transport Layer Security
 
-* **PEAP** Protected Extensible Authenctioncation Protocol
+* **PEAP** Protected Extensible Authentication Protocol
 
 ## Videos
 

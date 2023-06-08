@@ -1,47 +1,13 @@
----
----
-
-@import "{{ site.theme }}";
-
-
-
-h1,
-h2,
-h3,
-h4 {
+body {
+  background-color: grey;
+  color: #F8F8FF; /* off-white color, you can adjust this value if needed */
   text-align: center;
-  align-self: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-p img{
-  align-content: center;
-  align-self: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-img {
-  align-content: center;
-  align-self: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-a {
-  justify-content: center;
-  align-items: center;
-  align-self: center;
 }
 
 
-span.site-footer-owner,
+/* span.site-footer-owner,
 span.site-footer-credits {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
+} */

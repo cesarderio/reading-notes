@@ -1,6 +1,4 @@
-# Reading Notes
-
-<img src="./assets/img/RC.JPEG" width="400" height="400">
+<img src="./assets/img/RC.JPEG" width="400" height="350">
 
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack JavaScript software engineer. Now I am focusing on Cyber operations and security.
 

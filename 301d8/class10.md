@@ -4,7 +4,7 @@
 
 ## VPC
 
-The linked content is a good resource for learning about VPC
+The linked content is a good resource for learning about Virtual Private Networks.
 
 ## Reading
 

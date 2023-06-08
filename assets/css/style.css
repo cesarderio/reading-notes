@@ -4,7 +4,9 @@ body {
   text-align: center;
 }
 
-
+body p {
+  text-align: left;
+}
 /* span.site-footer-owner,
 span.site-footer-credits {
   display: block;

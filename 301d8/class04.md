@@ -8,7 +8,7 @@ The linked content is a great guide for ***Routing*** and ***VirtualBox network 
 
 ## Reading
 
-[VirtualBox Network Settings Guide](https://www.nakivo.com/blog/virtualbox-network-setting-guide/)
+## [VirtualBox Network Settings Guide](https://www.nakivo.com/blog/virtualbox-network-setting-guide/)
 
 Which network mode in VirtualBox can be used to emulate unplugging the Ethernet cable from the network?
 

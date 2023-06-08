@@ -8,7 +8,7 @@ The linked content is a good resource for learning about ***CIDR Block Notation*
 
 ## Reading
 
-[CIDR Block Notation Explained in 2 Minutes](https://medium.com/@acropoiesis/cidr-block-notation-explained-in-2-minutes-1010ec0dbc15)
+## [CIDR Block Notation Explained in 2 Minutes](https://medium.com/@acropoiesis/cidr-block-notation-explained-in-2-minutes-1010ec0dbc15)
 
 What is CIDR notation? a CIDR block?
 

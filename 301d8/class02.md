@@ -8,9 +8,7 @@ The linked content is a good resource for learning about ports and scanning netw
 
 ## Reading
 
-### For Lecture & Lab
-
-[What is a Port Scanner and How Does it Work?](https://www.varonis.com/blog/port-scanning-techniques/)
+## [What is a Port Scanner and How Does it Work?](https://www.varonis.com/blog/port-scanning-techniques/)
 
 What is a port? Describe it with an analogy that would help a family member understand.
 

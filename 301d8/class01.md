@@ -8,7 +8,7 @@ The linked content is a good resource for learning about the **OSI** Model and
 
 ## Reading
 
-[Layers of OSI Model](https://www.geeksforgeeks.org/layers-of-osi-model/)
+## [Layers of OSI Model](https://www.geeksforgeeks.org/layers-of-osi-model/)
 
 What does “OSI” stand for?
 

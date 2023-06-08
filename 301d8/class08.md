@@ -8,7 +8,7 @@ The linked content is a good resource for learning about what RADIUS Authenticat
 
 ## Reading
 
-[Computer Network - AAA (Authentication, Authorization and Accounting)](https://www.geeksforgeeks.org/computer-network-aaa-authentication-authorization-and-accounting/)
+## [Computer Network - AAA (Authentication, Authorization and Accounting)](https://www.geeksforgeeks.org/computer-network-aaa-authentication-authorization-and-accounting/)
 
 Explain each of the three A’s as you would to a non-technical family member. Use an analogy or a story.
 

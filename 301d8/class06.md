@@ -8,7 +8,7 @@ Below you will find some linked content and resources for learning about **Netwo
 
 ## Reading
 
-[Network Address Translation (NAT)](https://www.geeksforgeeks.org/network-address-translation-nat/)
+## [Network Address Translation (NAT)](https://www.geeksforgeeks.org/network-address-translation-nat/)
 
 What is the main purpose for implementing NAT on a network?
 

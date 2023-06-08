@@ -8,7 +8,7 @@ The linked content is a good resource for learning about **Traffic Mirroring**
 
 ## Reading
 
-[How to capture network traffic? SPAN vs TAP](https://accedian.com/blog/capture-network-traffic-span-vs-tap/)
+## [How to capture network traffic? SPAN vs TAP](https://accedian.com/blog/capture-network-traffic-span-vs-tap/)
 
 What are the differences between SPAN and TAP?
 

@@ -8,7 +8,7 @@ The content below is an introduciton to NGINX. The link below will take you to N
 
 ## Reading
 
-[What is NGINX?](https://www.nginx.com/resources/glossary/nginx/)
+## [What is NGINX?](https://www.nginx.com/resources/glossary/nginx/)
 
 What are some common use cases for NGINX?
 

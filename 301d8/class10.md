@@ -8,7 +8,7 @@ The linked content is a good resource for learning about Virtual Private Network
 
 ## Reading
 
-[What is a Virtual Private Cloud(VPC)](https://www.cloudflare.com/learning/cloud/what-is-a-virtual-private-cloud/)
+## [What is a Virtual Private Cloud(VPC)](https://www.cloudflare.com/learning/cloud/what-is-a-virtual-private-cloud/)
 
 How can one host within a VPC any services that need to be public?
 

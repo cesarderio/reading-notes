@@ -26,15 +26,15 @@ What are examples of services that would live in the publicly-accessible part of
 
 * Social media sites
 
-  The privately-accessible part?
+The privately-accessible part?
 
-  * "Backend" servers & services
+* "Backend" servers & services
 
-  * Application servers
+* Application servers
 
-  * Data processing
+* Data processing
 
-  * Database servers
+* Database servers
 
 What are the trade-offs of using a VPC vs traditional infrastructure?
 

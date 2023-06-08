@@ -14,7 +14,7 @@ What are the differences between SPAN and TAP?
 
 * **SPAN** PORT MIRRORING watches/captures (tries to) all traffic. More of a blanket, can bog down cp usage and system speed.
 
-* **TAP** TERMINAL ACCESS POINT focuses on traffic between two points in the network. More accurate, less spam/uneeded data to filter through.
+* **TAP** TERMINAL ACCESS POINT focuses on traffic between two points in the network. More accurate, less spam/unneeded data to filter through.
 
 What types of network devices can support network traffic mirroring?
 

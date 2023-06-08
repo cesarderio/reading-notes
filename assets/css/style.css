@@ -1,5 +1,5 @@
 body {
-  background-color: grey;
+  background-color: rgb(87, 85, 85);
   color: #F8F8FF; /* off-white color, you can adjust this value if needed */
   text-align: center;
 }
@@ -7,6 +7,16 @@ body {
 body p {
   text-align: left;
 }
+
+body h1,
+body h2,
+body h3,
+body img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* span.site-footer-owner,
 span.site-footer-credits {
   display: block;

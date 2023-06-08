@@ -44,4 +44,6 @@ What are the trade-offs of using a VPC vs traditional infrastructure?
 
 * Depending on public cloud services/providers and cost/availability of services.
 
+<br>
+
 ### Things I want to know more about

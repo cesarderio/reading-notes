@@ -30,6 +30,6 @@ Are there any legal or ethical considerations when using network traffic mirrori
 
 ## Videos
 
-[Logs and Monitoring](https://www.professormesser.com/network-plus/n10-008/n10-008-video/logs-and-monitoring-n10-008/)
+### [Logs and Monitoring](https://www.professormesser.com/network-plus/n10-008/n10-008-video/logs-and-monitoring-n10-008/)
 
 ### Things I want to know more about

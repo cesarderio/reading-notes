@@ -4,7 +4,7 @@
 
 ## Domain Controller
 
-The linked content and question and answers below is a good start for learning all about ***Domain Controller***
+The linked content and question and answers below is a good start for learning all about ***Domain Controller***.
 
 ## Reading
 

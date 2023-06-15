@@ -32,6 +32,6 @@ Why do diverse companies perform better?
 
 Give an example of how a diverse company can serve a diverse user base or vise-versa.
 
-* A diverse company will have better understanding of thier diverse customer base and/or thier customers will be better represented by having diverse team members from those different customer bases.
+* A diverse company will have better understanding of their diverse customer base and/or their customers will be better represented by having diverse team members from those different customer bases.
 
 ### Things I want to know more about

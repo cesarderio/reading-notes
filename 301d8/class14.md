@@ -21,7 +21,7 @@ Name and describe different ways GPOs can benefit security.
 
 * ***GPO*** (Group Policy Object)
 
-* Control one or more Active Directorys:
+* Control one or more Active Directories:
   * containers:
     * domains
     * websites

@@ -232,6 +232,240 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 </details>
 
 <br>
+<br>
+
+### Code 401 - Advanced Software Development
+
+<details>
+
+<summary> Notes </summary>
+
+<br>
+
+<a href="./401d8/The-Growth-Mindset">The Growth Mindset</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-01">Class 1 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-02">Class 2 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-03">Class 3 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-04">Class 4 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-05">Class 5 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-06">Class 6 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-07">Class 7 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-08">Class 8 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-09">Class 9 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-10">Class 10 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-11">Class 11 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-12">Class 12 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-13">Class 13 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-14">Class 14 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-15">Class 15 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-16">Class 16 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-17">Class 17 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-18">Class 18 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-19">Class 19 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-20">Class 20 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-21">Class 21 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-22">Class 22 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-23">Class 23 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-24">Class 24 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-25">Class 25 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-26">Class 26 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-27">Class 27 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-28">Class 28 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-29">Class 29 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-30">Class 30 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-31">Class 31 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-32">Class 32 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-33">Class 33 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-34">Class 34 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-35">Class 35 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-36">Class 36 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-37">Class 37 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-38">Class 38 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-39">Class 39 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-40">Class 40 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-41">Class 41 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-42">Class 42 Notes</a>
+
+<br>
+<br>
+
+<a href="./401d8/class-43">Class 43 Notes</a>
+
+<br>
+<br>
+
+</details>
+
+<br>
+<br>
 
 ### Code 102 - Intro to Software Development
 

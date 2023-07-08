@@ -234,7 +234,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 <br>
 <br>
 
-### Code 401 - Advanced Software Development
+### Ops 401 - Cybersecurity Engineering
 
 <details>
 

@@ -232,7 +232,6 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 </details>
 
 <br>
-<br>
 
 ### Ops 401 - Cybersecurity Engineering
 
@@ -464,7 +463,6 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 
 </details>
 
-<br>
 <br>
 
 ### Code 102 - Intro to Software Development
@@ -948,7 +946,7 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 </details>
 
 <br>
-<br>
+
 
 ### Growth mindset is the drive to keep learning and working forward even through setbacks
 

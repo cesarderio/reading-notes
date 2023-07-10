@@ -2,23 +2,34 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## Network Traffic Analysis with Wireshark
+## Cloud Security Principles and Frameworks
 
-The linked content is a good resource for learning about the **OSI** Model and the 7 layers that create it. There are also resources and information on Wireshark, what it is, what it can do, and how to use it.
+Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
 
 ## Reading
 
-## [Layers of OSI Model](https://www.geeksforgeeks.org/layers-of-osi-model/)
+[AWS Architecture Blog - Compute Abstractions on AWS: A Visual Story](https://aws.amazon.com/blogs/architecture/compute-abstractions-on-aws-a-visual-story/)
 
-## Videos
+Explain the levels of abstraction in AWS to someone without a technical background.
 
-[]()
-<br>
+*
 
-[]()
-<br>
+What are the control plane and data plane responsible for in container abstraction?
 
-[]()
-<br>
+*
+
+Where does AWS Lambda fall in the layers of abstraction and what makes it so special?
+
+*
+
+## Bookmark and Review
+
+* [13 Compliance Frameworks for Cloud-based Orgs](https://www.horangi.com/blog/13-compliance-frameworks-for-cloud-based-organizations)
+
+* [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/)
+
+  * [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
+
+  * [CSA Security Guidance for Cloud Computing](https://cloudsecurityalliance.org/research/guidance/)
 
 ### Things I want to know more about

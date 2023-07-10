@@ -2,23 +2,38 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## Network Traffic Analysis with Wireshark
+## Strategic Policy Development
 
-The linked content is a good resource for learning about the **OSI** Model and the 7 layers that create it. There are also resources and information on Wireshark, what it is, what it can do, and how to use it.
+Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
 
 ## Reading
 
-## [Layers of OSI Model](https://www.geeksforgeeks.org/layers-of-osi-model/)
+[The Ultimate Guide to SOC 2 Compliance](https://www.vendr.com/blog/soc-2-compliance-guide)
+
+How would you convince your future company to pursue SOC2 compliance?
+
+* I would convince my future company to pursue SOC2 compliance by showing them that using the guidelines and framework provided by SOC2 compliance can strenghten all sides of the business(s). It can and does provides the "Trust Principles" outlined below for the company itself, the service's provided, maintainance/control/security/storage of data for the company and it's customers. This benefits the company as well as the customers.
+
+What are the five SOC2 Trust Principles?
+
+* Security
+
+* Privacy
+
+* Availability
+
+* Confidentiality
+
+* Processing Integrity
+
+How would your explain the three levels of the SOC2 pyramid in an analogy your friends or former colleagues would understand?
+
+* The three levels are reports, SOC 1 is financial audit, SOC 2 is for security (report) and SOC 3 is a "layman's terms" simplified mo
 
 ## Videos
 
-[]()
-<br>
+[Security Audits - CompTIA Security+ SY0-401: 2.3](https://www.youtube.com/watch?v=FrzpyLZYKxo&ab_channel=ProfessorMesser)
 
-[]()
-<br>
-
-[]()
 <br>
 
 ### Things I want to know more about

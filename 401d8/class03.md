@@ -4,6 +4,8 @@
 
 ## Cyber Risk Analysis
 
+Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
+
 ## Reading
 
 ## [Security and Risk Management](https://resources.infosecinstitute.com/certification/security-risk-management/)

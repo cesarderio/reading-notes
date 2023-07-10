@@ -2,9 +2,9 @@
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
-## Network Traffic Analysis with Wireshark
+## N
 
-
+Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
 
 ## Reading
 

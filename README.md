@@ -247,22 +247,22 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 <br>
 <br>
 
-<a href="./401d8/class-01">Class 1 Notes</a>
+<a href="./401d8/class01">Class 1 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-02">Class 2 Notes</a>
+<a href="./401d8/class02">Class 2 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-03">Class 3 Notes</a>
+<a href="./401d8/class03">Class 3 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-04">Class 4 Notes</a>
+<a href="./401d8/class04">Class 4 Notes</a>
 
 <br>
 <br>

@@ -266,197 +266,197 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 <br>
 <br>
 
-<a href="./401d8/class-05">Class 5 Notes</a>
+<a href="./401d8/class05">Class 5 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-06">Class 6 Notes</a>
+<a href="./401d8/class06">Class 6 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-07">Class 7 Notes</a>
+<a href="./401d8/class07">Class 7 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-08">Class 8 Notes</a>
+<a href="./401d8/class08">Class 8 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-09">Class 9 Notes</a>
+<a href="./401d8/class09">Class 9 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-10">Class 10 Notes</a>
+<a href="./401d8/class10">Class 10 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-11">Class 11 Notes</a>
+<a href="./401d8/class11">Class 11 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-12">Class 12 Notes</a>
+<a href="./401d8/class12">Class 12 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-13">Class 13 Notes</a>
+<a href="./401d8/class13">Class 13 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-14">Class 14 Notes</a>
+<a href="./401d8/class14">Class 14 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-15">Class 15 Notes</a>
+<a href="./401d8/class15">Class 15 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-16">Class 16 Notes</a>
+<a href="./401d8/class16">Class 16 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-17">Class 17 Notes</a>
+<a href="./401d8/class17">Class 17 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-18">Class 18 Notes</a>
+<a href="./401d8/class18">Class 18 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-19">Class 19 Notes</a>
+<a href="./401d8/class19">Class 19 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-20">Class 20 Notes</a>
+<a href="./401d8/class20">Class 20 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-21">Class 21 Notes</a>
+<a href="./401d8/class21">Class 21 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-22">Class 22 Notes</a>
+<a href="./401d8/class22">Class 22 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-23">Class 23 Notes</a>
+<a href="./401d8/class23">Class 23 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-24">Class 24 Notes</a>
+<a href="./401d8/class24">Class 24 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-25">Class 25 Notes</a>
+<a href="./401d8/class25">Class 25 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-26">Class 26 Notes</a>
+<a href="./401d8/class26">Class 26 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-27">Class 27 Notes</a>
+<a href="./401d8/class27">Class 27 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-28">Class 28 Notes</a>
+<a href="./401d8/class28">Class 28 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-29">Class 29 Notes</a>
+<a href="./401d8/class29">Class 29 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-30">Class 30 Notes</a>
+<a href="./401d8/class30">Class 30 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-31">Class 31 Notes</a>
+<a href="./401d8/class31">Class 31 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-32">Class 32 Notes</a>
+<a href="./401d8/class32">Class 32 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-33">Class 33 Notes</a>
+<a href="./401d8/class33">Class 33 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-34">Class 34 Notes</a>
+<a href="./401d8/class34">Class 34 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-35">Class 35 Notes</a>
+<a href="./401d8/class35">Class 35 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-36">Class 36 Notes</a>
+<a href="./401d8/class36">Class 36 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-37">Class 37 Notes</a>
+<a href="./401d8/class37">Class 37 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-38">Class 38 Notes</a>
+<a href="./401d8/class38">Class 38 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-39">Class 39 Notes</a>
+<a href="./401d8/class39">Class 39 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-40">Class 40 Notes</a>
+<a href="./401d8/class40">Class 40 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-41">Class 41 Notes</a>
+<a href="./401d8/class41">Class 41 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-42">Class 42 Notes</a>
+<a href="./401d8/class42">Class 42 Notes</a>
 
 <br>
 <br>
 
-<a href="./401d8/class-43">Class 43 Notes</a>
+<a href="./401d8/class43">Class 43 Notes</a>
 
 <br>
 <br>

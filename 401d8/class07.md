@@ -1,4 +1,4 @@
-# Class 02 reading notes
+# Class 07 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
@@ -21,3 +21,7 @@ Explain the role data encryption with regards to the CIA triad.
 * Encyrption ensures sensitive data stays "confidential" and only accessable by authorized users.
 
 * Encryption makes data "unreadable" and can be accessed by users with the correct permissions/keys/etc..
+
+<br>
+
+### Things I want to know more about

@@ -246,6 +246,11 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 <br>
 <br>
 
+<a href="./401d8/Why.md">Your Why</a>
+
+<br>
+<br>
+
 <a href="./401d8/class01">Class 1 Notes</a>
 
 <br>

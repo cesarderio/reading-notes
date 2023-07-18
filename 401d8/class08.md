@@ -12,7 +12,7 @@ Below you will find reading materials and additional resources that support toda
 
 How would you convince your organization about the importance of implementing a DLP solution?
 
-* I would idtenify and explain the risk of data loss and possible possible improvements we could implement. Outlining threats, cost and benefits would show that the improvements would benefit multiple levels of the organization.
+* I would identify and explain the risk of data loss and possible possible improvements we could implement. Outlining threats, cost and benefits would show that the improvements would benefit multiple levels of the organization.
 
 How would you explain the three main use cases for DLP to friends or family?
 
@@ -20,4 +20,4 @@ How would you explain the three main use cases for DLP to friends or family?
 
 * Following Rules and Regulations: Helps orgs keep inline with data protection laws and meet requirements. This can help organizations avoid penalties and legal issues related to mishandling data.
 
-* Preventing Internal Threats: Identifies and stops insider threats inside organization. User actions and behavours are monitored for misuse or dangerous data protection violations.
+* Preventing Internal Threats: Identifies and stops insider threats inside organization. User actions and behaviors are monitored for misuse or dangerous data protection violations.

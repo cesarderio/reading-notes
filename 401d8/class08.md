@@ -21,3 +21,7 @@ How would you explain the three main use cases for DLP to friends or family?
 * Following Rules and Regulations: Helps orgs keep inline with data protection laws and meet requirements. This can help organizations avoid penalties and legal issues related to mishandling data.
 
 * Preventing Internal Threats: Identifies and stops insider threats inside organization. User actions and behaviors are monitored for misuse or dangerous data protection violations.
+
+<br>
+
+### Things I want to know more about

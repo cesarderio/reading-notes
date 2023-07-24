@@ -1,4 +1,4 @@
-# Class 09 reading notes
+# Class 11 reading notes
 
 #### [HOME](https://cesarderio.github.io/reading-notes/)
 
@@ -14,7 +14,7 @@ Below you will find reading materials and additional resources that support toda
 
 How would a security team benefit from implementing a SOAR solution?
 
-* Automation can be implemented to take care of repeated jobs and tasks so that cybersecutiry team members can focus on high level security issues, work, tickets, etc..
+* Automation can be implemented to take care of repeated jobs and tasks so that cybersecurity team members can focus on high level security issues, work, tickets, etc..
   * *Engineering and Architecture: Automation will allow the cybersecurity team to focus on designing and implementing cybersecurity strategies, including initiatives such as zero trust and cyber hygiene within the enterprise.*
   * *Remediation Activities: The identified deficiencies from your automation efforts will assist your technical and mission teams by providing more repeatable and actionable insight into the enterprise environment leading to fewer vulnerabilities.*
   * *Automation Development and Engineering: Automation will become an important part of the cybersecurity program requiring its own resources related to ongoing and iterative automation design and implementation.*

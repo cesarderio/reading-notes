@@ -15,27 +15,25 @@ Below you will find reading materials and additional resources that support toda
 
 What is one of the major advantages of PowerShell Empire?
 
-*
+* *PowerShell Empire* uses encrypted communication with the "Command & Control server" - this makes it's traffic less detectable.
 
 What are some of the APT groups that have been known to use PS Empire and into which step of the Cyber Kill Chain does the use of PS Empire fall?
 
-*
+* *Hades*
+* *FIN7*
+* *Trickbot-Ryuk partnership*
 
-*
-
-*
-
-*
+* *Command & Control*
 
 What are the four main components needed to pull off an attack using PS Empire?
 
-*
+* *Listener(s)*
 
-*
+* *Stager(s)*
 
-*
+* *Agent(s)*
 
-*
+* *Module(s)*
 
 ## Bookmark and Review
 

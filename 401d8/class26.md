@@ -14,7 +14,7 @@ Below you will find reading materials and additional resources that support toda
 
 You just got a new job as a Cyber Threat Analyst, how would you explain your role to a family member?
 
-* I record, study, audit, research, monitor threat or anomalist events to the companies networks and data structures. To inlclude office pcs, servers, and services to the companies as well as the end users.
+* I record, study, audit, research, monitor threat or anomalist events to the companies networks and data structures. To include office pcs, servers, and services to the companies as well as the end users.
 
 Explain what makes PowerShell such an effective attack vector.
 

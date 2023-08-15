@@ -16,9 +16,7 @@ Review the Submission Instructions for guidance on completing and submitting thi
 
 Explain threat modeling using real-world non-technical examples.
 
-*
-
-**Threat modeling is a process for capturing, organizing, and analyzing all of this information. Applied to software, it enables informed decision-making about application security risks. In addition to producing a model, typical threat modeling efforts also produce a prioritized list of security improvements to the concept, requirements, design, or implementation of an application.**
+* Threat Modeling is Cyber Security/Operations way of gathering reconnaissance, data and information on its Security Policy, standards, strengths, weaknesses, possible threats, attacks, and/or scenarios where they can improve their security policies as well as possible points of ingress for attackers.
 
 What are the four questions that can help us organize threat modeling?
 

@@ -22,7 +22,7 @@ What are three methods by which you can clear logs in a Windows system?
 
 * *Meterpreter*
 
-* Windows Event Viewer*
+* *Windows Event Viewer*
 
 What are the four steps in the process of covering your tracks.
 

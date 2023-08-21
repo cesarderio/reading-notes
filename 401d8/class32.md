@@ -10,9 +10,13 @@ Below you will find reading materials and additional resources that support toda
 
 [What is Malware Analysis?](https://www.toolbox.com/security/data-security/articles/what-is-malware-analysis-definition-types-stages-best-practices/)
 
+<br>
+
 You just started a new job as a Malware Analyst. Explain your job responsibilities to a family member.
 
 * As a ***Malware Analyst*** I am like a detective. I study, research, audit, etc.. to find out how the malware go into the infected pcs/systems. I study how they work, what they did, what affect they had on the system, tactics in hiding and avoiding alerts and notifications of attacks.
+
+<br>
 
 What are the six steps of the Malware Analysis process? What’s a good mnemonic you can use to remember it?
 
@@ -28,14 +32,23 @@ What are the six steps of the Malware Analysis process? What’s a good mnemonic
 
 * *Document the results*
 
+<br>
 *C*apture
+<br>
 *B*uild
+<br>
 *I*nstall
+<br>
 *R*ecord
+<br>
 *C*ommence
+<br>
 *D*ocument
+<br>
 
 *This may not be a "complete sentence", but to me this makes more sense than trying to remember different words and adding words when I can just remember this.*
+
+<br>
 
 You are tasked with analyzing a new malware sample. Which type of malware analysis would you conduct first and why?
 

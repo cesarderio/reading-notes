@@ -34,27 +34,27 @@ What are the six steps of the Malware Analysis process? What’s a good mnemonic
 
 <br>
 
-***C***apture
+***C*** *apture*
 
 <br>
 
-***B***uild
+***B*** *uild*
 
 <br>
 
-***I***nstall
+***I*** *nstall*
 
 <br>
 
-***R***ecord
+***R*** *ecord*
 
 <br>
 
-***C***ommence
+***C*** *ommence*
 
 <br>
 
-***D***ocument
+***D*** *ocument*
 
 <br>
 

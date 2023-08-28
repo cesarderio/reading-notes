@@ -18,6 +18,7 @@ How are Threat Hunting and Pentesting different?
 What is the primary objective of Threat Hunting?
 
 * The primary objective is to actively search/hunt for signs of malicious activities within a given network(s) and/or system(s).
+  * IOC - Indicators of compromise
 
 Your organization has a fully functioning SOC but not active Threat Hunting. How would you advocate for your security organization to start Threat Hunting activities?
 

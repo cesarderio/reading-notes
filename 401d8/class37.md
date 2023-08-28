@@ -6,6 +6,8 @@
 
 Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
 
+<br>
+
 ## Reading
 
 [Getting Started with Zed Attack Proxy](https://www.zaproxy.org/getting-started/)
@@ -37,6 +39,8 @@ What situations are they best suited for?
 * ***(OWASP) Traditional Spider*** - Best for websites that have pages linked together, much like chapters in a book.
 
 * ***AJAX Spider*** - Best for websites that change and show new content without loading a whole new page, like when you scroll on social media.
+
+<br>
 
 ## Bookmark & Review
 

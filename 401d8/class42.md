@@ -22,19 +22,19 @@ Name the six credential-gathering techniques which Mimikatz is able to perform a
 
 * ***Kerberoast Silver Tickets***: ***Kerberos*** grants a user ***TGS*** ticket that is used to log into any services on the network.
 
-* ***Pass-the-cache***: Similar to ***Pass the Ticket***, but uses saved and exrypted login data on Mac/UNIX/Linux systems.
+* ***Pass-the-cache***: Similar to ***Pass the Ticket***, but uses saved and encrypted login data on Mac/UNIX/Linux systems.
 
 <br>
 
 What are four ways we can defend against Mimikatz attacks. Explain how two of the mitigations can stop Mimikatz.
 
-* Change admin privileges: Limiting admin privileges to only users who need them.
+* ***Change admin privileges***: Limiting admin privileges to only users who need them.
 
-* Change caching policy: Limiting caching and saved passwords/keys/tickets/etc..
+* ***Change caching policy***: Limiting caching and saved passwords/keys/tickets/etc..
 
-* Turn off debugging privileges: Limiting debugging and access to the system.
+* ***Turn off debugging privileges***: Limiting debugging and access to the system.
 
-* Increase local security authority: Limiting access and control over the network and system.
+* ***Increase local security authority***: Limiting access and control over the network and system.
 
 All of these limit and/or decrease possible security vulnerabilities and exploits that can be used by ***Mimikatz***.
 

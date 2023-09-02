@@ -466,6 +466,11 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 <br>
 <br>
 
+<a href="./401d8/class44">Class 44 Notes</a>
+
+<br>
+<br>
+
 </details>
 
 <br>

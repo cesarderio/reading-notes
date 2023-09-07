@@ -45,10 +45,10 @@ CQURETutorial  Seattle-Ops-401d8: Lab42
 * Set up a controlled lab environment if you're practicing. Never test on unauthorized systems!
 
 <!-- <img src="./assets/img/RC.JPEG" width="300" height="250"> -->
-<img src="../assets/img/ping1lab42.png" width="300">
+<img src="../assets/img/ping1lab42.png" width="400">
 <!-- ![Ping target 1 > 2](../assets/img/ping1lab42.png) -->
 
-<img src="../assets/img/ping2lab42.png" width="300">
+<img src="../assets/img/ping2lab42.png" width="400">
 <!-- ![Ping target 2 > 1](../assets/img/ping2lab42.png) -->
 
 ### Obtain the Hash
@@ -59,7 +59,8 @@ CQURETutorial  Seattle-Ops-401d8: Lab42
 
 * Here we use `CQHashDumbv2.exe /samdump` from our Tools directory where we have this script available to us in this virtual machine:
 
-![CQHashDumpv2.exe /samdump](../assets/img/cqhashdumplab42.png)
+<img src="../assets/img/cqhashdumplab42.png" width="400">
+<!-- ![CQHashDumpv2.exe /samdump](../assets/img/cqhashdumplab42.png) -->
 
 ### Identify Your Target
 
@@ -67,7 +68,8 @@ CQURETutorial  Seattle-Ops-401d8: Lab42
 
 * For this tutorial we have our “target2” virtual machine with an IP of 10.0.2.10.
 
-![Target](../assets/img/targetlab42.png)
+<img src="../assets/img/targetlab42.png" width="400">
+<!-- ![Target](../assets/img/targetlab42.png) -->
 
 ### Use the Hash for Authentication
 
@@ -77,11 +79,14 @@ CQURETutorial  Seattle-Ops-401d8: Lab42
 
    Example:  sekurlsa::pth /user:Administrator /domain:target_domain /ntlm:[NTLM_HASH]
 
-![Start MimiKatz](../assets/img/mimikatz1lab42.png)
+<img src="../assets/img/mimikatz1lab42.png" width="400">
+<!-- ![Start MimiKatz](../assets/img/mimikatz1lab42.png) -->
 
-![Run Pass the Hash](../assets/img/mimikatz2lab42.png)
+<img src="../assets/img/mimikatz2lab42.png" width="400">
+<!-- ![Run Pass the Hash](../assets/img/mimikatz2lab42.png) -->
 
-![PsExec.exe](../assets/img/psexeclab42.png)
+<img src="../assets/img/psexeclab42.png" width="400">
+<!-- ![PsExec.exe](../assets/img/psexeclab42.png) -->
 
 ### Access Granted (or Denied)
 
@@ -89,17 +94,21 @@ CQURETutorial  Seattle-Ops-401d8: Lab42
 
 * If not, it could be due to various reasons, like incorrect hash, insufficient permissions, or security mechanisms blocking the attempt.
 
-![PsExec.exe execute Remote command](../assets/img/psexec2lab42.png)
+<img src="../assets/img/psexec2lab42.png" width="400">
+<!-- ![PsExec.exe execute Remote command](../assets/img/psexec2lab42.png) -->
 
 ### Post-Exploitation
 
 * Once you have access, you can perform actions that the user account is permitted to do. This might mean accessing files, running commands, or installing software.
 
-![Expliot 1](../assets/img/expliot1lab42.png)
+<img src="../assets/img/expliot1lab42.png" width="400">
+<!-- ![Expliot 1](../assets/img/expliot1lab42.png) -->
 
-![Expliot 2](../assets/img/expliot2lab42.png)
+<img src="../assets/img/expliot2lab42.png" width="400">
+<!-- ![Expliot 2](../assets/img/expliot2lab42.png) -->
 
-![Expliot 3](../assets/img/expliot3lab42.png)
+<img src="../assets/img/expliot3lab42.png" width="400">
+<!-- ![Expliot 3](../assets/img/expliot3lab42.png) -->
 
 <br>
 

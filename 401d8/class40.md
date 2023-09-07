@@ -44,9 +44,12 @@ CQURETutorial  Seattle-Ops-401d8: Lab42
 * Ensure you have the necessary tools. Mimikatz is commonly used for this.
 * Set up a controlled lab environment if you're practicing. Never test on unauthorized systems!
 
-![Ping target 1 > 2](../assets/img/ping1lab42.png)
+<!-- <img src="./assets/img/RC.JPEG" width="300" height="250"> -->
+<img src="../assets/img/ping1lab42.png" width="300">
+<!-- ![Ping target 1 > 2](../assets/img/ping1lab42.png) -->
 
-![Ping target 2 > 1](../assets/img/ping2lab42.png)
+<img src="../assets/img/ping2lab42.png" width="300">
+<!-- ![Ping target 2 > 1](../assets/img/ping2lab42.png) -->
 
 ### Obtain the Hash
 

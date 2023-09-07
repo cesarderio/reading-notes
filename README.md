@@ -461,6 +461,11 @@ Hi my name is **Raphael**! I am a veteran, father, fashion photographer and cert
 <br>
 <br>
 
+<a href="./401d8/class40">MimiKatz Blogpost</a>
+
+<br>
+<br>
+
 <a href="./401d8/class43">Class 43 Notes</a>
 
 <br>

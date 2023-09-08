@@ -1,16 +1,40 @@
-# Class 35 reading notes
+# Ataque R Security
 
-#### [HOME](https://cesarderio.github.io/reading-notes/)
+Ataque RS
+Ataque S
 
-##
+Recon - Reconnaissance
+Rapid Security
+Research Security
 
-Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
+## A \* T \* A \* Q \* U \* E
 
-## Reading
+* Adaptive
+* Threat
+* Analysis
+* Quick
+* Understanding
+* Engine
 
-[]()
+* Always
+* Testing
+* And
+* Questioning
+* Uncertain
+* Environments
 
+* Anti
+* Threat
+* Analysis
+* Questioning
+* Uncertain
+* Environments
 
-<br>
-
-### Things I want to know more about
+* Anti
+* Threat
+* Analysis
+* Quick
+* Update
+* Equipment/Environment(s)
+* Research
+* Standards

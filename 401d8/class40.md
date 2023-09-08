@@ -1,7 +1,5 @@
 # The Ultimate Definitive Incomplete Guide to "Passing the Hash" with MimiKatz
 
-#### [HOME](https://cesarderio.github.io/reading-notes/)
-
 This is the most complete and comprehensive guide to learning about MimiKatz and how to run a “Pass the Hash” attack. Our guide will take you step by step from “beginner” to “amateur” to “I think I understand” in no time at all!
 
 <br>

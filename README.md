@@ -2,6 +2,8 @@
 
 <img src="./assets/img/freview.png" width="300">
 
+<!-- ![](./assets/img/freview.png) -->
+
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack JavaScript software engineer. Now I am focusing on Cyber operations and security.
 
 ### Ops 102 - Intro to Computer Operations

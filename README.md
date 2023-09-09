@@ -1,5 +1,7 @@
 <img src="./assets/img/RC.JPEG" width="300" height="250">
 
+<img src="./assets/img/freview.png" width="300">
+
 Hi my name is **Raphael**! I am a veteran, father, fashion photographer and certified full-stack JavaScript software engineer. Now I am focusing on Cyber operations and security.
 
 ### Ops 102 - Intro to Computer Operations

@@ -1,6 +1,6 @@
-<img src="./assets/img/RC.JPEG" width="300" height="250">
+<img src="./assets/img/RC.JPEG" width="400" height="375">
 
-<img src="./assets/img/freview.png" width="300">
+<img src="./assets/img/freview.png" width="400">
 
 <!-- ![](./assets/img/freview.png) -->
 

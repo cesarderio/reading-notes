@@ -1,4 +1,4 @@
-<img src="./assets/img/RC.JPEG" width="400" height="375">
+<img src="./assets/img/RC.JPEG" width="400" height="360">
 
 <img src="./assets/img/freview.png" width="400">
 
